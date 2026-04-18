@@ -20,9 +20,7 @@ import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun4.api.researches.Research;
 import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.collections.Pair;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.updater.GitHubBuildsUpdater;
 import io.github.thebusybiscuit.slimefun4.utils.ChatUtils;
 
 /**
@@ -38,12 +36,6 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
-        Config cfg = new Config(this);
-
-        if (cfg.getBoolean("options.auto-update") && getDescription().getVersion().startsWith("DEV - ")) {
-            new GitHubBuildsUpdater(this, getFile(), "TheBusyBiscuit/ExtraGear/master").start();
-        }
-
         new Metrics(this, 6469);
 
         itemGroup = new ItemGroup(new NamespacedKey(this, "items"), CustomItemStack.create(Material.DIAMOND_SWORD, "\u00a76ExtraGear"), 1);
