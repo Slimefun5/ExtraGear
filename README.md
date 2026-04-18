@@ -1,25 +1,21 @@
 # ExtraGear
-ExtraGear is one of the oldest Slimefun addons in existence.<br>
-The features are pretty simple, it adds new weapons and armor sets for various Slimefun ingots/alloys.
-These weapons and armor sets also come with enchantments!
+[![License: GPL-3.0](https://img.shields.io/github/license/TheBusyBiscuit/ExtraGear)](LICENSE)
+[![Discord](https://img.shields.io/discord/474002936186101762?color=blue&logo=discord)](https://discord.gg/slimefun)
 
-## Download ExtraGear
-You can download ExtraGear right here: [Development Builds](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraGear/master/)
+ExtraGear is a [Slimefun5](https://github.com/Slimefun5/Slimefun5) addon that adds extra armor sets and tools crafted from the metals available in Slimefun.
 
-<p align="center">
-  <a href="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraGear/master/">
-    <img src="https://thebusybiscuit.github.io/builds/TheBusyBiscuit/ExtraGear/master/badge.svg" alt="Build Server"/>
-  </a>
-</p>
+## :floppy_disk: Installation
 
-## Discord
-You can find Slimefun's community on Discord!
-Click the badge down below to join the server for suggestions/questions or other discussions about this plugin.
-<p align="center">
-  <a href="https://discord.gg/fsD4Bkh">
-    <img src="https://img.shields.io/discord/565557184348422174?color=7289DA&label=Discord&style=for-the-badge" alt="Discord Invite"/>
-  </a>
-</p>
+| ExtraGear | Slimefun5 | Minecraft |
+|-----------|-----------|-----------|
+| 1.0.0     | 5.0.0+    | 1.21.x    |
 
-## Open Source
-This Project is open-source and licensed under the [GPL-3.0 License](https://github.com/TheBusyBiscuit/ExtraGear/blob/master/LICENSE)
+Download the latest release and place it in your server's `plugins/` folder. Slimefun5 must be installed first.
+
+## :beetle: Bug Reports
+
+Please report bugs via the [GitHub Issues](https://github.com/TheBusyBiscuit/ExtraGear/issues) page.
+
+## :open_book: Contributing
+
+Contributions are welcome! Please read the [Slimefun5 Contributing Guidelines](https://github.com/Slimefun5/Slimefun5/blob/master/CONTRIBUTING.md) before submitting a pull request.
