@@ -147,3 +147,4 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
     }
 
 }
+
