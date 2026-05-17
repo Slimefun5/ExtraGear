@@ -12,15 +12,9 @@ A Slimefun addon that adds extra armor sets and gear with unique abilities.
 - Paper 1.16.* - 26.1.*
 - Slimefun 5
 
-## :floppy_disk: Installation
-
-| 1.0.0     | 5.0.0+    | 1.21.x    |
-
-Download the latest release and place it in your server's `plugins/` folder. Slimefun5 must be installed first.
-
 ## :beetle: Bug Reports
 
-Please report bugs via the [GitHub Issues](https://github.com/TheBusyBiscuit/ExtraGear/issues) page.
+Please report bugs via the [GitHub Issues](https://github.com/Slimefun5/ExtraGear/issues) page.
 
 ## :open_book: Contributing
 
