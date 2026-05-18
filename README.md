@@ -12,6 +12,16 @@ A Slimefun addon that adds extra armor sets and gear with unique abilities.
 - Paper 1.16.* - 26.1.*
 - Slimefun 5
 
+ExtraGear adds extra armor sets and tools crafted from the metals available in Slimefun.
+
+## :floppy_disk: Installation
+
+| ExtraGear | Slimefun5 | Minecraft |
+|-----------|-----------|-----------|
+| UNOFFICIAL | 5.0.0+   | 1.21.x    |
+
+Download the latest release and place it in your server's `plugins/` folder. Slimefun5 must be installed first.
+
 ## :beetle: Bug Reports
 
 Please report bugs via the [GitHub Issues](https://github.com/Slimefun5/ExtraGear/issues) page.
@@ -32,6 +42,6 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.2")
+    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.1")
 }
 ```
