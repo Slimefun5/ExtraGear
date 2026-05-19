@@ -5,12 +5,12 @@ import java.util.List;
 
 import javax.annotation.Nonnull;
 
-import org.bstats.bukkit.Metrics;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
+import dev.walshy.sfmetrics.MetricsModule;
 
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
@@ -36,8 +36,9 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
-        new Metrics(this, 6469);
+        MetricsModule.setup(this, 6469);
 
+        
         itemGroup = new ItemGroup(new NamespacedKey(this, "items"), CustomItemStack.create(Material.DIAMOND_SWORD, "\u00a76ExtraGear"), 1);
 
         registerSword(Material.IRON_SWORD, "COPPER", SlimefunItems.COPPER_INGOT, Arrays.asList(new Pair<>(Enchantment.SMITE, 2)));
