@@ -68,7 +68,7 @@ tasks {
 
     shadowJar {
         relocate("org.bstats", "extragear.libs.bstats")
-        archiveFileName.set("ExtraGear v${project.version}.jar")
+        archiveFileName.set("ExtraGear-1.0.0-UNOFFICIAL.jar")
                 exclude("META-INF/**")
     }
 
