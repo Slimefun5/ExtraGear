@@ -1,0 +1,29 @@
+# German item translations for ExtraGear. Keyed by Slimefun item id.
+# name = display name, lore = list of lines, '&' colour codes. Missing items fall back to English.
+
+COPPER_SWORD:
+  name: "&rKupferschwert"
+
+STEEL_SWORD:
+  name: "&rStahlschwert"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rDamaszener-Stahlschwert"
+
+REINFORCED_SWORD:
+  name: "&rVerstärktes Schwert"
+
+COBALT_SWORD:
+  name: "&rKobaltschwert"
+
+COPPER_HELMET:
+  name: "&fKupferhelm"
+
+COPPER_CHESTPLATE:
+  name: "&fKupferharnisch"
+
+STEEL_CHESTPLATE:
+  name: "&fStahlharnisch"
+
+COBALT_CHESTPLATE:
+  name: "&fKobaltharnisch"

@@ -1,0 +1,29 @@
+# Spanish item translations for ExtraGear. Keyed by Slimefun item id.
+# name = display name, lore = list of lines, '&' colour codes. Missing items fall back to English.
+
+COPPER_SWORD:
+  name: "&rEspada de cobre"
+
+STEEL_SWORD:
+  name: "&rEspada de acero"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rEspada de acero de Damasco"
+
+REINFORCED_SWORD:
+  name: "&rEspada reforzada"
+
+COBALT_SWORD:
+  name: "&rEspada de cobalto"
+
+COPPER_HELMET:
+  name: "&fCasco de cobre"
+
+COPPER_CHESTPLATE:
+  name: "&fPechera de cobre"
+
+STEEL_CHESTPLATE:
+  name: "&fPechera de acero"
+
+COBALT_CHESTPLATE:
+  name: "&fPechera de cobalto"

@@ -1,0 +1,29 @@
+# French item translations for ExtraGear. Keyed by Slimefun item id.
+# name = display name, lore = list of lines, '&' colour codes. Missing items fall back to English.
+
+COPPER_SWORD:
+  name: "&rÉpée en cuivre"
+
+STEEL_SWORD:
+  name: "&rÉpée en acier"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rÉpée en acier de Damas"
+
+REINFORCED_SWORD:
+  name: "&rÉpée renforcée"
+
+COBALT_SWORD:
+  name: "&rÉpée en cobalt"
+
+COPPER_HELMET:
+  name: "&fCasque en cuivre"
+
+COPPER_CHESTPLATE:
+  name: "&fPlastron en cuivre"
+
+STEEL_CHESTPLATE:
+  name: "&fPlastron en acier"
+
+COBALT_CHESTPLATE:
+  name: "&fPlastron en cobalt"
