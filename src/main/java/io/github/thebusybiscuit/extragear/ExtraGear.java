@@ -1,5 +1,6 @@
 package io.github.thebusybiscuit.extragear;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -16,6 +17,8 @@ import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun5.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.api.researches.Research;
+import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiText;
+import io.github.thebusybiscuit.slimefun5.core.guide.wiki.WikiTopic;
 import io.github.thebusybiscuit.slimefun5.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun5.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.collections.Pair;
@@ -85,6 +88,35 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
         // Contribute this addon's per-language item translations (languages/<lang>/items.yml).
         Slimefun.getItemTranslationService().registerTranslations(this);
+
+        // Register this addon's own in-game wiki page (core does not auto-generate addon wikis).
+        registerWiki();
+    }
+
+    private void registerWiki() {
+        WikiText wiki = Slimefun.getWikiText();
+        String topicId = "addon_extragear";
+
+        wiki.registerTopic(new WikiTopic(topicId, "ExtraGear", XMaterial.DIAMOND_CHESTPLATE, "&7Extra tools and armor sets"));
+        wiki.setMechanic(topicId, Arrays.asList(
+            "&7Extra tools and armor sets.", "",
+            "&7Swords and full armor sets forged", "&7from Slimefun's metals and alloys, each", "&7with their own built-in enchantments.", "",
+            "&7Click an item below for its recipe."));
+
+        // Collect this addon's own items dynamically - never hardcode item lists.
+        List<String> items = new ArrayList<>();
+
+        for (SlimefunItem item : Slimefun.getRegistry().getEnabledSlimefunItems()) {
+            try {
+                if (item.getAddon() == this) {
+                    items.add(item.getId());
+                }
+            } catch (Exception | LinkageError ignored) {
+                // A broken item should not break wiki registration.
+            }
+        }
+
+        wiki.setTopicItems(topicId, items);
     }
 
     private void registerSword(@Nonnull XMaterial type, @Nonnull String component, @Nonnull SlimefunItemStack item, @Nonnull List<Pair<Enchantment, Integer>> enchantments) {
