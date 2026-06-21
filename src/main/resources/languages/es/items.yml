@@ -1,29 +1,178 @@
-# Spanish item translations for ExtraGear. Keyed by Slimefun item id.
-# name = display name, lore = list of lines, '&' colour codes. Missing items fall back to English.
+# ExtraGear item translations (es). name only; '&' colour codes preserved.
 
 COPPER_SWORD:
-  name: "&rEspada de cobre"
+  name: "&rCobre Espada"
+
+TIN_SWORD:
+  name: "&rEstaño Espada"
+
+SILVER_SWORD:
+  name: "&rPlata Espada"
+
+ALUMINUM_SWORD:
+  name: "&rAluminio Espada"
+
+LEAD_SWORD:
+  name: "&rPlomo Espada"
+
+ZINC_SWORD:
+  name: "&rZinc Espada"
+
+MAGNESIUM_SWORD:
+  name: "&rMagnesio Espada"
 
 STEEL_SWORD:
-  name: "&rEspada de acero"
+  name: "&rAcero Espada"
+
+BRONZE_SWORD:
+  name: "&rBronce Espada"
+
+DURALUMIN_SWORD:
+  name: "&rDuraluminio Espada"
+
+BILLON_SWORD:
+  name: "&rVellón Espada"
+
+BRASS_SWORD:
+  name: "&rLatón Espada"
+
+ALUMINUM_BRASS_SWORD:
+  name: "&rLatón de aluminio Espada"
+
+ALUMINUM_BRONZE_SWORD:
+  name: "&rBronce de aluminio Espada"
+
+CORINTHIAN_BRONZE_SWORD:
+  name: "&rBronce corintio Espada"
+
+SOLDER_SWORD:
+  name: "&rSoldadura Espada"
 
 DAMASCUS_STEEL_SWORD:
-  name: "&rEspada de acero de Damasco"
+  name: "&rAcero de Damasco Espada"
+
+HARDENED_SWORD:
+  name: "&rMetal endurecido Espada"
 
 REINFORCED_SWORD:
-  name: "&rEspada reforzada"
+  name: "&rReforzado Espada"
+
+FERROSILICON_SWORD:
+  name: "&rFerrosilicio Espada"
+
+GILDED_IRON_SWORD:
+  name: "&rHierro dorado Espada"
+
+NICKEL_SWORD:
+  name: "&rNíquel Espada"
 
 COBALT_SWORD:
-  name: "&rEspada de cobalto"
+  name: "&rCobalto Espada"
 
 COPPER_HELMET:
-  name: "&fCasco de cobre"
+  name: "&fCobre Casco"
 
 COPPER_CHESTPLATE:
-  name: "&fPechera de cobre"
+  name: "&fCobre Peto"
+
+COPPER_LEGGINGS:
+  name: "&fCobre Grebas"
+
+COPPER_BOOTS:
+  name: "&fCobre Botas"
+
+TIN_HELMET:
+  name: "&fEstaño Casco"
+
+TIN_CHESTPLATE:
+  name: "&fEstaño Peto"
+
+TIN_LEGGINGS:
+  name: "&fEstaño Grebas"
+
+TIN_BOOTS:
+  name: "&fEstaño Botas"
+
+SILVER_HELMET:
+  name: "&fPlata Casco"
+
+SILVER_CHESTPLATE:
+  name: "&fPlata Peto"
+
+SILVER_LEGGINGS:
+  name: "&fPlata Grebas"
+
+SILVER_BOOTS:
+  name: "&fPlata Botas"
+
+ALUMINUM_HELMET:
+  name: "&fAluminio Casco"
+
+ALUMINUM_CHESTPLATE:
+  name: "&fAluminio Peto"
+
+ALUMINUM_LEGGINGS:
+  name: "&fAluminio Grebas"
+
+ALUMINUM_BOOTS:
+  name: "&fAluminio Botas"
+
+LEAD_HELMET:
+  name: "&fPlomo Casco"
+
+LEAD_CHESTPLATE:
+  name: "&fPlomo Peto"
+
+LEAD_LEGGINGS:
+  name: "&fPlomo Grebas"
+
+LEAD_BOOTS:
+  name: "&fPlomo Botas"
+
+ZINC_HELMET:
+  name: "&fZinc Casco"
+
+ZINC_CHESTPLATE:
+  name: "&fZinc Peto"
+
+ZINC_LEGGINGS:
+  name: "&fZinc Grebas"
+
+ZINC_BOOTS:
+  name: "&fZinc Botas"
+
+MAGNESIUM_HELMET:
+  name: "&fMagnesio Casco"
+
+MAGNESIUM_CHESTPLATE:
+  name: "&fMagnesio Peto"
+
+MAGNESIUM_LEGGINGS:
+  name: "&fMagnesio Grebas"
+
+MAGNESIUM_BOOTS:
+  name: "&fMagnesio Botas"
+
+STEEL_HELMET:
+  name: "&fAcero Casco"
 
 STEEL_CHESTPLATE:
-  name: "&fPechera de acero"
+  name: "&fAcero Peto"
+
+STEEL_LEGGINGS:
+  name: "&fAcero Grebas"
+
+STEEL_BOOTS:
+  name: "&fAcero Botas"
+
+COBALT_HELMET:
+  name: "&fCobalto Casco"
 
 COBALT_CHESTPLATE:
-  name: "&fPechera de cobalto"
+  name: "&fCobalto Peto"
+
+COBALT_LEGGINGS:
+  name: "&fCobalto Grebas"
+
+COBALT_BOOTS:
+  name: "&fCobalto Botas"

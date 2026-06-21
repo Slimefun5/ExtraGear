@@ -1,0 +1,178 @@
+# ExtraGear item translations (ru). name only; '&' colour codes preserved.
+
+COPPER_SWORD:
+  name: "&rМедь Меч"
+
+TIN_SWORD:
+  name: "&rОлово Меч"
+
+SILVER_SWORD:
+  name: "&rСеребро Меч"
+
+ALUMINUM_SWORD:
+  name: "&rАлюминий Меч"
+
+LEAD_SWORD:
+  name: "&rСвинец Меч"
+
+ZINC_SWORD:
+  name: "&rЦинк Меч"
+
+MAGNESIUM_SWORD:
+  name: "&rМагний Меч"
+
+STEEL_SWORD:
+  name: "&rСталь Меч"
+
+BRONZE_SWORD:
+  name: "&rБронза Меч"
+
+DURALUMIN_SWORD:
+  name: "&rДюралюминий Меч"
+
+BILLON_SWORD:
+  name: "&rБиллон Меч"
+
+BRASS_SWORD:
+  name: "&rЛатунь Меч"
+
+ALUMINUM_BRASS_SWORD:
+  name: "&rАлюминиевая латунь Меч"
+
+ALUMINUM_BRONZE_SWORD:
+  name: "&rАлюминиевая бронза Меч"
+
+CORINTHIAN_BRONZE_SWORD:
+  name: "&rКоринфская бронза Меч"
+
+SOLDER_SWORD:
+  name: "&rПрипой Меч"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rДамасская сталь Меч"
+
+HARDENED_SWORD:
+  name: "&rЗакалённый металл Меч"
+
+REINFORCED_SWORD:
+  name: "&rУсиленный Меч"
+
+FERROSILICON_SWORD:
+  name: "&rФерросилиций Меч"
+
+GILDED_IRON_SWORD:
+  name: "&rПозолоченное железо Меч"
+
+NICKEL_SWORD:
+  name: "&rНикель Меч"
+
+COBALT_SWORD:
+  name: "&rКобальт Меч"
+
+COPPER_HELMET:
+  name: "&fМедь Шлем"
+
+COPPER_CHESTPLATE:
+  name: "&fМедь Нагрудник"
+
+COPPER_LEGGINGS:
+  name: "&fМедь Поножи"
+
+COPPER_BOOTS:
+  name: "&fМедь Ботинки"
+
+TIN_HELMET:
+  name: "&fОлово Шлем"
+
+TIN_CHESTPLATE:
+  name: "&fОлово Нагрудник"
+
+TIN_LEGGINGS:
+  name: "&fОлово Поножи"
+
+TIN_BOOTS:
+  name: "&fОлово Ботинки"
+
+SILVER_HELMET:
+  name: "&fСеребро Шлем"
+
+SILVER_CHESTPLATE:
+  name: "&fСеребро Нагрудник"
+
+SILVER_LEGGINGS:
+  name: "&fСеребро Поножи"
+
+SILVER_BOOTS:
+  name: "&fСеребро Ботинки"
+
+ALUMINUM_HELMET:
+  name: "&fАлюминий Шлем"
+
+ALUMINUM_CHESTPLATE:
+  name: "&fАлюминий Нагрудник"
+
+ALUMINUM_LEGGINGS:
+  name: "&fАлюминий Поножи"
+
+ALUMINUM_BOOTS:
+  name: "&fАлюминий Ботинки"
+
+LEAD_HELMET:
+  name: "&fСвинец Шлем"
+
+LEAD_CHESTPLATE:
+  name: "&fСвинец Нагрудник"
+
+LEAD_LEGGINGS:
+  name: "&fСвинец Поножи"
+
+LEAD_BOOTS:
+  name: "&fСвинец Ботинки"
+
+ZINC_HELMET:
+  name: "&fЦинк Шлем"
+
+ZINC_CHESTPLATE:
+  name: "&fЦинк Нагрудник"
+
+ZINC_LEGGINGS:
+  name: "&fЦинк Поножи"
+
+ZINC_BOOTS:
+  name: "&fЦинк Ботинки"
+
+MAGNESIUM_HELMET:
+  name: "&fМагний Шлем"
+
+MAGNESIUM_CHESTPLATE:
+  name: "&fМагний Нагрудник"
+
+MAGNESIUM_LEGGINGS:
+  name: "&fМагний Поножи"
+
+MAGNESIUM_BOOTS:
+  name: "&fМагний Ботинки"
+
+STEEL_HELMET:
+  name: "&fСталь Шлем"
+
+STEEL_CHESTPLATE:
+  name: "&fСталь Нагрудник"
+
+STEEL_LEGGINGS:
+  name: "&fСталь Поножи"
+
+STEEL_BOOTS:
+  name: "&fСталь Ботинки"
+
+COBALT_HELMET:
+  name: "&fКобальт Шлем"
+
+COBALT_CHESTPLATE:
+  name: "&fКобальт Нагрудник"
+
+COBALT_LEGGINGS:
+  name: "&fКобальт Поножи"
+
+COBALT_BOOTS:
+  name: "&fКобальт Ботинки"
