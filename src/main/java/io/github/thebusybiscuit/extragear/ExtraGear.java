@@ -2,9 +2,12 @@ package io.github.thebusybiscuit.extragear;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 
 import javax.annotation.Nonnull;
+import javax.annotation.Nullable;
 
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemStack;
@@ -95,28 +98,208 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
     private void registerWiki() {
         WikiText wiki = Slimefun.getWikiText();
-        String topicId = "addon_extragear";
 
-        wiki.registerTopic(new WikiTopic(topicId, "ExtraGear", XMaterial.DIAMOND_CHESTPLATE, "&7Extra tools and armor sets"));
-        wiki.setMechanic(topicId, Arrays.asList(
-            "&7Extra tools and armor sets.", "",
-            "&7Swords and full armor sets forged", "&7from Slimefun's metals and alloys, each", "&7with their own built-in enchantments.", "",
-            "&7Click an item below for its recipe."));
-
-        // Collect this addon's own items dynamically - never hardcode item lists.
-        List<String> items = new ArrayList<>();
-
+        // Bucket this addon's items by their ItemGroup, preserving discovery order.
+        Map<ItemGroup, List<String>> groupedItems = new LinkedHashMap<>();
         for (SlimefunItem item : Slimefun.getRegistry().getEnabledSlimefunItems()) {
             try {
-                if (item.getAddon() == this) {
-                    items.add(item.getId());
+                if (item.getAddon() != this) {
+                    continue;
+                }
+                ItemGroup group = item.getItemGroup();
+                groupedItems.computeIfAbsent(group, key -> new ArrayList<>()).add(item.getId());
+
+                List<String> page = describeItem(item.getId());
+                if (page != null) {
+                    wiki.set(item.getId(), page);
                 }
             } catch (Exception | LinkageError ignored) {
-                // A broken item should not break wiki registration.
+                // Skip items that fail to resolve their group/addon on legacy versions.
             }
         }
 
-        wiki.setTopicItems(topicId, items);
+        for (Map.Entry<ItemGroup, List<String>> entry : groupedItems.entrySet()) {
+            ItemGroup group = entry.getKey();
+            String groupKey = group.getKey().getKey();
+            String topicId = "addon_extragear_" + groupKey;
+
+            wiki.registerTopic(new WikiTopic(
+                topicId,
+                topicDisplayName(groupKey),
+                topicIcon(groupKey),
+                topicTagline(groupKey)
+            ));
+            wiki.setMechanic(topicId, describeCategory(groupKey));
+            wiki.setTopicItems(topicId, entry.getValue());
+        }
+    }
+
+    @Nonnull
+    private String topicDisplayName(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "items": return "ExtraGear: Tools & Armor";
+            default: return "ExtraGear";
+        }
+    }
+
+    @Nonnull
+    private XMaterial topicIcon(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "items": return XMaterial.DIAMOND_CHESTPLATE;
+            default: return XMaterial.IRON_SWORD;
+        }
+    }
+
+    @Nonnull
+    private String topicTagline(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "items": return "&7Metal swords & full armor sets";
+            default: return "&7Extra tools and armor sets";
+        }
+    }
+
+    @Nonnull
+    private List<String> describeCategory(@Nonnull String groupKey) {
+        switch (groupKey) {
+            case "items":
+                return Arrays.asList(
+                    "&7ExtraGear forges weapons and armor from the many",
+                    "&7metals and alloys Slimefun adds to the game.",
+                    "",
+                    "&7&lSwords &7are crafted in the &bEnhanced Crafting",
+                    "&7Table&7 from two ingots and a stick, in the usual",
+                    "&7sword pattern. Each metal yields a sword with its",
+                    "&7own pre-applied enchantments, scaling from soft",
+                    "&7Copper up to powerful Reinforced and Cobalt blades.",
+                    "",
+                    "&7&lArmor sets &7are crafted in the &bArmor Forge&7",
+                    "&7as helmet, chestplate, leggings and boots. Every",
+                    "&7piece carries built-in protection enchantments,",
+                    "&7so a full set is far tougher than its vanilla base.",
+                    "",
+                    "&7Because the enchantments are baked in, the gear",
+                    "&7cannot be disenchanted - it is ready to wear or",
+                    "&7swing the moment it is crafted.",
+                    "",
+                    "&7Click an item below for its recipe & details."
+                );
+            default:
+                return Arrays.asList(
+                    "&7Extra tools and armor sets forged from metals.",
+                    "",
+                    "&7Click an item below for its recipe & details."
+                );
+        }
+    }
+
+    @Nullable
+    private List<String> describeItem(@Nonnull String itemId) {
+        // --- Swords: grouped by tier of built-in enchantments ---
+        switch (itemId) {
+            case "COPPER_SWORD":
+                return Arrays.asList(
+                    "&7An entry-level blade forged from Copper.",
+                    "&7Carries &bSmite II&7, making it handy for clearing",
+                    "&7out early-game undead such as zombies and skeletons."
+                );
+            case "TIN_SWORD":
+            case "ZINC_SWORD":
+            case "SILVER_SWORD":
+                return Arrays.asList(
+                    "&7A light, cheap sword forged from a base metal.",
+                    "&7Comes pre-enchanted with &bSharpness&7 for a small",
+                    "&7but reliable damage boost over a vanilla blade."
+                );
+            case "ALUMINUM_SWORD":
+            case "ALUMINUM_BRASS_SWORD":
+            case "ALUMINUM_BRONZE_SWORD":
+                return Arrays.asList(
+                    "&7An aluminium-based blade built for pest control.",
+                    "&7Carries &bBane of Arthropods&7, tearing through",
+                    "&7spiders, silverfish and other bugs with ease."
+                );
+            case "MAGNESIUM_SWORD":
+            case "BRONZE_SWORD":
+            case "DURALUMIN_SWORD":
+            case "BILLON_SWORD":
+            case "SOLDER_SWORD":
+                return Arrays.asList(
+                    "&7A solid mid-tier alloy sword.",
+                    "&7Pre-enchanted with &bSharpness&7 and &bUnbreaking&7,",
+                    "&7balancing extra damage with a longer lifespan."
+                );
+            case "LEAD_SWORD":
+            case "STEEL_SWORD":
+            case "CORINTHIAN_BRONZE_SWORD":
+            case "NICKEL_SWORD":
+                return Arrays.asList(
+                    "&7A heavy, dependable alloy blade.",
+                    "&7Combines a strong &bSharpness&7 enchantment with",
+                    "&bUnbreaking&7 for sustained combat use."
+                );
+            case "BRASS_SWORD":
+            case "FERROSILICON_SWORD":
+                return Arrays.asList(
+                    "&7A specialist anti-undead blade.",
+                    "&7Carries powerful &bSmite&7 plus &bUnbreaking&7,",
+                    "&7devastating against zombies, skeletons and wither",
+                    "&7skeletons in the Nether."
+                );
+            case "GILDED_IRON_SWORD":
+                return Arrays.asList(
+                    "&7A gilded blade with an ornate golden edge.",
+                    "&7Carries strong &bBane of Arthropods&7 and high",
+                    "&bUnbreaking&7, lasting far longer than gold should."
+                );
+            case "DAMASCUS_STEEL_SWORD":
+                return Arrays.asList(
+                    "&7A patterned blade folded from Damascus Steel.",
+                    "&7Carries heavy &bSharpness&7 and &bUnbreaking&7,",
+                    "&7a true upper-tier weapon."
+                );
+            case "HARDENED_SWORD":
+            case "REINFORCED_SWORD":
+            case "COBALT_SWORD":
+                return Arrays.asList(
+                    "&7A top-tier blade forged from a hardened alloy.",
+                    "&7Carries some of the strongest &bSharpness&7 and",
+                    "&bUnbreaking&7 in ExtraGear - a late-game powerhouse."
+                );
+            default:
+                break;
+        }
+
+        // --- Armor: shared description per piece type, keyed by suffix ---
+        if (itemId.endsWith("_HELMET")) {
+            return Arrays.asList(
+                "&7The helmet of an ExtraGear armor set.",
+                "&7Comes with built-in protection enchantments.",
+                "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+            );
+        }
+        if (itemId.endsWith("_CHESTPLATE")) {
+            return Arrays.asList(
+                "&7The chestplate of an ExtraGear armor set - the",
+                "&7most protective piece of the set.",
+                "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+            );
+        }
+        if (itemId.endsWith("_LEGGINGS")) {
+            return Arrays.asList(
+                "&7The leggings of an ExtraGear armor set.",
+                "&7Come with built-in protection enchantments.",
+                "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+            );
+        }
+        if (itemId.endsWith("_BOOTS")) {
+            return Arrays.asList(
+                "&7The boots of an ExtraGear armor set.",
+                "&7Come with built-in protection enchantments.",
+                "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+            );
+        }
+
+        return null;
     }
 
     private void registerSword(@Nonnull XMaterial type, @Nonnull String component, @Nonnull SlimefunItemStack item, @Nonnull List<Pair<Enchantment, Integer>> enchantments) {
