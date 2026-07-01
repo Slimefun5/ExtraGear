@@ -4,7 +4,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/ExtraGear/total)
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/ExtraGear?style=social)](https://github.com/Slimefun5/ExtraGear)
-[![bStats](https://bStats.org/signatures/bukkit/ExtraGear.svg)](https://bStats.org/plugin/bukkit/ExtraGear/6469)
+[![bStats](https://bStats.org/signatures/bukkit/ExtraGear.svg)](https://bStats.org/plugin/bukkit/ExtraGear/31440)
 
 A Slimefun addon that adds extra armor sets and gear with unique abilities.
 
@@ -43,7 +43,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.1")
+    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.2")
 }
 ```
 
