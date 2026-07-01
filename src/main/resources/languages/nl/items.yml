@@ -1,0 +1,178 @@
+# ExtraGear item translations (nl). name only; '&' colour codes preserved.
+
+COPPER_SWORD:
+  name: "&rKoper Zwaard"
+
+TIN_SWORD:
+  name: "&rTin Zwaard"
+
+SILVER_SWORD:
+  name: "&rZilver Zwaard"
+
+ALUMINUM_SWORD:
+  name: "&rAluminium Zwaard"
+
+LEAD_SWORD:
+  name: "&rLood Zwaard"
+
+ZINC_SWORD:
+  name: "&rZink Zwaard"
+
+MAGNESIUM_SWORD:
+  name: "&rMagnesium Zwaard"
+
+STEEL_SWORD:
+  name: "&rStaal Zwaard"
+
+BRONZE_SWORD:
+  name: "&rBrons Zwaard"
+
+DURALUMIN_SWORD:
+  name: "&rDuraluminium Zwaard"
+
+BILLON_SWORD:
+  name: "&rBiljoen Zwaard"
+
+BRASS_SWORD:
+  name: "&rMessing Zwaard"
+
+ALUMINUM_BRASS_SWORD:
+  name: "&rAluminiummessing Zwaard"
+
+ALUMINUM_BRONZE_SWORD:
+  name: "&rAluminiumbrons Zwaard"
+
+CORINTHIAN_BRONZE_SWORD:
+  name: "&rKorinthisch brons Zwaard"
+
+SOLDER_SWORD:
+  name: "&rSoldeer Zwaard"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rDamaststaal Zwaard"
+
+HARDENED_SWORD:
+  name: "&rGehard metaal Zwaard"
+
+REINFORCED_SWORD:
+  name: "&rVersterkt Zwaard"
+
+FERROSILICON_SWORD:
+  name: "&rFerrosilicium Zwaard"
+
+GILDED_IRON_SWORD:
+  name: "&rVerguld ijzer Zwaard"
+
+NICKEL_SWORD:
+  name: "&rNikkel Zwaard"
+
+COBALT_SWORD:
+  name: "&rKobalt Zwaard"
+
+COPPER_HELMET:
+  name: "&fKoper Helm"
+
+COPPER_CHESTPLATE:
+  name: "&fKoper Borstplaat"
+
+COPPER_LEGGINGS:
+  name: "&fKoper Broek"
+
+COPPER_BOOTS:
+  name: "&fKoper Laarzen"
+
+TIN_HELMET:
+  name: "&fTin Helm"
+
+TIN_CHESTPLATE:
+  name: "&fTin Borstplaat"
+
+TIN_LEGGINGS:
+  name: "&fTin Broek"
+
+TIN_BOOTS:
+  name: "&fTin Laarzen"
+
+SILVER_HELMET:
+  name: "&fZilver Helm"
+
+SILVER_CHESTPLATE:
+  name: "&fZilver Borstplaat"
+
+SILVER_LEGGINGS:
+  name: "&fZilver Broek"
+
+SILVER_BOOTS:
+  name: "&fZilver Laarzen"
+
+ALUMINUM_HELMET:
+  name: "&fAluminium Helm"
+
+ALUMINUM_CHESTPLATE:
+  name: "&fAluminium Borstplaat"
+
+ALUMINUM_LEGGINGS:
+  name: "&fAluminium Broek"
+
+ALUMINUM_BOOTS:
+  name: "&fAluminium Laarzen"
+
+LEAD_HELMET:
+  name: "&fLood Helm"
+
+LEAD_CHESTPLATE:
+  name: "&fLood Borstplaat"
+
+LEAD_LEGGINGS:
+  name: "&fLood Broek"
+
+LEAD_BOOTS:
+  name: "&fLood Laarzen"
+
+ZINC_HELMET:
+  name: "&fZink Helm"
+
+ZINC_CHESTPLATE:
+  name: "&fZink Borstplaat"
+
+ZINC_LEGGINGS:
+  name: "&fZink Broek"
+
+ZINC_BOOTS:
+  name: "&fZink Laarzen"
+
+MAGNESIUM_HELMET:
+  name: "&fMagnesium Helm"
+
+MAGNESIUM_CHESTPLATE:
+  name: "&fMagnesium Borstplaat"
+
+MAGNESIUM_LEGGINGS:
+  name: "&fMagnesium Broek"
+
+MAGNESIUM_BOOTS:
+  name: "&fMagnesium Laarzen"
+
+STEEL_HELMET:
+  name: "&fStaal Helm"
+
+STEEL_CHESTPLATE:
+  name: "&fStaal Borstplaat"
+
+STEEL_LEGGINGS:
+  name: "&fStaal Broek"
+
+STEEL_BOOTS:
+  name: "&fStaal Laarzen"
+
+COBALT_HELMET:
+  name: "&fKobalt Helm"
+
+COBALT_CHESTPLATE:
+  name: "&fKobalt Borstplaat"
+
+COBALT_LEGGINGS:
+  name: "&fKobalt Broek"
+
+COBALT_BOOTS:
+  name: "&fKobalt Laarzen"

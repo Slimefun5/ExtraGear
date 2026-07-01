@@ -1,0 +1,178 @@
+# ExtraGear item translations (de). name only; '&' colour codes preserved.
+
+COPPER_SWORD:
+  name: "&rKupfer Schwert"
+
+TIN_SWORD:
+  name: "&rZinn Schwert"
+
+SILVER_SWORD:
+  name: "&rSilber Schwert"
+
+ALUMINUM_SWORD:
+  name: "&rAluminium Schwert"
+
+LEAD_SWORD:
+  name: "&rBlei Schwert"
+
+ZINC_SWORD:
+  name: "&rZink Schwert"
+
+MAGNESIUM_SWORD:
+  name: "&rMagnesium Schwert"
+
+STEEL_SWORD:
+  name: "&rStahl Schwert"
+
+BRONZE_SWORD:
+  name: "&rBronze Schwert"
+
+DURALUMIN_SWORD:
+  name: "&rDuraluminium Schwert"
+
+BILLON_SWORD:
+  name: "&rBillon Schwert"
+
+BRASS_SWORD:
+  name: "&rMessing Schwert"
+
+ALUMINUM_BRASS_SWORD:
+  name: "&rAluminiummessing Schwert"
+
+ALUMINUM_BRONZE_SWORD:
+  name: "&rAluminiumbronze Schwert"
+
+CORINTHIAN_BRONZE_SWORD:
+  name: "&rKorinthische Bronze Schwert"
+
+SOLDER_SWORD:
+  name: "&rLötzinn Schwert"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rDamaszener-Stahl Schwert"
+
+HARDENED_SWORD:
+  name: "&rGehärtetes Metall Schwert"
+
+REINFORCED_SWORD:
+  name: "&rVerstärkt Schwert"
+
+FERROSILICON_SWORD:
+  name: "&rFerrosilizium Schwert"
+
+GILDED_IRON_SWORD:
+  name: "&rVergoldetes Eisen Schwert"
+
+NICKEL_SWORD:
+  name: "&rNickel Schwert"
+
+COBALT_SWORD:
+  name: "&rKobalt Schwert"
+
+COPPER_HELMET:
+  name: "&fKupfer Helm"
+
+COPPER_CHESTPLATE:
+  name: "&fKupfer Brustpanzer"
+
+COPPER_LEGGINGS:
+  name: "&fKupfer Beinschutz"
+
+COPPER_BOOTS:
+  name: "&fKupfer Stiefel"
+
+TIN_HELMET:
+  name: "&fZinn Helm"
+
+TIN_CHESTPLATE:
+  name: "&fZinn Brustpanzer"
+
+TIN_LEGGINGS:
+  name: "&fZinn Beinschutz"
+
+TIN_BOOTS:
+  name: "&fZinn Stiefel"
+
+SILVER_HELMET:
+  name: "&fSilber Helm"
+
+SILVER_CHESTPLATE:
+  name: "&fSilber Brustpanzer"
+
+SILVER_LEGGINGS:
+  name: "&fSilber Beinschutz"
+
+SILVER_BOOTS:
+  name: "&fSilber Stiefel"
+
+ALUMINUM_HELMET:
+  name: "&fAluminium Helm"
+
+ALUMINUM_CHESTPLATE:
+  name: "&fAluminium Brustpanzer"
+
+ALUMINUM_LEGGINGS:
+  name: "&fAluminium Beinschutz"
+
+ALUMINUM_BOOTS:
+  name: "&fAluminium Stiefel"
+
+LEAD_HELMET:
+  name: "&fBlei Helm"
+
+LEAD_CHESTPLATE:
+  name: "&fBlei Brustpanzer"
+
+LEAD_LEGGINGS:
+  name: "&fBlei Beinschutz"
+
+LEAD_BOOTS:
+  name: "&fBlei Stiefel"
+
+ZINC_HELMET:
+  name: "&fZink Helm"
+
+ZINC_CHESTPLATE:
+  name: "&fZink Brustpanzer"
+
+ZINC_LEGGINGS:
+  name: "&fZink Beinschutz"
+
+ZINC_BOOTS:
+  name: "&fZink Stiefel"
+
+MAGNESIUM_HELMET:
+  name: "&fMagnesium Helm"
+
+MAGNESIUM_CHESTPLATE:
+  name: "&fMagnesium Brustpanzer"
+
+MAGNESIUM_LEGGINGS:
+  name: "&fMagnesium Beinschutz"
+
+MAGNESIUM_BOOTS:
+  name: "&fMagnesium Stiefel"
+
+STEEL_HELMET:
+  name: "&fStahl Helm"
+
+STEEL_CHESTPLATE:
+  name: "&fStahl Brustpanzer"
+
+STEEL_LEGGINGS:
+  name: "&fStahl Beinschutz"
+
+STEEL_BOOTS:
+  name: "&fStahl Stiefel"
+
+COBALT_HELMET:
+  name: "&fKobalt Helm"
+
+COBALT_CHESTPLATE:
+  name: "&fKobalt Brustpanzer"
+
+COBALT_LEGGINGS:
+  name: "&fKobalt Beinschutz"
+
+COBALT_BOOTS:
+  name: "&fKobalt Stiefel"

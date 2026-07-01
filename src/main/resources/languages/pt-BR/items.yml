@@ -1,0 +1,178 @@
+# ExtraGear item translations (pt-BR). name only; '&' colour codes preserved.
+
+COPPER_SWORD:
+  name: "&rCobre Espada"
+
+TIN_SWORD:
+  name: "&rEstanho Espada"
+
+SILVER_SWORD:
+  name: "&rPrata Espada"
+
+ALUMINUM_SWORD:
+  name: "&rAlumínio Espada"
+
+LEAD_SWORD:
+  name: "&rChumbo Espada"
+
+ZINC_SWORD:
+  name: "&rZinco Espada"
+
+MAGNESIUM_SWORD:
+  name: "&rMagnésio Espada"
+
+STEEL_SWORD:
+  name: "&rAço Espada"
+
+BRONZE_SWORD:
+  name: "&rBronze Espada"
+
+DURALUMIN_SWORD:
+  name: "&rDuralumínio Espada"
+
+BILLON_SWORD:
+  name: "&rBilhão Espada"
+
+BRASS_SWORD:
+  name: "&rLatão Espada"
+
+ALUMINUM_BRASS_SWORD:
+  name: "&rLatão de alumínio Espada"
+
+ALUMINUM_BRONZE_SWORD:
+  name: "&rBronze de alumínio Espada"
+
+CORINTHIAN_BRONZE_SWORD:
+  name: "&rBronze coríntio Espada"
+
+SOLDER_SWORD:
+  name: "&rSolda Espada"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rAço de Damasco Espada"
+
+HARDENED_SWORD:
+  name: "&rMetal endurecido Espada"
+
+REINFORCED_SWORD:
+  name: "&rReforçado Espada"
+
+FERROSILICON_SWORD:
+  name: "&rFerrossilício Espada"
+
+GILDED_IRON_SWORD:
+  name: "&rFerro dourado Espada"
+
+NICKEL_SWORD:
+  name: "&rNíquel Espada"
+
+COBALT_SWORD:
+  name: "&rCobalto Espada"
+
+COPPER_HELMET:
+  name: "&fCobre Capacete"
+
+COPPER_CHESTPLATE:
+  name: "&fCobre Peitoral"
+
+COPPER_LEGGINGS:
+  name: "&fCobre Calças"
+
+COPPER_BOOTS:
+  name: "&fCobre Botas"
+
+TIN_HELMET:
+  name: "&fEstanho Capacete"
+
+TIN_CHESTPLATE:
+  name: "&fEstanho Peitoral"
+
+TIN_LEGGINGS:
+  name: "&fEstanho Calças"
+
+TIN_BOOTS:
+  name: "&fEstanho Botas"
+
+SILVER_HELMET:
+  name: "&fPrata Capacete"
+
+SILVER_CHESTPLATE:
+  name: "&fPrata Peitoral"
+
+SILVER_LEGGINGS:
+  name: "&fPrata Calças"
+
+SILVER_BOOTS:
+  name: "&fPrata Botas"
+
+ALUMINUM_HELMET:
+  name: "&fAlumínio Capacete"
+
+ALUMINUM_CHESTPLATE:
+  name: "&fAlumínio Peitoral"
+
+ALUMINUM_LEGGINGS:
+  name: "&fAlumínio Calças"
+
+ALUMINUM_BOOTS:
+  name: "&fAlumínio Botas"
+
+LEAD_HELMET:
+  name: "&fChumbo Capacete"
+
+LEAD_CHESTPLATE:
+  name: "&fChumbo Peitoral"
+
+LEAD_LEGGINGS:
+  name: "&fChumbo Calças"
+
+LEAD_BOOTS:
+  name: "&fChumbo Botas"
+
+ZINC_HELMET:
+  name: "&fZinco Capacete"
+
+ZINC_CHESTPLATE:
+  name: "&fZinco Peitoral"
+
+ZINC_LEGGINGS:
+  name: "&fZinco Calças"
+
+ZINC_BOOTS:
+  name: "&fZinco Botas"
+
+MAGNESIUM_HELMET:
+  name: "&fMagnésio Capacete"
+
+MAGNESIUM_CHESTPLATE:
+  name: "&fMagnésio Peitoral"
+
+MAGNESIUM_LEGGINGS:
+  name: "&fMagnésio Calças"
+
+MAGNESIUM_BOOTS:
+  name: "&fMagnésio Botas"
+
+STEEL_HELMET:
+  name: "&fAço Capacete"
+
+STEEL_CHESTPLATE:
+  name: "&fAço Peitoral"
+
+STEEL_LEGGINGS:
+  name: "&fAço Calças"
+
+STEEL_BOOTS:
+  name: "&fAço Botas"
+
+COBALT_HELMET:
+  name: "&fCobalto Capacete"
+
+COBALT_CHESTPLATE:
+  name: "&fCobalto Peitoral"
+
+COBALT_LEGGINGS:
+  name: "&fCobalto Calças"
+
+COBALT_BOOTS:
+  name: "&fCobalto Botas"

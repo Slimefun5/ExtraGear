@@ -1,0 +1,178 @@
+# ExtraGear item translations (pl). name only; '&' colour codes preserved.
+
+COPPER_SWORD:
+  name: "&rMiedź Miecz"
+
+TIN_SWORD:
+  name: "&rCyna Miecz"
+
+SILVER_SWORD:
+  name: "&rSrebro Miecz"
+
+ALUMINUM_SWORD:
+  name: "&rAluminium Miecz"
+
+LEAD_SWORD:
+  name: "&rOłów Miecz"
+
+ZINC_SWORD:
+  name: "&rCynk Miecz"
+
+MAGNESIUM_SWORD:
+  name: "&rMagnez Miecz"
+
+STEEL_SWORD:
+  name: "&rStal Miecz"
+
+BRONZE_SWORD:
+  name: "&rBrąz Miecz"
+
+DURALUMIN_SWORD:
+  name: "&rDuraluminium Miecz"
+
+BILLON_SWORD:
+  name: "&rBilon Miecz"
+
+BRASS_SWORD:
+  name: "&rMosiądz Miecz"
+
+ALUMINUM_BRASS_SWORD:
+  name: "&rMosiądz aluminiowy Miecz"
+
+ALUMINUM_BRONZE_SWORD:
+  name: "&rBrąz aluminiowy Miecz"
+
+CORINTHIAN_BRONZE_SWORD:
+  name: "&rBrąz koryncki Miecz"
+
+SOLDER_SWORD:
+  name: "&rLut Miecz"
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rStal damasceńska Miecz"
+
+HARDENED_SWORD:
+  name: "&rHartowany metal Miecz"
+
+REINFORCED_SWORD:
+  name: "&rWzmocniony Miecz"
+
+FERROSILICON_SWORD:
+  name: "&rŻelazokrzem Miecz"
+
+GILDED_IRON_SWORD:
+  name: "&rPozłacane żelazo Miecz"
+
+NICKEL_SWORD:
+  name: "&rNikiel Miecz"
+
+COBALT_SWORD:
+  name: "&rKobalt Miecz"
+
+COPPER_HELMET:
+  name: "&fMiedź Hełm"
+
+COPPER_CHESTPLATE:
+  name: "&fMiedź Napierśnik"
+
+COPPER_LEGGINGS:
+  name: "&fMiedź Nogawice"
+
+COPPER_BOOTS:
+  name: "&fMiedź Buty"
+
+TIN_HELMET:
+  name: "&fCyna Hełm"
+
+TIN_CHESTPLATE:
+  name: "&fCyna Napierśnik"
+
+TIN_LEGGINGS:
+  name: "&fCyna Nogawice"
+
+TIN_BOOTS:
+  name: "&fCyna Buty"
+
+SILVER_HELMET:
+  name: "&fSrebro Hełm"
+
+SILVER_CHESTPLATE:
+  name: "&fSrebro Napierśnik"
+
+SILVER_LEGGINGS:
+  name: "&fSrebro Nogawice"
+
+SILVER_BOOTS:
+  name: "&fSrebro Buty"
+
+ALUMINUM_HELMET:
+  name: "&fAluminium Hełm"
+
+ALUMINUM_CHESTPLATE:
+  name: "&fAluminium Napierśnik"
+
+ALUMINUM_LEGGINGS:
+  name: "&fAluminium Nogawice"
+
+ALUMINUM_BOOTS:
+  name: "&fAluminium Buty"
+
+LEAD_HELMET:
+  name: "&fOłów Hełm"
+
+LEAD_CHESTPLATE:
+  name: "&fOłów Napierśnik"
+
+LEAD_LEGGINGS:
+  name: "&fOłów Nogawice"
+
+LEAD_BOOTS:
+  name: "&fOłów Buty"
+
+ZINC_HELMET:
+  name: "&fCynk Hełm"
+
+ZINC_CHESTPLATE:
+  name: "&fCynk Napierśnik"
+
+ZINC_LEGGINGS:
+  name: "&fCynk Nogawice"
+
+ZINC_BOOTS:
+  name: "&fCynk Buty"
+
+MAGNESIUM_HELMET:
+  name: "&fMagnez Hełm"
+
+MAGNESIUM_CHESTPLATE:
+  name: "&fMagnez Napierśnik"
+
+MAGNESIUM_LEGGINGS:
+  name: "&fMagnez Nogawice"
+
+MAGNESIUM_BOOTS:
+  name: "&fMagnez Buty"
+
+STEEL_HELMET:
+  name: "&fStal Hełm"
+
+STEEL_CHESTPLATE:
+  name: "&fStal Napierśnik"
+
+STEEL_LEGGINGS:
+  name: "&fStal Nogawice"
+
+STEEL_BOOTS:
+  name: "&fStal Buty"
+
+COBALT_HELMET:
+  name: "&fKobalt Hełm"
+
+COBALT_CHESTPLATE:
+  name: "&fKobalt Napierśnik"
+
+COBALT_LEGGINGS:
+  name: "&fKobalt Nogawice"
+
+COBALT_BOOTS:
+  name: "&fKobalt Buty"
