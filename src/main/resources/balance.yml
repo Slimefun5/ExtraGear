@@ -1,0 +1,82 @@
+# Per-item balance scores (0-100) for ExtraGear, relative to vanilla Minecraft.
+# Read by Slimefun's BalanceService (overrides the auto heuristic). Bands:
+#   0-10 Trivial | 11-25 Standard | 26-40 Advanced | 41-69 Powerful | 70-100 Overpowered
+#   (vanilla anchors: iron gear ~15, netherite ~30, beacon ~35, end crystal ~70, mace ~85)
+#
+# All ExtraGear gear is a pre-enchanted IRON_SWORD/IRON_ARMOR (Copper uses LEATHER
+# armor, Gilded Iron uses a GOLDEN_SWORD) with baked-in Sharpness/Smite/Bane of
+# Arthropods/Protection/Unbreaking - never full new tiers - so scores stay clustered
+# around the vanilla iron anchor (~15), rising only for the "top-tier" alloys the
+# addon's own wiki text calls out (Damascus Steel, Hardened, Reinforced, Cobalt).
+scores:
+  # --- Swords: entry-level, below iron ---
+  COPPER_SWORD: 10
+  # --- Swords: light/cheap, single low enchant ---
+  TIN_SWORD: 12
+  SILVER_SWORD: 13
+  ZINC_SWORD: 13
+  ALUMINUM_SWORD: 13
+  # --- Swords: mid-tier alloys, Sharpness/Smite/Bane + light Unbreaking ---
+  MAGNESIUM_SWORD: 15
+  BRONZE_SWORD: 15
+  DURALUMIN_SWORD: 15
+  ALUMINUM_BRASS_SWORD: 15
+  BILLON_SWORD: 16
+  BRASS_SWORD: 16
+  ALUMINUM_BRONZE_SWORD: 16
+  SOLDER_SWORD: 16
+  # --- Swords: heavy/dependable alloys, higher enchant levels ---
+  LEAD_SWORD: 17
+  CORINTHIAN_BRONZE_SWORD: 18
+  STEEL_SWORD: 19
+  NICKEL_SWORD: 19
+  FERROSILICON_SWORD: 20
+  GILDED_IRON_SWORD: 21
+  # --- Swords: upper/top-tier, addon's own "late-game powerhouse" picks ---
+  DAMASCUS_STEEL_SWORD: 24
+  HARDENED_SWORD: 27
+  COBALT_SWORD: 28
+  REINFORCED_SWORD: 29
+
+  # --- Copper armor set: leather base, weakest set in the addon ---
+  COPPER_BOOTS: 7
+  COPPER_HELMET: 9
+  COPPER_LEGGINGS: 10
+  COPPER_CHESTPLATE: 11
+  # --- Silver / Aluminum armor sets: iron base, single low protection enchant ---
+  SILVER_BOOTS: 11
+  ALUMINUM_BOOTS: 11
+  SILVER_HELMET: 13
+  ALUMINUM_HELMET: 13
+  SILVER_LEGGINGS: 14
+  ALUMINUM_LEGGINGS: 14
+  SILVER_CHESTPLATE: 15
+  ALUMINUM_CHESTPLATE: 15
+  # --- Tin / Zinc / Magnesium armor sets: iron base, moderate protection ---
+  TIN_BOOTS: 12
+  ZINC_BOOTS: 12
+  MAGNESIUM_BOOTS: 12
+  TIN_HELMET: 14
+  ZINC_HELMET: 14
+  MAGNESIUM_HELMET: 14
+  TIN_LEGGINGS: 15
+  ZINC_LEGGINGS: 15
+  MAGNESIUM_LEGGINGS: 15
+  TIN_CHESTPLATE: 16
+  ZINC_CHESTPLATE: 16
+  MAGNESIUM_CHESTPLATE: 16
+  # --- Steel armor set: iron base, strong protection + unbreaking ---
+  STEEL_BOOTS: 13
+  STEEL_HELMET: 15
+  STEEL_LEGGINGS: 16
+  STEEL_CHESTPLATE: 17
+  # --- Lead armor set: iron base, high protection + heavy unbreaking ---
+  LEAD_BOOTS: 14
+  LEAD_HELMET: 16
+  LEAD_LEGGINGS: 17
+  LEAD_CHESTPLATE: 18
+  # --- Cobalt armor set: iron base, Protection VII - the addon's best armor ---
+  COBALT_BOOTS: 21
+  COBALT_HELMET: 23
+  COBALT_LEGGINGS: 24
+  COBALT_CHESTPLATE: 25
