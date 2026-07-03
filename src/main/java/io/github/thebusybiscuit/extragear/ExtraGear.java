@@ -303,7 +303,7 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
     }
 
     private void registerSword(@Nonnull XMaterial type, @Nonnull String component, @Nonnull SlimefunItemStack item, @Nonnull List<Pair<Enchantment, Integer>> enchantments) {
-        SlimefunItemStack is = new SlimefunItemStack(component + "_SWORD", MaterialCompat.safe(type), "\u0026r" + ChatUtils.humanize(component) + " Sword");
+        SlimefunItemStack is = new SlimefunItemStack(component + "_SWORD", MaterialCompat.safe(type));
 
         for (Pair<Enchantment, Integer> enchantment : enchantments) {
             is.addUnsafeEnchantment(enchantment.getFirstValue(), enchantment.getSecondValue());
@@ -322,10 +322,10 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
     private void registerArmor(@Nonnull ArmorSet armorset, @Nonnull String component, @Nonnull SlimefunItemStack item, @Nonnull List<Pair<Enchantment, Integer>> enchantments) {
         String humanizedComponent = ChatUtils.humanize(component);
-        SlimefunItemStack[] armor = { new SlimefunItemStack(component + "_HELMET", armorset.getHelmet(), "\u0026f" + humanizedComponent + " Helmet"),
-                new SlimefunItemStack(component + "_CHESTPLATE", armorset.getChestplate(), "\u0026f" + humanizedComponent + " Chestplate"),
-                new SlimefunItemStack(component + "_LEGGINGS", armorset.getLeggings(), "\u0026f" + humanizedComponent + " Leggings"),
-                new SlimefunItemStack(component + "_BOOTS", armorset.getBoots(), "\u0026f" + humanizedComponent + " Boots") };
+        SlimefunItemStack[] armor = { new SlimefunItemStack(component + "_HELMET", armorset.getHelmet()),
+                new SlimefunItemStack(component + "_CHESTPLATE", armorset.getChestplate()),
+                new SlimefunItemStack(component + "_LEGGINGS", armorset.getLeggings()),
+                new SlimefunItemStack(component + "_BOOTS", armorset.getBoots()) };
 
         for (Pair<Enchantment, Integer> enchantment : enchantments) {
             for (SlimefunItemStack armorPiece : armor) {
