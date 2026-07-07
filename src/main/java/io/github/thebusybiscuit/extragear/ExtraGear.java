@@ -137,8 +137,8 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
     @Nonnull
     private String topicDisplayName(@Nonnull String groupKey) {
         switch (groupKey) {
-            case "items": return "ExtraGear: Tools & Armor";
-            default: return "ExtraGear";
+            case "items": return "Extra Gear: Tools & Armor";
+            default: return "Extra Gear";
         }
     }
 
