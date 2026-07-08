@@ -9,19 +9,10 @@ import java.util.Map;
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 
-<<<<<<< HEAD
-import org.bukkit.Material;
-import org.bukkit.NamespacedKey;
-import org.bukkit.enchantments.Enchantment;
-import org.bukkit.inventory.ItemStack;
-import org.bukkit.plugin.java.JavaPlugin;
-import dev.walshy.sfmetrics.MetricsModule;
-=======
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bstats.bukkit.Metrics;
->>>>>>> origin/experimental
 
 import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun5.api.items.ItemGroup;
@@ -51,14 +42,10 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
-        MetricsModule.setup(this, 6469);
+        new Metrics(this, 6469);
 
         
-<<<<<<< HEAD
-        itemGroup = new ItemGroup(new NamespacedKey(this, "items"), CustomItemStack.create(Material.DIAMOND_SWORD, "\u00a76ExtraGear"), 1);
-=======
         itemGroup = new ItemGroup(new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey("extragear", "items"), CustomItemStack.create(MaterialCompat.safe(XMaterial.DIAMOND_SWORD), "\u00a76ExtraGear"), 1).setTheme("tools");
->>>>>>> origin/experimental
 
         registerSword(XMaterial.IRON_SWORD, "COPPER", SlimefunItems.COPPER_INGOT, Arrays.asList(new Pair<>(Enchantment.DAMAGE_UNDEAD, 2)));
         registerArmor(ArmorSet.LEATHER, "COPPER", SlimefunItems.COPPER_INGOT, Arrays.asList(new Pair<>(Enchantment.PROTECTION_EXPLOSIONS, 2)));
