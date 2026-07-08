@@ -43,7 +43,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.0")
+    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.2.2")
 }
 ```
 
