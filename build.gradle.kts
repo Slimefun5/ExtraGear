@@ -1,45 +1,13 @@
-﻿plugins {
+plugins {
     java
     id("com.gradleup.shadow") version "9.3.2"
     id("io.github.intisy.github-gradle") version "1.8.2.1"
 }
 
 group = "io.github.thebusybiscuit"
-
-fun latestGitTagVersion(): String? = try {
-    val out = providers.exec { workingDir = rootDir; commandLine("git","describe","--tags","--abbrev=0"); isIgnoreExitValue = true }
-    if (out.result.get().exitValue == 0) out.standardOutput.asText.get().trim().removePrefix("gh-").removePrefix("v").takeIf { it.isNotBlank() } else null
-} catch (e: Exception) { null }
-
-version = (project.findProperty("artifact_version") as String?)?.removePrefix("v")?.takeIf { it.isNotBlank() } ?: latestGitTagVersion() ?: "1.0.0"
-val versionSuffix: String = when {
-    !(project.findProperty("artifact_version") as String?).isNullOrBlank() -> ""
-    System.getenv("GITHUB_ACTIONS") == "true" -> "-EXPERIMENTAL"
-    else -> "-UNOFFICIAL"
-}
-val displayVersion = "${project.version}$versionSuffix"
 description = "ExtraGear is a Slimefun addon that adds extra armor sets and tools."
 
-github {
-    accessToken = System.getenv("GITHUB_TOKEN") ?: ""
-    publish {
-        tag = System.getenv("GITHUB_REF_NAME")
-    }
-}
-
-java {
-    toolchain {
-        languageVersion.set(JavaLanguageVersion.of(8))
-    }
-}
-
-repositories {
-    maven("https://jitpack.io")
-    mavenCentral()
-    maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots")
-    maven("https://repo.papermc.io/repository/maven-public/")
-    maven("https://repo.codemc.io/repository/maven-public/")
-}
+apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/stable/slimefun-addon.gradle")
 
 dependencies {
 <<<<<<< HEAD
@@ -54,6 +22,7 @@ dependencies {
 >>>>>>> origin/experimental
 =======
     implementation("org.bstats:bstats-bukkit:2.2.1")
+<<<<<<< HEAD
 >>>>>>> origin/experimental
     githubCompileOnly("Slimefun5:Slimefun5:gh-v5.2.3.2")
     compileOnly("org.spigotmc:spigot-api:1.16.5-R0.1-SNAPSHOT")
@@ -74,28 +43,17 @@ configurations {
     testImplementation {
         extendsFrom(configurations.compileOnly.get())
     }
+=======
+>>>>>>> origin/experimental
 }
 
 tasks {
-    compileJava {
-        options.encoding = "UTF-8"
-    }
-
-    processResources {
-        filesMatching("plugin.yml") {
-            expand("version" to displayVersion)
-        }
-    }
-
-    jar {
-        enabled = false
-    }
-
     shadowJar {
 <<<<<<< HEAD
         archiveFileName.set("ExtraGear v${project.version}.jar")
 =======
         relocate("org.bstats", "extragear.libs.bstats")
+<<<<<<< HEAD
 <<<<<<< HEAD
         archiveFileName.set("ExtraGear-1.0.0-UNOFFICIAL.jar")
 >>>>>>> origin/experimental
@@ -115,5 +73,7 @@ tasks {
 
     test {
         enabled = false
+=======
+>>>>>>> origin/experimental
     }
 }

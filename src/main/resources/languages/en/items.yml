@@ -1,0 +1,534 @@
+# ExtraGear item translations (en). Block lore: Type / Description / Stats / Usage.
+
+COPPER_SWORD:
+  name: "&rCopper Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7An entry-level blade forged from Copper."
+    - "&7Carries &bSmite II&7, making it handy for clearing"
+    - "&7out early-game undead such as zombies and skeletons."
+
+TIN_SWORD:
+  name: "&rTin Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A light, cheap sword forged from a base metal."
+    - "&7Comes pre-enchanted with &bSharpness&7 for a small"
+    - "&7but reliable damage boost over a vanilla blade."
+
+SILVER_SWORD:
+  name: "&rSilver Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A light, cheap sword forged from a base metal."
+    - "&7Comes pre-enchanted with &bSharpness&7 for a small"
+    - "&7but reliable damage boost over a vanilla blade."
+
+ALUMINUM_SWORD:
+  name: "&rAluminum Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7An aluminium-based blade built for pest control."
+    - "&7Carries &bBane of Arthropods&7, tearing through"
+    - "&7spiders, silverfish and other bugs with ease."
+
+LEAD_SWORD:
+  name: "&rLead Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A heavy, dependable alloy blade."
+    - "&7Combines a strong &bSharpness&7 enchantment with"
+    - "&bUnbreaking&7 for sustained combat use."
+
+ZINC_SWORD:
+  name: "&rZinc Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A light, cheap sword forged from a base metal."
+    - "&7Comes pre-enchanted with &bSharpness&7 for a small"
+    - "&7but reliable damage boost over a vanilla blade."
+
+MAGNESIUM_SWORD:
+  name: "&rMagnesium Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A solid mid-tier alloy sword."
+    - "&7Pre-enchanted with &bSharpness&7 and &bUnbreaking&7,"
+    - "&7balancing extra damage with a longer lifespan."
+
+STEEL_SWORD:
+  name: "&rSteel Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A heavy, dependable alloy blade."
+    - "&7Combines a strong &bSharpness&7 enchantment with"
+    - "&bUnbreaking&7 for sustained combat use."
+
+BRONZE_SWORD:
+  name: "&rBronze Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A solid mid-tier alloy sword."
+    - "&7Pre-enchanted with &bSharpness&7 and &bUnbreaking&7,"
+    - "&7balancing extra damage with a longer lifespan."
+
+DURALUMIN_SWORD:
+  name: "&rDuralumin Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A solid mid-tier alloy sword."
+    - "&7Pre-enchanted with &bSharpness&7 and &bUnbreaking&7,"
+    - "&7balancing extra damage with a longer lifespan."
+
+BILLON_SWORD:
+  name: "&rBillon Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A solid mid-tier alloy sword."
+    - "&7Pre-enchanted with &bSharpness&7 and &bUnbreaking&7,"
+    - "&7balancing extra damage with a longer lifespan."
+
+BRASS_SWORD:
+  name: "&rBrass Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A specialist anti-undead blade."
+    - "&7Carries powerful &bSmite&7 plus &bUnbreaking&7,"
+    - "&7devastating against zombies, skeletons and wither"
+    - "&7skeletons in the Nether."
+
+ALUMINUM_BRASS_SWORD:
+  name: "&rAluminum Brass Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7An aluminium-based blade built for pest control."
+    - "&7Carries &bBane of Arthropods&7, tearing through"
+    - "&7spiders, silverfish and other bugs with ease."
+
+ALUMINUM_BRONZE_SWORD:
+  name: "&rAluminum Bronze Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7An aluminium-based blade built for pest control."
+    - "&7Carries &bBane of Arthropods&7, tearing through"
+    - "&7spiders, silverfish and other bugs with ease."
+
+CORINTHIAN_BRONZE_SWORD:
+  name: "&rCorinthian Bronze Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A heavy, dependable alloy blade."
+    - "&7Combines a strong &bSharpness&7 enchantment with"
+    - "&bUnbreaking&7 for sustained combat use."
+
+SOLDER_SWORD:
+  name: "&rSolder Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A solid mid-tier alloy sword."
+    - "&7Pre-enchanted with &bSharpness&7 and &bUnbreaking&7,"
+    - "&7balancing extra damage with a longer lifespan."
+
+DAMASCUS_STEEL_SWORD:
+  name: "&rDamascus Steel Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A patterned blade folded from Damascus Steel."
+    - "&7Carries heavy &bSharpness&7 and &bUnbreaking&7,"
+    - "&7a true upper-tier weapon."
+
+HARDENED_SWORD:
+  name: "&rHardened Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A top-tier blade forged from a hardened alloy."
+    - "&7Carries some of the strongest &bSharpness&7 and"
+    - "&bUnbreaking&7 in ExtraGear - a late-game powerhouse."
+
+REINFORCED_SWORD:
+  name: "&rReinforced Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A top-tier blade forged from a hardened alloy."
+    - "&7Carries some of the strongest &bSharpness&7 and"
+    - "&bUnbreaking&7 in ExtraGear - a late-game powerhouse."
+
+FERROSILICON_SWORD:
+  name: "&rFerrosilicon Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A specialist anti-undead blade."
+    - "&7Carries powerful &bSmite&7 plus &bUnbreaking&7,"
+    - "&7devastating against zombies, skeletons and wither"
+    - "&7skeletons in the Nether."
+
+GILDED_IRON_SWORD:
+  name: "&rGilded Iron Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A gilded blade with an ornate golden edge."
+    - "&7Carries strong &bBane of Arthropods&7 and high"
+    - "&bUnbreaking&7, lasting far longer than gold should."
+
+NICKEL_SWORD:
+  name: "&rNickel Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A heavy, dependable alloy blade."
+    - "&7Combines a strong &bSharpness&7 enchantment with"
+    - "&bUnbreaking&7 for sustained combat use."
+
+COBALT_SWORD:
+  name: "&rCobalt Sword"
+  type:
+    - "&7&oWeapon"
+  description:
+    - "&7A top-tier blade forged from a hardened alloy."
+    - "&7Carries some of the strongest &bSharpness&7 and"
+    - "&bUnbreaking&7 in ExtraGear - a late-game powerhouse."
+
+COPPER_HELMET:
+  name: "&fCopper Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+COPPER_CHESTPLATE:
+  name: "&fCopper Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+COPPER_LEGGINGS:
+  name: "&fCopper Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+COPPER_BOOTS:
+  name: "&fCopper Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+TIN_HELMET:
+  name: "&fTin Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+TIN_CHESTPLATE:
+  name: "&fTin Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+TIN_LEGGINGS:
+  name: "&fTin Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+TIN_BOOTS:
+  name: "&fTin Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+SILVER_HELMET:
+  name: "&fSilver Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+SILVER_CHESTPLATE:
+  name: "&fSilver Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+SILVER_LEGGINGS:
+  name: "&fSilver Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+SILVER_BOOTS:
+  name: "&fSilver Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ALUMINUM_HELMET:
+  name: "&fAluminum Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ALUMINUM_CHESTPLATE:
+  name: "&fAluminum Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ALUMINUM_LEGGINGS:
+  name: "&fAluminum Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ALUMINUM_BOOTS:
+  name: "&fAluminum Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+LEAD_HELMET:
+  name: "&fLead Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+LEAD_CHESTPLATE:
+  name: "&fLead Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+LEAD_LEGGINGS:
+  name: "&fLead Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+LEAD_BOOTS:
+  name: "&fLead Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ZINC_HELMET:
+  name: "&fZinc Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ZINC_CHESTPLATE:
+  name: "&fZinc Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ZINC_LEGGINGS:
+  name: "&fZinc Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+ZINC_BOOTS:
+  name: "&fZinc Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+MAGNESIUM_HELMET:
+  name: "&fMagnesium Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+MAGNESIUM_CHESTPLATE:
+  name: "&fMagnesium Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+MAGNESIUM_LEGGINGS:
+  name: "&fMagnesium Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+MAGNESIUM_BOOTS:
+  name: "&fMagnesium Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+STEEL_HELMET:
+  name: "&fSteel Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+STEEL_CHESTPLATE:
+  name: "&fSteel Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+STEEL_LEGGINGS:
+  name: "&fSteel Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+STEEL_BOOTS:
+  name: "&fSteel Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+COBALT_HELMET:
+  name: "&fCobalt Helmet"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The helmet of an ExtraGear armor set."
+    - "&7Comes with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+COBALT_CHESTPLATE:
+  name: "&fCobalt Chestplate"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The chestplate of an ExtraGear armor set - the"
+    - "&7most protective piece of the set."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+COBALT_LEGGINGS:
+  name: "&fCobalt Leggings"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The leggings of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."
+
+COBALT_BOOTS:
+  name: "&fCobalt Boots"
+  type:
+    - "&7&oArmor"
+  description:
+    - "&7The boots of an ExtraGear armor set."
+    - "&7Come with built-in protection enchantments."
+    - "&7Crafted in the &bArmor Forge&7 from its metal ingots."

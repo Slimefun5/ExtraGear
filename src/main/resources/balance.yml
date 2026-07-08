@@ -1,0 +1,102 @@
+# Per-item balance scores (0-100) for ExtraGear, relative to vanilla Minecraft.
+# Read by Slimefun's BalanceService (overrides the auto heuristic). Bands:
+#   0-10 Trivial | 11-25 Standard | 26-40 Advanced | 41-69 Powerful | 70-100 Overpowered
+#   (vanilla anchors: iron gear ~15, diamond ~20, netherite ~30, beacon ~35, end crystal ~70, mace ~85)
+#
+# Methodology (read from ExtraGear.java, the sole registration source - no abilities,
+# AoE, set bonuses or potion effects exist anywhere in this addon):
+# - Every sword is a plain IRON_SWORD (GILDED_IRON uses GOLDEN_SWORD) with baked-in
+#   unsafe enchantments; every armor piece is plain LEATHER (Copper) or IRON (all
+#   others) with baked-in unsafe enchantments. No new material tier is ever used.
+# - Sharpness/Smite/Bane of Arthropods + Unbreaking are all individually obtainable
+#   on a plain iron sword within VANILLA legal caps (Sharpness/Smite/Bane <= V,
+#   Unbreaking <= III) via table + anvil, so combos within those caps score at the
+#   plain iron/leather anchor. Only levels that exceed the vanilla cap (this addon
+#   bakes in "unsafe" enchants up to level X) represent genuine extra power, added
+#   above the anchor - Sharpness excess weighted highest since it applies in every
+#   fight; Smite/Bane excess weighted lower since they only help vs undead/
+#   arthropods; Unbreaking excess weighted lowest, pure longevity, no damage/defense.
+# - Protection (all damage types) is weighted higher than Protection Explosions
+#   (blast-only, narrow) for the same reason - Copper's armor only ever gets Blast
+#   Protection on a LEATHER base, making it the weakest set by a wide margin.
+# - Within a set, chestplate/leggings score a touch above helmet/boots, mirroring
+#   vanilla iron armor points (helmet 2, chest 6, legs 5, boots 2).
+scores:
+  # --- Swords: single enchant fully inside vanilla legal caps -> plain iron anchor ---
+  COPPER_SWORD: 15 # IRON_SWORD, Smite II (<=V cap, undead-only) -> no excess
+  TIN_SWORD: 15 # IRON_SWORD, Sharpness I (<=V cap)
+  SILVER_SWORD: 15 # IRON_SWORD, Sharpness II (<=V cap)
+  ALUMINUM_SWORD: 15 # IRON_SWORD, Bane III (<=V cap, arthropod-only)
+  ZINC_SWORD: 15 # IRON_SWORD, Sharpness II (<=V cap)
+
+  # --- Swords: enchant still <=V/III cap, but Unbreaking pushed past III (+excess) ---
+  MAGNESIUM_SWORD: 17 # Sharpness II + Unbreaking V (excess 2 over cap III)
+  BILLON_SWORD: 17 # Sharpness IV + Unbreaking V (excess 2)
+  ALUMINUM_BRASS_SWORD: 16 # Bane IV (arthropod-only) + Unbreaking IV (excess 1)
+  ALUMINUM_BRONZE_SWORD: 17 # Bane IV (arthropod-only) + Unbreaking V (excess 2)
+  CORINTHIAN_BRONZE_SWORD: 17 # Sharpness V (at cap) + Unbreaking V (excess 2)
+  STEEL_SWORD: 18 # Sharpness V (at cap) + Unbreaking VI (excess 3)
+  BRONZE_SWORD: 18 # Sharpness III + Unbreaking VI (excess 3)
+  DURALUMIN_SWORD: 18 # Sharpness III + Unbreaking VI (excess 3)
+  BRASS_SWORD: 18 # Smite IV (undead-only) + Unbreaking VI (excess 3)
+  SOLDER_SWORD: 18 # Sharpness IV + Unbreaking VI (excess 3)
+  LEAD_SWORD: 20 # Sharpness III + Unbreaking VIII (excess 5, very durable blade)
+  NICKEL_SWORD: 20 # Sharpness VI (excess 1 over cap V, universal dmg) + Unbreaking V (excess 2)
+
+  # --- Swords: Sharpness/Smite/Bane pushed past vanilla V/VIII, real extra power ---
+  GILDED_IRON_SWORD: 21 # GOLDEN_SWORD (weaker base) + Bane VIII (arthropod-only, excess 3) + Unbreaking X (excess 7)
+  FERROSILICON_SWORD: 21 # Smite VIII (undead-only, excess 3, huge vs zombies/skeletons) + Unbreaking IV (excess 1)
+  DAMASCUS_STEEL_SWORD: 22 # Sharpness VI (excess 1, universal dmg) + Unbreaking VII (excess 4)
+  COBALT_SWORD: 24 # Sharpness VII (excess 2, universal dmg) + Unbreaking VII (excess 4)
+  HARDENED_SWORD: 27 # Sharpness VII (excess 2, universal dmg) + Unbreaking X (excess 7, near-unbreakable)
+  REINFORCED_SWORD: 28 # Sharpness VIII (excess 3, highest universal dmg bonus of the set) + Unbreaking VIII (excess 5)
+
+  # --- Copper armor: LEATHER base + Blast Protection only (narrow, explosions rare) ---
+  COPPER_HELMET: 4
+  COPPER_BOOTS: 4
+  COPPER_LEGGINGS: 6
+  COPPER_CHESTPLATE: 7
+
+  # --- Tin/Aluminum armor: IRON base + Blast Protection only, still <=IV cap ---
+  TIN_HELMET: 11 # Blast Protection III, narrow (explosions only)
+  TIN_BOOTS: 11
+  ALUMINUM_HELMET: 11 # Blast Protection II + Unbreaking II, narrow, both <=cap
+  ALUMINUM_BOOTS: 11
+  TIN_LEGGINGS: 13
+  ALUMINUM_LEGGINGS: 13
+  TIN_CHESTPLATE: 14
+  ALUMINUM_CHESTPLATE: 14
+
+  # --- Silver/Zinc armor: IRON base + general Protection (all damage), <=IV cap ---
+  SILVER_HELMET: 14 # Protection II, applies to all damage types
+  SILVER_BOOTS: 14
+  ZINC_HELMET: 14 # Protection III
+  ZINC_BOOTS: 14
+  SILVER_LEGGINGS: 16
+  ZINC_LEGGINGS: 16
+  SILVER_CHESTPLATE: 17
+  ZINC_CHESTPLATE: 17
+
+  # --- Steel armor: IRON base + Protection III (at cap) + Unbreaking IV (excess 1) ---
+  STEEL_HELMET: 15
+  STEEL_BOOTS: 15
+  STEEL_LEGGINGS: 17
+  STEEL_CHESTPLATE: 18
+
+  # --- Magnesium armor: IRON base + Protection II + Unbreaking V (excess 2) ---
+  MAGNESIUM_HELMET: 16
+  MAGNESIUM_BOOTS: 16
+  MAGNESIUM_LEGGINGS: 18
+  MAGNESIUM_CHESTPLATE: 19
+
+  # --- Lead armor: IRON base + Protection III (at cap) + Unbreaking VIII (excess 5) ---
+  LEAD_HELMET: 19
+  LEAD_BOOTS: 19
+  LEAD_LEGGINGS: 21
+  LEAD_CHESTPLATE: 22
+
+  # --- Cobalt armor: IRON base + Protection VII (excess 3 over cap IV, all damage) + Unbreaking VII (excess 4) ---
+  COBALT_HELMET: 26
+  COBALT_BOOTS: 26
+  COBALT_LEGGINGS: 28
+  COBALT_CHESTPLATE: 29
