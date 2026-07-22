@@ -4,14 +4,13 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/ExtraGear/total)
 [![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
 [![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/ExtraGear?style=social)](https://github.com/Slimefun5/ExtraGear)
-[![bStats](https://bStats.org/signatures/bukkit/ExtraGear.svg)](https://bStats.org/plugin/bukkit/ExtraGear/31440)
 
 A Slimefun addon that adds extra armor sets and gear with unique abilities.
 
 ## Requirements
 - Java 25
 - Paper 1.16.* - 26.1.*
-- [Slimefun 5](https://github.com/Slimefun5/Slimefun5)
+- Slimefun 5
 
 ExtraGear adds extra armor sets and tools crafted from the metals available in Slimefun.
 
@@ -43,24 +42,6 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.2.7")
+    "githubCompileOnly"("Slimefun5:ExtraGear:v1.0.1")
 }
 ```
-
-## Wiki
-
-[Read more on the Slimefun Wiki...](https://github.com/Slimefun5/Wiki/wiki/ExtraGear)
-
-## Discord
-
-You can find Slimefun's community on Discord! Click the badge below to join the server for suggestions/questions or other discussions about this plugin.
-
-<p align="center">
-  <a href="https://discord.gg/CbBYZBEWdR">
-    <img src="https://discordapp.com/api/guilds/738626600539160576/widget.png?style=banner2" alt="Discord"/>
-  </a>
-</p>
-
-## License
-
-This project is open-source and licensed under the MIT License.
