@@ -42,7 +42,10 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
     @Override
     public void onEnable() {
-        new Metrics(this, 6469);
+        // Consolidated metrics: only start our own bStats if the server opted out (metrics.disable-addon-metrics = false).
+        if (Slimefun.getCfg().contains("metrics.disable-addon-metrics") && !Slimefun.getCfg().getBoolean("metrics.disable-addon-metrics")) {
+            new Metrics(this, 6469);
+        }
 
         
         itemGroup = new ItemGroup(new io.github.thebusybiscuit.slimefun5.libraries.keys.NamespacedKey("extragear", "items"), CustomItemStack.create(MaterialCompat.safe(XMaterial.DIAMOND_SWORD), "\u00a76ExtraGear"), 1).setTheme("tools");
