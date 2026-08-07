@@ -92,7 +92,6 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
         registerSword(XMaterial.IRON_SWORD, "COBALT", SlimefunItems.COBALT_INGOT, Arrays.asList(new Pair<>(Enchantment.DAMAGE_ALL, 7), new Pair<>(Enchantment.DURABILITY, 7)));
         registerArmor(ArmorSet.IRON, "COBALT", SlimefunItems.COBALT_INGOT, Arrays.asList(new Pair<>(Enchantment.PROTECTION_ENVIRONMENTAL, 7), new Pair<>(Enchantment.DURABILITY, 7)));
 
-        // Contribute this addon's per-language item translations (languages/<lang>/items.yml).
         Slimefun.getItemTranslationService().registerTranslations(this);
 
         // Register this addon's own in-game wiki page (core does not auto-generate addon wikis).
@@ -102,7 +101,6 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
     private void registerWiki() {
         WikiText wiki = Slimefun.getWikiText();
 
-        // Bucket this addon's items by their ItemGroup, preserving discovery order.
         Map<ItemGroup, List<String>> groupedItems = new LinkedHashMap<>();
         for (SlimefunItem item : Slimefun.getRegistry().getEnabledSlimefunItems()) {
             try {
@@ -197,7 +195,6 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
 
     @Nullable
     private List<String> describeItem(@Nonnull String itemId) {
-        // --- Swords: grouped by tier of built-in enchantments ---
         switch (itemId) {
             case "COPPER_SWORD":
                 return Arrays.asList(
@@ -272,7 +269,6 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
                 break;
         }
 
-        // --- Armor: shared description per piece type, keyed by suffix ---
         if (itemId.endsWith("_HELMET")) {
             return Arrays.asList(
                 "&7The helmet of an ExtraGear armor set.",
