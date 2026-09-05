@@ -1,178 +1,236 @@
-# ExtraGear item translations (ru). name only; '&' colour codes preserved.
-
-COPPER_SWORD:
-  name: "&rМедь Меч"
-
-TIN_SWORD:
-  name: "&rОлово Меч"
-
-SILVER_SWORD:
-  name: "&rСеребро Меч"
-
-ALUMINUM_SWORD:
-  name: "&rАлюминий Меч"
-
-LEAD_SWORD:
-  name: "&rСвинец Меч"
-
-ZINC_SWORD:
-  name: "&rЦинк Меч"
-
-MAGNESIUM_SWORD:
-  name: "&rМагний Меч"
-
-STEEL_SWORD:
-  name: "&rСталь Меч"
-
-BRONZE_SWORD:
-  name: "&rБронза Меч"
-
-DURALUMIN_SWORD:
-  name: "&rДюралюминий Меч"
-
-BILLON_SWORD:
-  name: "&rБиллон Меч"
-
-BRASS_SWORD:
-  name: "&rЛатунь Меч"
-
-ALUMINUM_BRASS_SWORD:
-  name: "&rАлюминиевая латунь Меч"
-
-ALUMINUM_BRONZE_SWORD:
-  name: "&rАлюминиевая бронза Меч"
-
-CORINTHIAN_BRONZE_SWORD:
-  name: "&rКоринфская бронза Меч"
-
-SOLDER_SWORD:
-  name: "&rПрипой Меч"
-
-DAMASCUS_STEEL_SWORD:
-  name: "&rДамасская сталь Меч"
-
-HARDENED_SWORD:
-  name: "&rЗакалённый металл Меч"
-
-REINFORCED_SWORD:
-  name: "&rУсиленный Меч"
-
-FERROSILICON_SWORD:
-  name: "&rФерросилиций Меч"
-
-GILDED_IRON_SWORD:
-  name: "&rПозолоченное железо Меч"
-
-NICKEL_SWORD:
-  name: "&rНикель Меч"
-
-COBALT_SWORD:
-  name: "&rКобальт Меч"
-
-COPPER_HELMET:
-  name: "&fМедь Шлем"
-
-COPPER_CHESTPLATE:
-  name: "&fМедь Нагрудник"
-
-COPPER_LEGGINGS:
-  name: "&fМедь Поножи"
-
-COPPER_BOOTS:
-  name: "&fМедь Ботинки"
-
-TIN_HELMET:
-  name: "&fОлово Шлем"
-
-TIN_CHESTPLATE:
-  name: "&fОлово Нагрудник"
-
-TIN_LEGGINGS:
-  name: "&fОлово Поножи"
-
-TIN_BOOTS:
-  name: "&fОлово Ботинки"
-
-SILVER_HELMET:
-  name: "&fСеребро Шлем"
-
-SILVER_CHESTPLATE:
-  name: "&fСеребро Нагрудник"
-
-SILVER_LEGGINGS:
-  name: "&fСеребро Поножи"
-
-SILVER_BOOTS:
-  name: "&fСеребро Ботинки"
-
-ALUMINUM_HELMET:
-  name: "&fАлюминий Шлем"
-
-ALUMINUM_CHESTPLATE:
-  name: "&fАлюминий Нагрудник"
-
-ALUMINUM_LEGGINGS:
-  name: "&fАлюминий Поножи"
-
 ALUMINUM_BOOTS:
-  name: "&fАлюминий Ботинки"
-
-LEAD_HELMET:
-  name: "&fСвинец Шлем"
-
-LEAD_CHESTPLATE:
-  name: "&fСвинец Нагрудник"
-
-LEAD_LEGGINGS:
-  name: "&fСвинец Поножи"
-
-LEAD_BOOTS:
-  name: "&fСвинец Ботинки"
-
-ZINC_HELMET:
-  name: "&fЦинк Шлем"
-
-ZINC_CHESTPLATE:
-  name: "&fЦинк Нагрудник"
-
-ZINC_LEGGINGS:
-  name: "&fЦинк Поножи"
-
-ZINC_BOOTS:
-  name: "&fЦинк Ботинки"
-
-MAGNESIUM_HELMET:
-  name: "&fМагний Шлем"
-
-MAGNESIUM_CHESTPLATE:
-  name: "&fМагний Нагрудник"
-
-MAGNESIUM_LEGGINGS:
-  name: "&fМагний Поножи"
-
-MAGNESIUM_BOOTS:
-  name: "&fМагний Ботинки"
-
-STEEL_HELMET:
-  name: "&fСталь Шлем"
-
-STEEL_CHESTPLATE:
-  name: "&fСталь Нагрудник"
-
-STEEL_LEGGINGS:
-  name: "&fСталь Поножи"
-
-STEEL_BOOTS:
-  name: "&fСталь Ботинки"
-
-COBALT_HELMET:
-  name: "&fКобальт Шлем"
-
-COBALT_CHESTPLATE:
-  name: "&fКобальт Нагрудник"
-
-COBALT_LEGGINGS:
-  name: "&fКобальт Поножи"
-
+  name: '&fАлюминий Ботинки'
+  type:
+  - '&7&oБроня'
+ALUMINUM_BRASS_SWORD:
+  name: '&rАлюминиевая латунь Меч'
+  type:
+  - '&7&oОружие'
+ALUMINUM_BRONZE_SWORD:
+  name: '&rАлюминиевая бронза Меч'
+  type:
+  - '&7&oОружие'
+ALUMINUM_CHESTPLATE:
+  name: '&fАлюминий Нагрудник'
+  type:
+  - '&7&oБроня'
+ALUMINUM_HELMET:
+  name: '&fАлюминий Шлем'
+  type:
+  - '&7&oБроня'
+ALUMINUM_LEGGINGS:
+  name: '&fАлюминий Поножи'
+  type:
+  - '&7&oБроня'
+ALUMINUM_SWORD:
+  name: '&rАлюминий Меч'
+  type:
+  - '&7&oОружие'
+BILLON_SWORD:
+  name: '&rБиллон Меч'
+  type:
+  - '&7&oОружие'
+BRASS_SWORD:
+  name: '&rЛатунь Меч'
+  type:
+  - '&7&oОружие'
+BRONZE_SWORD:
+  name: '&rБронза Меч'
+  type:
+  - '&7&oОружие'
 COBALT_BOOTS:
-  name: "&fКобальт Ботинки"
+  name: '&fКобальт Ботинки'
+  type:
+  - '&7&oБроня'
+COBALT_CHESTPLATE:
+  name: '&fКобальт Нагрудник'
+  type:
+  - '&7&oБроня'
+COBALT_HELMET:
+  name: '&fКобальт Шлем'
+  type:
+  - '&7&oБроня'
+COBALT_LEGGINGS:
+  name: '&fКобальт Поножи'
+  type:
+  - '&7&oБроня'
+COBALT_SWORD:
+  name: '&rКобальт Меч'
+  type:
+  - '&7&oОружие'
+COPPER_BOOTS:
+  name: '&fМедь Ботинки'
+  type:
+  - '&7&oБроня'
+COPPER_CHESTPLATE:
+  name: '&fМедь Нагрудник'
+  type:
+  - '&7&oБроня'
+COPPER_HELMET:
+  name: '&fМедь Шлем'
+  type:
+  - '&7&oБроня'
+COPPER_LEGGINGS:
+  name: '&fМедь Поножи'
+  type:
+  - '&7&oБроня'
+COPPER_SWORD:
+  name: '&rМедь Меч'
+  type:
+  - '&7&oОружие'
+CORINTHIAN_BRONZE_SWORD:
+  name: '&rКоринфская бронза Меч'
+  type:
+  - '&7&oОружие'
+DAMASCUS_STEEL_SWORD:
+  name: '&rДамасская сталь Меч'
+  type:
+  - '&7&oОружие'
+DURALUMIN_SWORD:
+  name: '&rДюралюминий Меч'
+  type:
+  - '&7&oОружие'
+FERROSILICON_SWORD:
+  name: '&rФерросилиций Меч'
+  type:
+  - '&7&oОружие'
+GILDED_IRON_SWORD:
+  name: '&rПозолоченное железо Меч'
+  type:
+  - '&7&oОружие'
+HARDENED_SWORD:
+  name: '&rЗакалённый металл Меч'
+  type:
+  - '&7&oОружие'
+LEAD_BOOTS:
+  name: '&fСвинец Ботинки'
+  type:
+  - '&7&oБроня'
+LEAD_CHESTPLATE:
+  name: '&fСвинец Нагрудник'
+  type:
+  - '&7&oБроня'
+LEAD_HELMET:
+  name: '&fСвинец Шлем'
+  type:
+  - '&7&oБроня'
+LEAD_LEGGINGS:
+  name: '&fСвинец Поножи'
+  type:
+  - '&7&oБроня'
+LEAD_SWORD:
+  name: '&rСвинец Меч'
+  type:
+  - '&7&oОружие'
+MAGNESIUM_BOOTS:
+  name: '&fМагний Ботинки'
+  type:
+  - '&7&oБроня'
+MAGNESIUM_CHESTPLATE:
+  name: '&fМагний Нагрудник'
+  type:
+  - '&7&oБроня'
+MAGNESIUM_HELMET:
+  name: '&fМагний Шлем'
+  type:
+  - '&7&oБроня'
+MAGNESIUM_LEGGINGS:
+  name: '&fМагний Поножи'
+  type:
+  - '&7&oБроня'
+MAGNESIUM_SWORD:
+  name: '&rМагний Меч'
+  type:
+  - '&7&oОружие'
+NICKEL_SWORD:
+  name: '&rНикель Меч'
+  type:
+  - '&7&oОружие'
+REINFORCED_SWORD:
+  name: '&rУсиленный Меч'
+  type:
+  - '&7&oОружие'
+SILVER_BOOTS:
+  name: '&fСеребро Ботинки'
+  type:
+  - '&7&oБроня'
+SILVER_CHESTPLATE:
+  name: '&fСеребро Нагрудник'
+  type:
+  - '&7&oБроня'
+SILVER_HELMET:
+  name: '&fСеребро Шлем'
+  type:
+  - '&7&oБроня'
+SILVER_LEGGINGS:
+  name: '&fСеребро Поножи'
+  type:
+  - '&7&oБроня'
+SILVER_SWORD:
+  name: '&rСеребро Меч'
+  type:
+  - '&7&oОружие'
+SOLDER_SWORD:
+  name: '&rПрипой Меч'
+  type:
+  - '&7&oОружие'
+STEEL_BOOTS:
+  name: '&fСталь Ботинки'
+  type:
+  - '&7&oБроня'
+STEEL_CHESTPLATE:
+  name: '&fСталь Нагрудник'
+  type:
+  - '&7&oБроня'
+STEEL_HELMET:
+  name: '&fСталь Шлем'
+  type:
+  - '&7&oБроня'
+STEEL_LEGGINGS:
+  name: '&fСталь Поножи'
+  type:
+  - '&7&oБроня'
+STEEL_SWORD:
+  name: '&rСталь Меч'
+  type:
+  - '&7&oОружие'
+TIN_BOOTS:
+  name: '&fОлово Ботинки'
+  type:
+  - '&7&oБроня'
+TIN_CHESTPLATE:
+  name: '&fОлово Нагрудник'
+  type:
+  - '&7&oБроня'
+TIN_HELMET:
+  name: '&fОлово Шлем'
+  type:
+  - '&7&oБроня'
+TIN_LEGGINGS:
+  name: '&fОлово Поножи'
+  type:
+  - '&7&oБроня'
+TIN_SWORD:
+  name: '&rОлово Меч'
+  type:
+  - '&7&oОружие'
+ZINC_BOOTS:
+  name: '&fЦинк Ботинки'
+  type:
+  - '&7&oБроня'
+ZINC_CHESTPLATE:
+  name: '&fЦинк Нагрудник'
+  type:
+  - '&7&oБроня'
+ZINC_HELMET:
+  name: '&fЦинк Шлем'
+  type:
+  - '&7&oБроня'
+ZINC_LEGGINGS:
+  name: '&fЦинк Поножи'
+  type:
+  - '&7&oБроня'
+ZINC_SWORD:
+  name: '&rЦинк Меч'
+  type:
+  - '&7&oОружие'

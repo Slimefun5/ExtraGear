@@ -1,0 +1,177 @@
+ALUMINUM_BOOTS:
+  type:
+  - '&7&oBaluti'
+ALUMINUM_BRASS_SWORD:
+  type:
+  - '&7&oSandata'
+ALUMINUM_BRONZE_SWORD:
+  type:
+  - '&7&oSandata'
+ALUMINUM_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+ALUMINUM_HELMET:
+  type:
+  - '&7&oBaluti'
+ALUMINUM_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+ALUMINUM_SWORD:
+  type:
+  - '&7&oSandata'
+BILLON_SWORD:
+  type:
+  - '&7&oSandata'
+BRASS_SWORD:
+  type:
+  - '&7&oSandata'
+BRONZE_SWORD:
+  type:
+  - '&7&oSandata'
+COBALT_BOOTS:
+  type:
+  - '&7&oBaluti'
+COBALT_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+COBALT_HELMET:
+  type:
+  - '&7&oBaluti'
+COBALT_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+COBALT_SWORD:
+  type:
+  - '&7&oSandata'
+COPPER_BOOTS:
+  type:
+  - '&7&oBaluti'
+COPPER_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+COPPER_HELMET:
+  type:
+  - '&7&oBaluti'
+COPPER_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+COPPER_SWORD:
+  type:
+  - '&7&oSandata'
+CORINTHIAN_BRONZE_SWORD:
+  type:
+  - '&7&oSandata'
+DAMASCUS_STEEL_SWORD:
+  type:
+  - '&7&oSandata'
+DURALUMIN_SWORD:
+  type:
+  - '&7&oSandata'
+FERROSILICON_SWORD:
+  type:
+  - '&7&oSandata'
+GILDED_IRON_SWORD:
+  type:
+  - '&7&oSandata'
+HARDENED_SWORD:
+  type:
+  - '&7&oSandata'
+LEAD_BOOTS:
+  type:
+  - '&7&oBaluti'
+LEAD_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+LEAD_HELMET:
+  type:
+  - '&7&oBaluti'
+LEAD_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+LEAD_SWORD:
+  type:
+  - '&7&oSandata'
+MAGNESIUM_BOOTS:
+  type:
+  - '&7&oBaluti'
+MAGNESIUM_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+MAGNESIUM_HELMET:
+  type:
+  - '&7&oBaluti'
+MAGNESIUM_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+MAGNESIUM_SWORD:
+  type:
+  - '&7&oSandata'
+NICKEL_SWORD:
+  type:
+  - '&7&oSandata'
+REINFORCED_SWORD:
+  type:
+  - '&7&oSandata'
+SILVER_BOOTS:
+  type:
+  - '&7&oBaluti'
+SILVER_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+SILVER_HELMET:
+  type:
+  - '&7&oBaluti'
+SILVER_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+SILVER_SWORD:
+  type:
+  - '&7&oSandata'
+SOLDER_SWORD:
+  type:
+  - '&7&oSandata'
+STEEL_BOOTS:
+  type:
+  - '&7&oBaluti'
+STEEL_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+STEEL_HELMET:
+  type:
+  - '&7&oBaluti'
+STEEL_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+STEEL_SWORD:
+  type:
+  - '&7&oSandata'
+TIN_BOOTS:
+  type:
+  - '&7&oBaluti'
+TIN_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+TIN_HELMET:
+  type:
+  - '&7&oBaluti'
+TIN_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+TIN_SWORD:
+  type:
+  - '&7&oSandata'
+ZINC_BOOTS:
+  type:
+  - '&7&oBaluti'
+ZINC_CHESTPLATE:
+  type:
+  - '&7&oBaluti'
+ZINC_HELMET:
+  type:
+  - '&7&oBaluti'
+ZINC_LEGGINGS:
+  type:
+  - '&7&oBaluti'
+ZINC_SWORD:
+  type:
+  - '&7&oSandata'

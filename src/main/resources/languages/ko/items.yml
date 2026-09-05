@@ -1,0 +1,177 @@
+ALUMINUM_BOOTS:
+  type:
+  - '&7&o갑옷'
+ALUMINUM_BRASS_SWORD:
+  type:
+  - '&7&o무기'
+ALUMINUM_BRONZE_SWORD:
+  type:
+  - '&7&o무기'
+ALUMINUM_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+ALUMINUM_HELMET:
+  type:
+  - '&7&o갑옷'
+ALUMINUM_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+ALUMINUM_SWORD:
+  type:
+  - '&7&o무기'
+BILLON_SWORD:
+  type:
+  - '&7&o무기'
+BRASS_SWORD:
+  type:
+  - '&7&o무기'
+BRONZE_SWORD:
+  type:
+  - '&7&o무기'
+COBALT_BOOTS:
+  type:
+  - '&7&o갑옷'
+COBALT_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+COBALT_HELMET:
+  type:
+  - '&7&o갑옷'
+COBALT_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+COBALT_SWORD:
+  type:
+  - '&7&o무기'
+COPPER_BOOTS:
+  type:
+  - '&7&o갑옷'
+COPPER_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+COPPER_HELMET:
+  type:
+  - '&7&o갑옷'
+COPPER_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+COPPER_SWORD:
+  type:
+  - '&7&o무기'
+CORINTHIAN_BRONZE_SWORD:
+  type:
+  - '&7&o무기'
+DAMASCUS_STEEL_SWORD:
+  type:
+  - '&7&o무기'
+DURALUMIN_SWORD:
+  type:
+  - '&7&o무기'
+FERROSILICON_SWORD:
+  type:
+  - '&7&o무기'
+GILDED_IRON_SWORD:
+  type:
+  - '&7&o무기'
+HARDENED_SWORD:
+  type:
+  - '&7&o무기'
+LEAD_BOOTS:
+  type:
+  - '&7&o갑옷'
+LEAD_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+LEAD_HELMET:
+  type:
+  - '&7&o갑옷'
+LEAD_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+LEAD_SWORD:
+  type:
+  - '&7&o무기'
+MAGNESIUM_BOOTS:
+  type:
+  - '&7&o갑옷'
+MAGNESIUM_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+MAGNESIUM_HELMET:
+  type:
+  - '&7&o갑옷'
+MAGNESIUM_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+MAGNESIUM_SWORD:
+  type:
+  - '&7&o무기'
+NICKEL_SWORD:
+  type:
+  - '&7&o무기'
+REINFORCED_SWORD:
+  type:
+  - '&7&o무기'
+SILVER_BOOTS:
+  type:
+  - '&7&o갑옷'
+SILVER_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+SILVER_HELMET:
+  type:
+  - '&7&o갑옷'
+SILVER_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+SILVER_SWORD:
+  type:
+  - '&7&o무기'
+SOLDER_SWORD:
+  type:
+  - '&7&o무기'
+STEEL_BOOTS:
+  type:
+  - '&7&o갑옷'
+STEEL_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+STEEL_HELMET:
+  type:
+  - '&7&o갑옷'
+STEEL_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+STEEL_SWORD:
+  type:
+  - '&7&o무기'
+TIN_BOOTS:
+  type:
+  - '&7&o갑옷'
+TIN_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+TIN_HELMET:
+  type:
+  - '&7&o갑옷'
+TIN_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+TIN_SWORD:
+  type:
+  - '&7&o무기'
+ZINC_BOOTS:
+  type:
+  - '&7&o갑옷'
+ZINC_CHESTPLATE:
+  type:
+  - '&7&o갑옷'
+ZINC_HELMET:
+  type:
+  - '&7&o갑옷'
+ZINC_LEGGINGS:
+  type:
+  - '&7&o갑옷'
+ZINC_SWORD:
+  type:
+  - '&7&o무기'

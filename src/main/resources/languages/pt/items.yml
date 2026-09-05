@@ -1,236 +1,177 @@
 ALUMINUM_BOOTS:
-  name: '&fAluminio Botas'
   type:
   - '&7&oArmadura'
 ALUMINUM_BRASS_SWORD:
-  name: '&rLatón de aluminio Espada'
   type:
   - '&7&oArma'
 ALUMINUM_BRONZE_SWORD:
-  name: '&rBronce de aluminio Espada'
   type:
   - '&7&oArma'
 ALUMINUM_CHESTPLATE:
-  name: '&fAluminio Peto'
   type:
   - '&7&oArmadura'
 ALUMINUM_HELMET:
-  name: '&fAluminio Casco'
   type:
   - '&7&oArmadura'
 ALUMINUM_LEGGINGS:
-  name: '&fAluminio Grebas'
   type:
   - '&7&oArmadura'
 ALUMINUM_SWORD:
-  name: '&rAluminio Espada'
   type:
   - '&7&oArma'
 BILLON_SWORD:
-  name: '&rVellón Espada'
   type:
   - '&7&oArma'
 BRASS_SWORD:
-  name: '&rLatón Espada'
   type:
   - '&7&oArma'
 BRONZE_SWORD:
-  name: '&rBronce Espada'
   type:
   - '&7&oArma'
 COBALT_BOOTS:
-  name: '&fCobalto Botas'
   type:
   - '&7&oArmadura'
 COBALT_CHESTPLATE:
-  name: '&fCobalto Peto'
   type:
   - '&7&oArmadura'
 COBALT_HELMET:
-  name: '&fCobalto Casco'
   type:
   - '&7&oArmadura'
 COBALT_LEGGINGS:
-  name: '&fCobalto Grebas'
   type:
   - '&7&oArmadura'
 COBALT_SWORD:
-  name: '&rCobalto Espada'
   type:
   - '&7&oArma'
 COPPER_BOOTS:
-  name: '&fCobre Botas'
   type:
   - '&7&oArmadura'
 COPPER_CHESTPLATE:
-  name: '&fCobre Peto'
   type:
   - '&7&oArmadura'
 COPPER_HELMET:
-  name: '&fCobre Casco'
   type:
   - '&7&oArmadura'
 COPPER_LEGGINGS:
-  name: '&fCobre Grebas'
   type:
   - '&7&oArmadura'
 COPPER_SWORD:
-  name: '&rCobre Espada'
   type:
   - '&7&oArma'
 CORINTHIAN_BRONZE_SWORD:
-  name: '&rBronce corintio Espada'
   type:
   - '&7&oArma'
 DAMASCUS_STEEL_SWORD:
-  name: '&rAcero de Damasco Espada'
   type:
   - '&7&oArma'
 DURALUMIN_SWORD:
-  name: '&rDuraluminio Espada'
   type:
   - '&7&oArma'
 FERROSILICON_SWORD:
-  name: '&rFerrosilicio Espada'
   type:
   - '&7&oArma'
 GILDED_IRON_SWORD:
-  name: '&rHierro dorado Espada'
   type:
   - '&7&oArma'
 HARDENED_SWORD:
-  name: '&rMetal endurecido Espada'
   type:
   - '&7&oArma'
 LEAD_BOOTS:
-  name: '&fPlomo Botas'
   type:
   - '&7&oArmadura'
 LEAD_CHESTPLATE:
-  name: '&fPlomo Peto'
   type:
   - '&7&oArmadura'
 LEAD_HELMET:
-  name: '&fPlomo Casco'
   type:
   - '&7&oArmadura'
 LEAD_LEGGINGS:
-  name: '&fPlomo Grebas'
   type:
   - '&7&oArmadura'
 LEAD_SWORD:
-  name: '&rPlomo Espada'
   type:
   - '&7&oArma'
 MAGNESIUM_BOOTS:
-  name: '&fMagnesio Botas'
   type:
   - '&7&oArmadura'
 MAGNESIUM_CHESTPLATE:
-  name: '&fMagnesio Peto'
   type:
   - '&7&oArmadura'
 MAGNESIUM_HELMET:
-  name: '&fMagnesio Casco'
   type:
   - '&7&oArmadura'
 MAGNESIUM_LEGGINGS:
-  name: '&fMagnesio Grebas'
   type:
   - '&7&oArmadura'
 MAGNESIUM_SWORD:
-  name: '&rMagnesio Espada'
   type:
   - '&7&oArma'
 NICKEL_SWORD:
-  name: '&rNíquel Espada'
   type:
   - '&7&oArma'
 REINFORCED_SWORD:
-  name: '&rReforzado Espada'
   type:
   - '&7&oArma'
 SILVER_BOOTS:
-  name: '&fPlata Botas'
   type:
   - '&7&oArmadura'
 SILVER_CHESTPLATE:
-  name: '&fPlata Peto'
   type:
   - '&7&oArmadura'
 SILVER_HELMET:
-  name: '&fPlata Casco'
   type:
   - '&7&oArmadura'
 SILVER_LEGGINGS:
-  name: '&fPlata Grebas'
   type:
   - '&7&oArmadura'
 SILVER_SWORD:
-  name: '&rPlata Espada'
   type:
   - '&7&oArma'
 SOLDER_SWORD:
-  name: '&rSoldadura Espada'
   type:
   - '&7&oArma'
 STEEL_BOOTS:
-  name: '&fAcero Botas'
   type:
   - '&7&oArmadura'
 STEEL_CHESTPLATE:
-  name: '&fAcero Peto'
   type:
   - '&7&oArmadura'
 STEEL_HELMET:
-  name: '&fAcero Casco'
   type:
   - '&7&oArmadura'
 STEEL_LEGGINGS:
-  name: '&fAcero Grebas'
   type:
   - '&7&oArmadura'
 STEEL_SWORD:
-  name: '&rAcero Espada'
   type:
   - '&7&oArma'
 TIN_BOOTS:
-  name: '&fEstaño Botas'
   type:
   - '&7&oArmadura'
 TIN_CHESTPLATE:
-  name: '&fEstaño Peto'
   type:
   - '&7&oArmadura'
 TIN_HELMET:
-  name: '&fEstaño Casco'
   type:
   - '&7&oArmadura'
 TIN_LEGGINGS:
-  name: '&fEstaño Grebas'
   type:
   - '&7&oArmadura'
 TIN_SWORD:
-  name: '&rEstaño Espada'
   type:
   - '&7&oArma'
 ZINC_BOOTS:
-  name: '&fZinc Botas'
   type:
   - '&7&oArmadura'
 ZINC_CHESTPLATE:
-  name: '&fZinc Peto'
   type:
   - '&7&oArmadura'
 ZINC_HELMET:
-  name: '&fZinc Casco'
   type:
   - '&7&oArmadura'
 ZINC_LEGGINGS:
-  name: '&fZinc Grebas'
   type:
   - '&7&oArmadura'
 ZINC_SWORD:
-  name: '&rZinc Espada'
   type:
   - '&7&oArma'

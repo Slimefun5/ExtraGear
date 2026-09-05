@@ -1,236 +1,177 @@
 ALUMINUM_BOOTS:
-  name: '&fAluminium Laarzen'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_BRASS_SWORD:
-  name: '&rAluminiummessing Zwaard'
   type:
   - '&7&oWapen'
 ALUMINUM_BRONZE_SWORD:
-  name: '&rAluminiumbrons Zwaard'
   type:
   - '&7&oWapen'
 ALUMINUM_CHESTPLATE:
-  name: '&fAluminium Borstplaat'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_HELMET:
-  name: '&fAluminium Helm'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_LEGGINGS:
-  name: '&fAluminium Broek'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_SWORD:
-  name: '&rAluminium Zwaard'
   type:
   - '&7&oWapen'
 BILLON_SWORD:
-  name: '&rBiljoen Zwaard'
   type:
   - '&7&oWapen'
 BRASS_SWORD:
-  name: '&rMessing Zwaard'
   type:
   - '&7&oWapen'
 BRONZE_SWORD:
-  name: '&rBrons Zwaard'
   type:
   - '&7&oWapen'
 COBALT_BOOTS:
-  name: '&fKobalt Laarzen'
   type:
   - '&7&oWapenrusting'
 COBALT_CHESTPLATE:
-  name: '&fKobalt Borstplaat'
   type:
   - '&7&oWapenrusting'
 COBALT_HELMET:
-  name: '&fKobalt Helm'
   type:
   - '&7&oWapenrusting'
 COBALT_LEGGINGS:
-  name: '&fKobalt Broek'
   type:
   - '&7&oWapenrusting'
 COBALT_SWORD:
-  name: '&rKobalt Zwaard'
   type:
   - '&7&oWapen'
 COPPER_BOOTS:
-  name: '&fKoper Laarzen'
   type:
   - '&7&oWapenrusting'
 COPPER_CHESTPLATE:
-  name: '&fKoper Borstplaat'
   type:
   - '&7&oWapenrusting'
 COPPER_HELMET:
-  name: '&fKoper Helm'
   type:
   - '&7&oWapenrusting'
 COPPER_LEGGINGS:
-  name: '&fKoper Broek'
   type:
   - '&7&oWapenrusting'
 COPPER_SWORD:
-  name: '&rKoper Zwaard'
   type:
   - '&7&oWapen'
 CORINTHIAN_BRONZE_SWORD:
-  name: '&rKorinthisch brons Zwaard'
   type:
   - '&7&oWapen'
 DAMASCUS_STEEL_SWORD:
-  name: '&rDamaststaal Zwaard'
   type:
   - '&7&oWapen'
 DURALUMIN_SWORD:
-  name: '&rDuraluminium Zwaard'
   type:
   - '&7&oWapen'
 FERROSILICON_SWORD:
-  name: '&rFerrosilicium Zwaard'
   type:
   - '&7&oWapen'
 GILDED_IRON_SWORD:
-  name: '&rVerguld ijzer Zwaard'
   type:
   - '&7&oWapen'
 HARDENED_SWORD:
-  name: '&rGehard metaal Zwaard'
   type:
   - '&7&oWapen'
 LEAD_BOOTS:
-  name: '&fLood Laarzen'
   type:
   - '&7&oWapenrusting'
 LEAD_CHESTPLATE:
-  name: '&fLood Borstplaat'
   type:
   - '&7&oWapenrusting'
 LEAD_HELMET:
-  name: '&fLood Helm'
   type:
   - '&7&oWapenrusting'
 LEAD_LEGGINGS:
-  name: '&fLood Broek'
   type:
   - '&7&oWapenrusting'
 LEAD_SWORD:
-  name: '&rLood Zwaard'
   type:
   - '&7&oWapen'
 MAGNESIUM_BOOTS:
-  name: '&fMagnesium Laarzen'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_CHESTPLATE:
-  name: '&fMagnesium Borstplaat'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_HELMET:
-  name: '&fMagnesium Helm'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_LEGGINGS:
-  name: '&fMagnesium Broek'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_SWORD:
-  name: '&rMagnesium Zwaard'
   type:
   - '&7&oWapen'
 NICKEL_SWORD:
-  name: '&rNikkel Zwaard'
   type:
   - '&7&oWapen'
 REINFORCED_SWORD:
-  name: '&rVersterkt Zwaard'
   type:
   - '&7&oWapen'
 SILVER_BOOTS:
-  name: '&fZilver Laarzen'
   type:
   - '&7&oWapenrusting'
 SILVER_CHESTPLATE:
-  name: '&fZilver Borstplaat'
   type:
   - '&7&oWapenrusting'
 SILVER_HELMET:
-  name: '&fZilver Helm'
   type:
   - '&7&oWapenrusting'
 SILVER_LEGGINGS:
-  name: '&fZilver Broek'
   type:
   - '&7&oWapenrusting'
 SILVER_SWORD:
-  name: '&rZilver Zwaard'
   type:
   - '&7&oWapen'
 SOLDER_SWORD:
-  name: '&rSoldeer Zwaard'
   type:
   - '&7&oWapen'
 STEEL_BOOTS:
-  name: '&fStaal Laarzen'
   type:
   - '&7&oWapenrusting'
 STEEL_CHESTPLATE:
-  name: '&fStaal Borstplaat'
   type:
   - '&7&oWapenrusting'
 STEEL_HELMET:
-  name: '&fStaal Helm'
   type:
   - '&7&oWapenrusting'
 STEEL_LEGGINGS:
-  name: '&fStaal Broek'
   type:
   - '&7&oWapenrusting'
 STEEL_SWORD:
-  name: '&rStaal Zwaard'
   type:
   - '&7&oWapen'
 TIN_BOOTS:
-  name: '&fTin Laarzen'
   type:
   - '&7&oWapenrusting'
 TIN_CHESTPLATE:
-  name: '&fTin Borstplaat'
   type:
   - '&7&oWapenrusting'
 TIN_HELMET:
-  name: '&fTin Helm'
   type:
   - '&7&oWapenrusting'
 TIN_LEGGINGS:
-  name: '&fTin Broek'
   type:
   - '&7&oWapenrusting'
 TIN_SWORD:
-  name: '&rTin Zwaard'
   type:
   - '&7&oWapen'
 ZINC_BOOTS:
-  name: '&fZink Laarzen'
   type:
   - '&7&oWapenrusting'
 ZINC_CHESTPLATE:
-  name: '&fZink Borstplaat'
   type:
   - '&7&oWapenrusting'
 ZINC_HELMET:
-  name: '&fZink Helm'
   type:
   - '&7&oWapenrusting'
 ZINC_LEGGINGS:
-  name: '&fZink Broek'
   type:
   - '&7&oWapenrusting'
 ZINC_SWORD:
-  name: '&rZink Zwaard'
   type:
   - '&7&oWapen'

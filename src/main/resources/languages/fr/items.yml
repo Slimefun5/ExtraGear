@@ -1,178 +1,236 @@
-# ExtraGear item translations (fr). name only; '&' colour codes preserved.
-
-COPPER_SWORD:
-  name: "&rCuivre Épée"
-
-TIN_SWORD:
-  name: "&rÉtain Épée"
-
-SILVER_SWORD:
-  name: "&rArgent Épée"
-
-ALUMINUM_SWORD:
-  name: "&rAluminium Épée"
-
-LEAD_SWORD:
-  name: "&rPlomb Épée"
-
-ZINC_SWORD:
-  name: "&rZinc Épée"
-
-MAGNESIUM_SWORD:
-  name: "&rMagnésium Épée"
-
-STEEL_SWORD:
-  name: "&rAcier Épée"
-
-BRONZE_SWORD:
-  name: "&rBronze Épée"
-
-DURALUMIN_SWORD:
-  name: "&rDuralumin Épée"
-
-BILLON_SWORD:
-  name: "&rBillon Épée"
-
-BRASS_SWORD:
-  name: "&rLaiton Épée"
-
-ALUMINUM_BRASS_SWORD:
-  name: "&rLaiton d'aluminium Épée"
-
-ALUMINUM_BRONZE_SWORD:
-  name: "&rBronze d'aluminium Épée"
-
-CORINTHIAN_BRONZE_SWORD:
-  name: "&rBronze de Corinthe Épée"
-
-SOLDER_SWORD:
-  name: "&rSoudure Épée"
-
-DAMASCUS_STEEL_SWORD:
-  name: "&rAcier de Damas Épée"
-
-HARDENED_SWORD:
-  name: "&rMétal durci Épée"
-
-REINFORCED_SWORD:
-  name: "&rRenforcé Épée"
-
-FERROSILICON_SWORD:
-  name: "&rFerrosilicium Épée"
-
-GILDED_IRON_SWORD:
-  name: "&rFer doré Épée"
-
-NICKEL_SWORD:
-  name: "&rNickel Épée"
-
-COBALT_SWORD:
-  name: "&rCobalt Épée"
-
-COPPER_HELMET:
-  name: "&fCuivre Casque"
-
-COPPER_CHESTPLATE:
-  name: "&fCuivre Plastron"
-
-COPPER_LEGGINGS:
-  name: "&fCuivre Jambières"
-
-COPPER_BOOTS:
-  name: "&fCuivre Bottes"
-
-TIN_HELMET:
-  name: "&fÉtain Casque"
-
-TIN_CHESTPLATE:
-  name: "&fÉtain Plastron"
-
-TIN_LEGGINGS:
-  name: "&fÉtain Jambières"
-
-TIN_BOOTS:
-  name: "&fÉtain Bottes"
-
-SILVER_HELMET:
-  name: "&fArgent Casque"
-
-SILVER_CHESTPLATE:
-  name: "&fArgent Plastron"
-
-SILVER_LEGGINGS:
-  name: "&fArgent Jambières"
-
-SILVER_BOOTS:
-  name: "&fArgent Bottes"
-
-ALUMINUM_HELMET:
-  name: "&fAluminium Casque"
-
-ALUMINUM_CHESTPLATE:
-  name: "&fAluminium Plastron"
-
-ALUMINUM_LEGGINGS:
-  name: "&fAluminium Jambières"
-
 ALUMINUM_BOOTS:
-  name: "&fAluminium Bottes"
-
-LEAD_HELMET:
-  name: "&fPlomb Casque"
-
-LEAD_CHESTPLATE:
-  name: "&fPlomb Plastron"
-
-LEAD_LEGGINGS:
-  name: "&fPlomb Jambières"
-
-LEAD_BOOTS:
-  name: "&fPlomb Bottes"
-
-ZINC_HELMET:
-  name: "&fZinc Casque"
-
-ZINC_CHESTPLATE:
-  name: "&fZinc Plastron"
-
-ZINC_LEGGINGS:
-  name: "&fZinc Jambières"
-
-ZINC_BOOTS:
-  name: "&fZinc Bottes"
-
-MAGNESIUM_HELMET:
-  name: "&fMagnésium Casque"
-
-MAGNESIUM_CHESTPLATE:
-  name: "&fMagnésium Plastron"
-
-MAGNESIUM_LEGGINGS:
-  name: "&fMagnésium Jambières"
-
-MAGNESIUM_BOOTS:
-  name: "&fMagnésium Bottes"
-
-STEEL_HELMET:
-  name: "&fAcier Casque"
-
-STEEL_CHESTPLATE:
-  name: "&fAcier Plastron"
-
-STEEL_LEGGINGS:
-  name: "&fAcier Jambières"
-
-STEEL_BOOTS:
-  name: "&fAcier Bottes"
-
-COBALT_HELMET:
-  name: "&fCobalt Casque"
-
-COBALT_CHESTPLATE:
-  name: "&fCobalt Plastron"
-
-COBALT_LEGGINGS:
-  name: "&fCobalt Jambières"
-
+  name: '&fAluminium Bottes'
+  type:
+  - '&7&oArmure'
+ALUMINUM_BRASS_SWORD:
+  name: '&rLaiton d''aluminium Épée'
+  type:
+  - '&7&oArme'
+ALUMINUM_BRONZE_SWORD:
+  name: '&rBronze d''aluminium Épée'
+  type:
+  - '&7&oArme'
+ALUMINUM_CHESTPLATE:
+  name: '&fAluminium Plastron'
+  type:
+  - '&7&oArmure'
+ALUMINUM_HELMET:
+  name: '&fAluminium Casque'
+  type:
+  - '&7&oArmure'
+ALUMINUM_LEGGINGS:
+  name: '&fAluminium Jambières'
+  type:
+  - '&7&oArmure'
+ALUMINUM_SWORD:
+  name: '&rAluminium Épée'
+  type:
+  - '&7&oArme'
+BILLON_SWORD:
+  name: '&rBillon Épée'
+  type:
+  - '&7&oArme'
+BRASS_SWORD:
+  name: '&rLaiton Épée'
+  type:
+  - '&7&oArme'
+BRONZE_SWORD:
+  name: '&rBronze Épée'
+  type:
+  - '&7&oArme'
 COBALT_BOOTS:
-  name: "&fCobalt Bottes"
+  name: '&fCobalt Bottes'
+  type:
+  - '&7&oArmure'
+COBALT_CHESTPLATE:
+  name: '&fCobalt Plastron'
+  type:
+  - '&7&oArmure'
+COBALT_HELMET:
+  name: '&fCobalt Casque'
+  type:
+  - '&7&oArmure'
+COBALT_LEGGINGS:
+  name: '&fCobalt Jambières'
+  type:
+  - '&7&oArmure'
+COBALT_SWORD:
+  name: '&rCobalt Épée'
+  type:
+  - '&7&oArme'
+COPPER_BOOTS:
+  name: '&fCuivre Bottes'
+  type:
+  - '&7&oArmure'
+COPPER_CHESTPLATE:
+  name: '&fCuivre Plastron'
+  type:
+  - '&7&oArmure'
+COPPER_HELMET:
+  name: '&fCuivre Casque'
+  type:
+  - '&7&oArmure'
+COPPER_LEGGINGS:
+  name: '&fCuivre Jambières'
+  type:
+  - '&7&oArmure'
+COPPER_SWORD:
+  name: '&rCuivre Épée'
+  type:
+  - '&7&oArme'
+CORINTHIAN_BRONZE_SWORD:
+  name: '&rBronze de Corinthe Épée'
+  type:
+  - '&7&oArme'
+DAMASCUS_STEEL_SWORD:
+  name: '&rAcier de Damas Épée'
+  type:
+  - '&7&oArme'
+DURALUMIN_SWORD:
+  name: '&rDuralumin Épée'
+  type:
+  - '&7&oArme'
+FERROSILICON_SWORD:
+  name: '&rFerrosilicium Épée'
+  type:
+  - '&7&oArme'
+GILDED_IRON_SWORD:
+  name: '&rFer doré Épée'
+  type:
+  - '&7&oArme'
+HARDENED_SWORD:
+  name: '&rMétal durci Épée'
+  type:
+  - '&7&oArme'
+LEAD_BOOTS:
+  name: '&fPlomb Bottes'
+  type:
+  - '&7&oArmure'
+LEAD_CHESTPLATE:
+  name: '&fPlomb Plastron'
+  type:
+  - '&7&oArmure'
+LEAD_HELMET:
+  name: '&fPlomb Casque'
+  type:
+  - '&7&oArmure'
+LEAD_LEGGINGS:
+  name: '&fPlomb Jambières'
+  type:
+  - '&7&oArmure'
+LEAD_SWORD:
+  name: '&rPlomb Épée'
+  type:
+  - '&7&oArme'
+MAGNESIUM_BOOTS:
+  name: '&fMagnésium Bottes'
+  type:
+  - '&7&oArmure'
+MAGNESIUM_CHESTPLATE:
+  name: '&fMagnésium Plastron'
+  type:
+  - '&7&oArmure'
+MAGNESIUM_HELMET:
+  name: '&fMagnésium Casque'
+  type:
+  - '&7&oArmure'
+MAGNESIUM_LEGGINGS:
+  name: '&fMagnésium Jambières'
+  type:
+  - '&7&oArmure'
+MAGNESIUM_SWORD:
+  name: '&rMagnésium Épée'
+  type:
+  - '&7&oArme'
+NICKEL_SWORD:
+  name: '&rNickel Épée'
+  type:
+  - '&7&oArme'
+REINFORCED_SWORD:
+  name: '&rRenforcé Épée'
+  type:
+  - '&7&oArme'
+SILVER_BOOTS:
+  name: '&fArgent Bottes'
+  type:
+  - '&7&oArmure'
+SILVER_CHESTPLATE:
+  name: '&fArgent Plastron'
+  type:
+  - '&7&oArmure'
+SILVER_HELMET:
+  name: '&fArgent Casque'
+  type:
+  - '&7&oArmure'
+SILVER_LEGGINGS:
+  name: '&fArgent Jambières'
+  type:
+  - '&7&oArmure'
+SILVER_SWORD:
+  name: '&rArgent Épée'
+  type:
+  - '&7&oArme'
+SOLDER_SWORD:
+  name: '&rSoudure Épée'
+  type:
+  - '&7&oArme'
+STEEL_BOOTS:
+  name: '&fAcier Bottes'
+  type:
+  - '&7&oArmure'
+STEEL_CHESTPLATE:
+  name: '&fAcier Plastron'
+  type:
+  - '&7&oArmure'
+STEEL_HELMET:
+  name: '&fAcier Casque'
+  type:
+  - '&7&oArmure'
+STEEL_LEGGINGS:
+  name: '&fAcier Jambières'
+  type:
+  - '&7&oArmure'
+STEEL_SWORD:
+  name: '&rAcier Épée'
+  type:
+  - '&7&oArme'
+TIN_BOOTS:
+  name: '&fÉtain Bottes'
+  type:
+  - '&7&oArmure'
+TIN_CHESTPLATE:
+  name: '&fÉtain Plastron'
+  type:
+  - '&7&oArmure'
+TIN_HELMET:
+  name: '&fÉtain Casque'
+  type:
+  - '&7&oArmure'
+TIN_LEGGINGS:
+  name: '&fÉtain Jambières'
+  type:
+  - '&7&oArmure'
+TIN_SWORD:
+  name: '&rÉtain Épée'
+  type:
+  - '&7&oArme'
+ZINC_BOOTS:
+  name: '&fZinc Bottes'
+  type:
+  - '&7&oArmure'
+ZINC_CHESTPLATE:
+  name: '&fZinc Plastron'
+  type:
+  - '&7&oArmure'
+ZINC_HELMET:
+  name: '&fZinc Casque'
+  type:
+  - '&7&oArmure'
+ZINC_LEGGINGS:
+  name: '&fZinc Jambières'
+  type:
+  - '&7&oArmure'
+ZINC_SWORD:
+  name: '&rZinc Épée'
+  type:
+  - '&7&oArme'

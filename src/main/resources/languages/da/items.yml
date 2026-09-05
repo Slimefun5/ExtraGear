@@ -1,0 +1,177 @@
+ALUMINUM_BOOTS:
+  type:
+  - '&7&oRustning'
+ALUMINUM_BRASS_SWORD:
+  type:
+  - '&7&oVåben'
+ALUMINUM_BRONZE_SWORD:
+  type:
+  - '&7&oVåben'
+ALUMINUM_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+ALUMINUM_HELMET:
+  type:
+  - '&7&oRustning'
+ALUMINUM_LEGGINGS:
+  type:
+  - '&7&oRustning'
+ALUMINUM_SWORD:
+  type:
+  - '&7&oVåben'
+BILLON_SWORD:
+  type:
+  - '&7&oVåben'
+BRASS_SWORD:
+  type:
+  - '&7&oVåben'
+BRONZE_SWORD:
+  type:
+  - '&7&oVåben'
+COBALT_BOOTS:
+  type:
+  - '&7&oRustning'
+COBALT_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+COBALT_HELMET:
+  type:
+  - '&7&oRustning'
+COBALT_LEGGINGS:
+  type:
+  - '&7&oRustning'
+COBALT_SWORD:
+  type:
+  - '&7&oVåben'
+COPPER_BOOTS:
+  type:
+  - '&7&oRustning'
+COPPER_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+COPPER_HELMET:
+  type:
+  - '&7&oRustning'
+COPPER_LEGGINGS:
+  type:
+  - '&7&oRustning'
+COPPER_SWORD:
+  type:
+  - '&7&oVåben'
+CORINTHIAN_BRONZE_SWORD:
+  type:
+  - '&7&oVåben'
+DAMASCUS_STEEL_SWORD:
+  type:
+  - '&7&oVåben'
+DURALUMIN_SWORD:
+  type:
+  - '&7&oVåben'
+FERROSILICON_SWORD:
+  type:
+  - '&7&oVåben'
+GILDED_IRON_SWORD:
+  type:
+  - '&7&oVåben'
+HARDENED_SWORD:
+  type:
+  - '&7&oVåben'
+LEAD_BOOTS:
+  type:
+  - '&7&oRustning'
+LEAD_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+LEAD_HELMET:
+  type:
+  - '&7&oRustning'
+LEAD_LEGGINGS:
+  type:
+  - '&7&oRustning'
+LEAD_SWORD:
+  type:
+  - '&7&oVåben'
+MAGNESIUM_BOOTS:
+  type:
+  - '&7&oRustning'
+MAGNESIUM_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+MAGNESIUM_HELMET:
+  type:
+  - '&7&oRustning'
+MAGNESIUM_LEGGINGS:
+  type:
+  - '&7&oRustning'
+MAGNESIUM_SWORD:
+  type:
+  - '&7&oVåben'
+NICKEL_SWORD:
+  type:
+  - '&7&oVåben'
+REINFORCED_SWORD:
+  type:
+  - '&7&oVåben'
+SILVER_BOOTS:
+  type:
+  - '&7&oRustning'
+SILVER_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+SILVER_HELMET:
+  type:
+  - '&7&oRustning'
+SILVER_LEGGINGS:
+  type:
+  - '&7&oRustning'
+SILVER_SWORD:
+  type:
+  - '&7&oVåben'
+SOLDER_SWORD:
+  type:
+  - '&7&oVåben'
+STEEL_BOOTS:
+  type:
+  - '&7&oRustning'
+STEEL_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+STEEL_HELMET:
+  type:
+  - '&7&oRustning'
+STEEL_LEGGINGS:
+  type:
+  - '&7&oRustning'
+STEEL_SWORD:
+  type:
+  - '&7&oVåben'
+TIN_BOOTS:
+  type:
+  - '&7&oRustning'
+TIN_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+TIN_HELMET:
+  type:
+  - '&7&oRustning'
+TIN_LEGGINGS:
+  type:
+  - '&7&oRustning'
+TIN_SWORD:
+  type:
+  - '&7&oVåben'
+ZINC_BOOTS:
+  type:
+  - '&7&oRustning'
+ZINC_CHESTPLATE:
+  type:
+  - '&7&oRustning'
+ZINC_HELMET:
+  type:
+  - '&7&oRustning'
+ZINC_LEGGINGS:
+  type:
+  - '&7&oRustning'
+ZINC_SWORD:
+  type:
+  - '&7&oVåben'

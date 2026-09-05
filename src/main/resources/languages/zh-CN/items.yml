@@ -1,178 +1,236 @@
-# ExtraGear item translations (zh-CN). name only; '&' colour codes preserved.
-
-COPPER_SWORD:
-  name: "&r铜剑"
-
-TIN_SWORD:
-  name: "&r锡剑"
-
-SILVER_SWORD:
-  name: "&r银剑"
-
-ALUMINUM_SWORD:
-  name: "&r铝剑"
-
-LEAD_SWORD:
-  name: "&r铅剑"
-
-ZINC_SWORD:
-  name: "&r锌剑"
-
-MAGNESIUM_SWORD:
-  name: "&r镁剑"
-
-STEEL_SWORD:
-  name: "&r钢剑"
-
-BRONZE_SWORD:
-  name: "&r青铜剑"
-
-DURALUMIN_SWORD:
-  name: "&r硬铝剑"
-
-BILLON_SWORD:
-  name: "&r比隆合金剑"
-
-BRASS_SWORD:
-  name: "&r黄铜剑"
-
-ALUMINUM_BRASS_SWORD:
-  name: "&r铝黄铜剑"
-
-ALUMINUM_BRONZE_SWORD:
-  name: "&r铝青铜剑"
-
-CORINTHIAN_BRONZE_SWORD:
-  name: "&r科林斯青铜剑"
-
-SOLDER_SWORD:
-  name: "&r焊料剑"
-
-DAMASCUS_STEEL_SWORD:
-  name: "&r大马士革钢剑"
-
-HARDENED_SWORD:
-  name: "&r硬化金属剑"
-
-REINFORCED_SWORD:
-  name: "&r强化剑"
-
-FERROSILICON_SWORD:
-  name: "&r硅铁剑"
-
-GILDED_IRON_SWORD:
-  name: "&r镀金铁剑"
-
-NICKEL_SWORD:
-  name: "&r镍剑"
-
-COBALT_SWORD:
-  name: "&r钴剑"
-
-COPPER_HELMET:
-  name: "&f铜头盔"
-
-COPPER_CHESTPLATE:
-  name: "&f铜胸甲"
-
-COPPER_LEGGINGS:
-  name: "&f铜护腿"
-
-COPPER_BOOTS:
-  name: "&f铜靴子"
-
-TIN_HELMET:
-  name: "&f锡头盔"
-
-TIN_CHESTPLATE:
-  name: "&f锡胸甲"
-
-TIN_LEGGINGS:
-  name: "&f锡护腿"
-
-TIN_BOOTS:
-  name: "&f锡靴子"
-
-SILVER_HELMET:
-  name: "&f银头盔"
-
-SILVER_CHESTPLATE:
-  name: "&f银胸甲"
-
-SILVER_LEGGINGS:
-  name: "&f银护腿"
-
-SILVER_BOOTS:
-  name: "&f银靴子"
-
-ALUMINUM_HELMET:
-  name: "&f铝头盔"
-
-ALUMINUM_CHESTPLATE:
-  name: "&f铝胸甲"
-
-ALUMINUM_LEGGINGS:
-  name: "&f铝护腿"
-
 ALUMINUM_BOOTS:
-  name: "&f铝靴子"
-
-LEAD_HELMET:
-  name: "&f铅头盔"
-
-LEAD_CHESTPLATE:
-  name: "&f铅胸甲"
-
-LEAD_LEGGINGS:
-  name: "&f铅护腿"
-
-LEAD_BOOTS:
-  name: "&f铅靴子"
-
-ZINC_HELMET:
-  name: "&f锌头盔"
-
-ZINC_CHESTPLATE:
-  name: "&f锌胸甲"
-
-ZINC_LEGGINGS:
-  name: "&f锌护腿"
-
-ZINC_BOOTS:
-  name: "&f锌靴子"
-
-MAGNESIUM_HELMET:
-  name: "&f镁头盔"
-
-MAGNESIUM_CHESTPLATE:
-  name: "&f镁胸甲"
-
-MAGNESIUM_LEGGINGS:
-  name: "&f镁护腿"
-
-MAGNESIUM_BOOTS:
-  name: "&f镁靴子"
-
-STEEL_HELMET:
-  name: "&f钢头盔"
-
-STEEL_CHESTPLATE:
-  name: "&f钢胸甲"
-
-STEEL_LEGGINGS:
-  name: "&f钢护腿"
-
-STEEL_BOOTS:
-  name: "&f钢靴子"
-
-COBALT_HELMET:
-  name: "&f钴头盔"
-
-COBALT_CHESTPLATE:
-  name: "&f钴胸甲"
-
-COBALT_LEGGINGS:
-  name: "&f钴护腿"
-
+  name: '&f铝靴子'
+  type:
+  - '&7&o护甲'
+ALUMINUM_BRASS_SWORD:
+  name: '&r铝黄铜剑'
+  type:
+  - '&7&o武器'
+ALUMINUM_BRONZE_SWORD:
+  name: '&r铝青铜剑'
+  type:
+  - '&7&o武器'
+ALUMINUM_CHESTPLATE:
+  name: '&f铝胸甲'
+  type:
+  - '&7&o护甲'
+ALUMINUM_HELMET:
+  name: '&f铝头盔'
+  type:
+  - '&7&o护甲'
+ALUMINUM_LEGGINGS:
+  name: '&f铝护腿'
+  type:
+  - '&7&o护甲'
+ALUMINUM_SWORD:
+  name: '&r铝剑'
+  type:
+  - '&7&o武器'
+BILLON_SWORD:
+  name: '&r比隆合金剑'
+  type:
+  - '&7&o武器'
+BRASS_SWORD:
+  name: '&r黄铜剑'
+  type:
+  - '&7&o武器'
+BRONZE_SWORD:
+  name: '&r青铜剑'
+  type:
+  - '&7&o武器'
 COBALT_BOOTS:
-  name: "&f钴靴子"
+  name: '&f钴靴子'
+  type:
+  - '&7&o护甲'
+COBALT_CHESTPLATE:
+  name: '&f钴胸甲'
+  type:
+  - '&7&o护甲'
+COBALT_HELMET:
+  name: '&f钴头盔'
+  type:
+  - '&7&o护甲'
+COBALT_LEGGINGS:
+  name: '&f钴护腿'
+  type:
+  - '&7&o护甲'
+COBALT_SWORD:
+  name: '&r钴剑'
+  type:
+  - '&7&o武器'
+COPPER_BOOTS:
+  name: '&f铜靴子'
+  type:
+  - '&7&o护甲'
+COPPER_CHESTPLATE:
+  name: '&f铜胸甲'
+  type:
+  - '&7&o护甲'
+COPPER_HELMET:
+  name: '&f铜头盔'
+  type:
+  - '&7&o护甲'
+COPPER_LEGGINGS:
+  name: '&f铜护腿'
+  type:
+  - '&7&o护甲'
+COPPER_SWORD:
+  name: '&r铜剑'
+  type:
+  - '&7&o武器'
+CORINTHIAN_BRONZE_SWORD:
+  name: '&r科林斯青铜剑'
+  type:
+  - '&7&o武器'
+DAMASCUS_STEEL_SWORD:
+  name: '&r大马士革钢剑'
+  type:
+  - '&7&o武器'
+DURALUMIN_SWORD:
+  name: '&r硬铝剑'
+  type:
+  - '&7&o武器'
+FERROSILICON_SWORD:
+  name: '&r硅铁剑'
+  type:
+  - '&7&o武器'
+GILDED_IRON_SWORD:
+  name: '&r镀金铁剑'
+  type:
+  - '&7&o武器'
+HARDENED_SWORD:
+  name: '&r硬化金属剑'
+  type:
+  - '&7&o武器'
+LEAD_BOOTS:
+  name: '&f铅靴子'
+  type:
+  - '&7&o护甲'
+LEAD_CHESTPLATE:
+  name: '&f铅胸甲'
+  type:
+  - '&7&o护甲'
+LEAD_HELMET:
+  name: '&f铅头盔'
+  type:
+  - '&7&o护甲'
+LEAD_LEGGINGS:
+  name: '&f铅护腿'
+  type:
+  - '&7&o护甲'
+LEAD_SWORD:
+  name: '&r铅剑'
+  type:
+  - '&7&o武器'
+MAGNESIUM_BOOTS:
+  name: '&f镁靴子'
+  type:
+  - '&7&o护甲'
+MAGNESIUM_CHESTPLATE:
+  name: '&f镁胸甲'
+  type:
+  - '&7&o护甲'
+MAGNESIUM_HELMET:
+  name: '&f镁头盔'
+  type:
+  - '&7&o护甲'
+MAGNESIUM_LEGGINGS:
+  name: '&f镁护腿'
+  type:
+  - '&7&o护甲'
+MAGNESIUM_SWORD:
+  name: '&r镁剑'
+  type:
+  - '&7&o武器'
+NICKEL_SWORD:
+  name: '&r镍剑'
+  type:
+  - '&7&o武器'
+REINFORCED_SWORD:
+  name: '&r强化剑'
+  type:
+  - '&7&o武器'
+SILVER_BOOTS:
+  name: '&f银靴子'
+  type:
+  - '&7&o护甲'
+SILVER_CHESTPLATE:
+  name: '&f银胸甲'
+  type:
+  - '&7&o护甲'
+SILVER_HELMET:
+  name: '&f银头盔'
+  type:
+  - '&7&o护甲'
+SILVER_LEGGINGS:
+  name: '&f银护腿'
+  type:
+  - '&7&o护甲'
+SILVER_SWORD:
+  name: '&r银剑'
+  type:
+  - '&7&o武器'
+SOLDER_SWORD:
+  name: '&r焊料剑'
+  type:
+  - '&7&o武器'
+STEEL_BOOTS:
+  name: '&f钢靴子'
+  type:
+  - '&7&o护甲'
+STEEL_CHESTPLATE:
+  name: '&f钢胸甲'
+  type:
+  - '&7&o护甲'
+STEEL_HELMET:
+  name: '&f钢头盔'
+  type:
+  - '&7&o护甲'
+STEEL_LEGGINGS:
+  name: '&f钢护腿'
+  type:
+  - '&7&o护甲'
+STEEL_SWORD:
+  name: '&r钢剑'
+  type:
+  - '&7&o武器'
+TIN_BOOTS:
+  name: '&f锡靴子'
+  type:
+  - '&7&o护甲'
+TIN_CHESTPLATE:
+  name: '&f锡胸甲'
+  type:
+  - '&7&o护甲'
+TIN_HELMET:
+  name: '&f锡头盔'
+  type:
+  - '&7&o护甲'
+TIN_LEGGINGS:
+  name: '&f锡护腿'
+  type:
+  - '&7&o护甲'
+TIN_SWORD:
+  name: '&r锡剑'
+  type:
+  - '&7&o武器'
+ZINC_BOOTS:
+  name: '&f锌靴子'
+  type:
+  - '&7&o护甲'
+ZINC_CHESTPLATE:
+  name: '&f锌胸甲'
+  type:
+  - '&7&o护甲'
+ZINC_HELMET:
+  name: '&f锌头盔'
+  type:
+  - '&7&o护甲'
+ZINC_LEGGINGS:
+  name: '&f锌护腿'
+  type:
+  - '&7&o护甲'
+ZINC_SWORD:
+  name: '&r锌剑'
+  type:
+  - '&7&o武器'

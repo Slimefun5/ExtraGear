@@ -1,0 +1,177 @@
+ALUMINUM_BOOTS:
+  type:
+  - '&7&oدرع'
+ALUMINUM_BRASS_SWORD:
+  type:
+  - '&7&oسلاح'
+ALUMINUM_BRONZE_SWORD:
+  type:
+  - '&7&oسلاح'
+ALUMINUM_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+ALUMINUM_HELMET:
+  type:
+  - '&7&oدرع'
+ALUMINUM_LEGGINGS:
+  type:
+  - '&7&oدرع'
+ALUMINUM_SWORD:
+  type:
+  - '&7&oسلاح'
+BILLON_SWORD:
+  type:
+  - '&7&oسلاح'
+BRASS_SWORD:
+  type:
+  - '&7&oسلاح'
+BRONZE_SWORD:
+  type:
+  - '&7&oسلاح'
+COBALT_BOOTS:
+  type:
+  - '&7&oدرع'
+COBALT_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+COBALT_HELMET:
+  type:
+  - '&7&oدرع'
+COBALT_LEGGINGS:
+  type:
+  - '&7&oدرع'
+COBALT_SWORD:
+  type:
+  - '&7&oسلاح'
+COPPER_BOOTS:
+  type:
+  - '&7&oدرع'
+COPPER_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+COPPER_HELMET:
+  type:
+  - '&7&oدرع'
+COPPER_LEGGINGS:
+  type:
+  - '&7&oدرع'
+COPPER_SWORD:
+  type:
+  - '&7&oسلاح'
+CORINTHIAN_BRONZE_SWORD:
+  type:
+  - '&7&oسلاح'
+DAMASCUS_STEEL_SWORD:
+  type:
+  - '&7&oسلاح'
+DURALUMIN_SWORD:
+  type:
+  - '&7&oسلاح'
+FERROSILICON_SWORD:
+  type:
+  - '&7&oسلاح'
+GILDED_IRON_SWORD:
+  type:
+  - '&7&oسلاح'
+HARDENED_SWORD:
+  type:
+  - '&7&oسلاح'
+LEAD_BOOTS:
+  type:
+  - '&7&oدرع'
+LEAD_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+LEAD_HELMET:
+  type:
+  - '&7&oدرع'
+LEAD_LEGGINGS:
+  type:
+  - '&7&oدرع'
+LEAD_SWORD:
+  type:
+  - '&7&oسلاح'
+MAGNESIUM_BOOTS:
+  type:
+  - '&7&oدرع'
+MAGNESIUM_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+MAGNESIUM_HELMET:
+  type:
+  - '&7&oدرع'
+MAGNESIUM_LEGGINGS:
+  type:
+  - '&7&oدرع'
+MAGNESIUM_SWORD:
+  type:
+  - '&7&oسلاح'
+NICKEL_SWORD:
+  type:
+  - '&7&oسلاح'
+REINFORCED_SWORD:
+  type:
+  - '&7&oسلاح'
+SILVER_BOOTS:
+  type:
+  - '&7&oدرع'
+SILVER_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+SILVER_HELMET:
+  type:
+  - '&7&oدرع'
+SILVER_LEGGINGS:
+  type:
+  - '&7&oدرع'
+SILVER_SWORD:
+  type:
+  - '&7&oسلاح'
+SOLDER_SWORD:
+  type:
+  - '&7&oسلاح'
+STEEL_BOOTS:
+  type:
+  - '&7&oدرع'
+STEEL_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+STEEL_HELMET:
+  type:
+  - '&7&oدرع'
+STEEL_LEGGINGS:
+  type:
+  - '&7&oدرع'
+STEEL_SWORD:
+  type:
+  - '&7&oسلاح'
+TIN_BOOTS:
+  type:
+  - '&7&oدرع'
+TIN_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+TIN_HELMET:
+  type:
+  - '&7&oدرع'
+TIN_LEGGINGS:
+  type:
+  - '&7&oدرع'
+TIN_SWORD:
+  type:
+  - '&7&oسلاح'
+ZINC_BOOTS:
+  type:
+  - '&7&oدرع'
+ZINC_CHESTPLATE:
+  type:
+  - '&7&oدرع'
+ZINC_HELMET:
+  type:
+  - '&7&oدرع'
+ZINC_LEGGINGS:
+  type:
+  - '&7&oدرع'
+ZINC_SWORD:
+  type:
+  - '&7&oسلاح'

@@ -1,178 +1,236 @@
-# ExtraGear item translations (it). name only; '&' colour codes preserved.
-
-COPPER_SWORD:
-  name: "&rRame Spada"
-
-TIN_SWORD:
-  name: "&rStagno Spada"
-
-SILVER_SWORD:
-  name: "&rArgento Spada"
-
-ALUMINUM_SWORD:
-  name: "&rAlluminio Spada"
-
-LEAD_SWORD:
-  name: "&rPiombo Spada"
-
-ZINC_SWORD:
-  name: "&rZinco Spada"
-
-MAGNESIUM_SWORD:
-  name: "&rMagnesio Spada"
-
-STEEL_SWORD:
-  name: "&rAcciaio Spada"
-
-BRONZE_SWORD:
-  name: "&rBronzo Spada"
-
-DURALUMIN_SWORD:
-  name: "&rDuralluminio Spada"
-
-BILLON_SWORD:
-  name: "&rBiglione Spada"
-
-BRASS_SWORD:
-  name: "&rOttone Spada"
-
-ALUMINUM_BRASS_SWORD:
-  name: "&rOttone di alluminio Spada"
-
-ALUMINUM_BRONZE_SWORD:
-  name: "&rBronzo di alluminio Spada"
-
-CORINTHIAN_BRONZE_SWORD:
-  name: "&rBronzo corinzio Spada"
-
-SOLDER_SWORD:
-  name: "&rLega per saldatura Spada"
-
-DAMASCUS_STEEL_SWORD:
-  name: "&rAcciaio di Damasco Spada"
-
-HARDENED_SWORD:
-  name: "&rMetallo temprato Spada"
-
-REINFORCED_SWORD:
-  name: "&rRinforzato Spada"
-
-FERROSILICON_SWORD:
-  name: "&rFerrosilicio Spada"
-
-GILDED_IRON_SWORD:
-  name: "&rFerro dorato Spada"
-
-NICKEL_SWORD:
-  name: "&rNichel Spada"
-
-COBALT_SWORD:
-  name: "&rCobalto Spada"
-
-COPPER_HELMET:
-  name: "&fRame Elmo"
-
-COPPER_CHESTPLATE:
-  name: "&fRame Corazza"
-
-COPPER_LEGGINGS:
-  name: "&fRame Gambali"
-
-COPPER_BOOTS:
-  name: "&fRame Stivali"
-
-TIN_HELMET:
-  name: "&fStagno Elmo"
-
-TIN_CHESTPLATE:
-  name: "&fStagno Corazza"
-
-TIN_LEGGINGS:
-  name: "&fStagno Gambali"
-
-TIN_BOOTS:
-  name: "&fStagno Stivali"
-
-SILVER_HELMET:
-  name: "&fArgento Elmo"
-
-SILVER_CHESTPLATE:
-  name: "&fArgento Corazza"
-
-SILVER_LEGGINGS:
-  name: "&fArgento Gambali"
-
-SILVER_BOOTS:
-  name: "&fArgento Stivali"
-
-ALUMINUM_HELMET:
-  name: "&fAlluminio Elmo"
-
-ALUMINUM_CHESTPLATE:
-  name: "&fAlluminio Corazza"
-
-ALUMINUM_LEGGINGS:
-  name: "&fAlluminio Gambali"
-
 ALUMINUM_BOOTS:
-  name: "&fAlluminio Stivali"
-
-LEAD_HELMET:
-  name: "&fPiombo Elmo"
-
-LEAD_CHESTPLATE:
-  name: "&fPiombo Corazza"
-
-LEAD_LEGGINGS:
-  name: "&fPiombo Gambali"
-
-LEAD_BOOTS:
-  name: "&fPiombo Stivali"
-
-ZINC_HELMET:
-  name: "&fZinco Elmo"
-
-ZINC_CHESTPLATE:
-  name: "&fZinco Corazza"
-
-ZINC_LEGGINGS:
-  name: "&fZinco Gambali"
-
-ZINC_BOOTS:
-  name: "&fZinco Stivali"
-
-MAGNESIUM_HELMET:
-  name: "&fMagnesio Elmo"
-
-MAGNESIUM_CHESTPLATE:
-  name: "&fMagnesio Corazza"
-
-MAGNESIUM_LEGGINGS:
-  name: "&fMagnesio Gambali"
-
-MAGNESIUM_BOOTS:
-  name: "&fMagnesio Stivali"
-
-STEEL_HELMET:
-  name: "&fAcciaio Elmo"
-
-STEEL_CHESTPLATE:
-  name: "&fAcciaio Corazza"
-
-STEEL_LEGGINGS:
-  name: "&fAcciaio Gambali"
-
-STEEL_BOOTS:
-  name: "&fAcciaio Stivali"
-
-COBALT_HELMET:
-  name: "&fCobalto Elmo"
-
-COBALT_CHESTPLATE:
-  name: "&fCobalto Corazza"
-
-COBALT_LEGGINGS:
-  name: "&fCobalto Gambali"
-
+  name: '&fAlluminio Stivali'
+  type:
+  - '&7&oArmatura'
+ALUMINUM_BRASS_SWORD:
+  name: '&rOttone di alluminio Spada'
+  type:
+  - '&7&oArma'
+ALUMINUM_BRONZE_SWORD:
+  name: '&rBronzo di alluminio Spada'
+  type:
+  - '&7&oArma'
+ALUMINUM_CHESTPLATE:
+  name: '&fAlluminio Corazza'
+  type:
+  - '&7&oArmatura'
+ALUMINUM_HELMET:
+  name: '&fAlluminio Elmo'
+  type:
+  - '&7&oArmatura'
+ALUMINUM_LEGGINGS:
+  name: '&fAlluminio Gambali'
+  type:
+  - '&7&oArmatura'
+ALUMINUM_SWORD:
+  name: '&rAlluminio Spada'
+  type:
+  - '&7&oArma'
+BILLON_SWORD:
+  name: '&rBiglione Spada'
+  type:
+  - '&7&oArma'
+BRASS_SWORD:
+  name: '&rOttone Spada'
+  type:
+  - '&7&oArma'
+BRONZE_SWORD:
+  name: '&rBronzo Spada'
+  type:
+  - '&7&oArma'
 COBALT_BOOTS:
-  name: "&fCobalto Stivali"
+  name: '&fCobalto Stivali'
+  type:
+  - '&7&oArmatura'
+COBALT_CHESTPLATE:
+  name: '&fCobalto Corazza'
+  type:
+  - '&7&oArmatura'
+COBALT_HELMET:
+  name: '&fCobalto Elmo'
+  type:
+  - '&7&oArmatura'
+COBALT_LEGGINGS:
+  name: '&fCobalto Gambali'
+  type:
+  - '&7&oArmatura'
+COBALT_SWORD:
+  name: '&rCobalto Spada'
+  type:
+  - '&7&oArma'
+COPPER_BOOTS:
+  name: '&fRame Stivali'
+  type:
+  - '&7&oArmatura'
+COPPER_CHESTPLATE:
+  name: '&fRame Corazza'
+  type:
+  - '&7&oArmatura'
+COPPER_HELMET:
+  name: '&fRame Elmo'
+  type:
+  - '&7&oArmatura'
+COPPER_LEGGINGS:
+  name: '&fRame Gambali'
+  type:
+  - '&7&oArmatura'
+COPPER_SWORD:
+  name: '&rRame Spada'
+  type:
+  - '&7&oArma'
+CORINTHIAN_BRONZE_SWORD:
+  name: '&rBronzo corinzio Spada'
+  type:
+  - '&7&oArma'
+DAMASCUS_STEEL_SWORD:
+  name: '&rAcciaio di Damasco Spada'
+  type:
+  - '&7&oArma'
+DURALUMIN_SWORD:
+  name: '&rDuralluminio Spada'
+  type:
+  - '&7&oArma'
+FERROSILICON_SWORD:
+  name: '&rFerrosilicio Spada'
+  type:
+  - '&7&oArma'
+GILDED_IRON_SWORD:
+  name: '&rFerro dorato Spada'
+  type:
+  - '&7&oArma'
+HARDENED_SWORD:
+  name: '&rMetallo temprato Spada'
+  type:
+  - '&7&oArma'
+LEAD_BOOTS:
+  name: '&fPiombo Stivali'
+  type:
+  - '&7&oArmatura'
+LEAD_CHESTPLATE:
+  name: '&fPiombo Corazza'
+  type:
+  - '&7&oArmatura'
+LEAD_HELMET:
+  name: '&fPiombo Elmo'
+  type:
+  - '&7&oArmatura'
+LEAD_LEGGINGS:
+  name: '&fPiombo Gambali'
+  type:
+  - '&7&oArmatura'
+LEAD_SWORD:
+  name: '&rPiombo Spada'
+  type:
+  - '&7&oArma'
+MAGNESIUM_BOOTS:
+  name: '&fMagnesio Stivali'
+  type:
+  - '&7&oArmatura'
+MAGNESIUM_CHESTPLATE:
+  name: '&fMagnesio Corazza'
+  type:
+  - '&7&oArmatura'
+MAGNESIUM_HELMET:
+  name: '&fMagnesio Elmo'
+  type:
+  - '&7&oArmatura'
+MAGNESIUM_LEGGINGS:
+  name: '&fMagnesio Gambali'
+  type:
+  - '&7&oArmatura'
+MAGNESIUM_SWORD:
+  name: '&rMagnesio Spada'
+  type:
+  - '&7&oArma'
+NICKEL_SWORD:
+  name: '&rNichel Spada'
+  type:
+  - '&7&oArma'
+REINFORCED_SWORD:
+  name: '&rRinforzato Spada'
+  type:
+  - '&7&oArma'
+SILVER_BOOTS:
+  name: '&fArgento Stivali'
+  type:
+  - '&7&oArmatura'
+SILVER_CHESTPLATE:
+  name: '&fArgento Corazza'
+  type:
+  - '&7&oArmatura'
+SILVER_HELMET:
+  name: '&fArgento Elmo'
+  type:
+  - '&7&oArmatura'
+SILVER_LEGGINGS:
+  name: '&fArgento Gambali'
+  type:
+  - '&7&oArmatura'
+SILVER_SWORD:
+  name: '&rArgento Spada'
+  type:
+  - '&7&oArma'
+SOLDER_SWORD:
+  name: '&rLega per saldatura Spada'
+  type:
+  - '&7&oArma'
+STEEL_BOOTS:
+  name: '&fAcciaio Stivali'
+  type:
+  - '&7&oArmatura'
+STEEL_CHESTPLATE:
+  name: '&fAcciaio Corazza'
+  type:
+  - '&7&oArmatura'
+STEEL_HELMET:
+  name: '&fAcciaio Elmo'
+  type:
+  - '&7&oArmatura'
+STEEL_LEGGINGS:
+  name: '&fAcciaio Gambali'
+  type:
+  - '&7&oArmatura'
+STEEL_SWORD:
+  name: '&rAcciaio Spada'
+  type:
+  - '&7&oArma'
+TIN_BOOTS:
+  name: '&fStagno Stivali'
+  type:
+  - '&7&oArmatura'
+TIN_CHESTPLATE:
+  name: '&fStagno Corazza'
+  type:
+  - '&7&oArmatura'
+TIN_HELMET:
+  name: '&fStagno Elmo'
+  type:
+  - '&7&oArmatura'
+TIN_LEGGINGS:
+  name: '&fStagno Gambali'
+  type:
+  - '&7&oArmatura'
+TIN_SWORD:
+  name: '&rStagno Spada'
+  type:
+  - '&7&oArma'
+ZINC_BOOTS:
+  name: '&fZinco Stivali'
+  type:
+  - '&7&oArmatura'
+ZINC_CHESTPLATE:
+  name: '&fZinco Corazza'
+  type:
+  - '&7&oArmatura'
+ZINC_HELMET:
+  name: '&fZinco Elmo'
+  type:
+  - '&7&oArmatura'
+ZINC_LEGGINGS:
+  name: '&fZinco Gambali'
+  type:
+  - '&7&oArmatura'
+ZINC_SWORD:
+  name: '&rZinco Spada'
+  type:
+  - '&7&oArma'

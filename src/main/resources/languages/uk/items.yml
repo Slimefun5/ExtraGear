@@ -1,0 +1,177 @@
+ALUMINUM_BOOTS:
+  type:
+  - '&7&oБроня'
+ALUMINUM_BRASS_SWORD:
+  type:
+  - '&7&oЗброя'
+ALUMINUM_BRONZE_SWORD:
+  type:
+  - '&7&oЗброя'
+ALUMINUM_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+ALUMINUM_HELMET:
+  type:
+  - '&7&oБроня'
+ALUMINUM_LEGGINGS:
+  type:
+  - '&7&oБроня'
+ALUMINUM_SWORD:
+  type:
+  - '&7&oЗброя'
+BILLON_SWORD:
+  type:
+  - '&7&oЗброя'
+BRASS_SWORD:
+  type:
+  - '&7&oЗброя'
+BRONZE_SWORD:
+  type:
+  - '&7&oЗброя'
+COBALT_BOOTS:
+  type:
+  - '&7&oБроня'
+COBALT_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+COBALT_HELMET:
+  type:
+  - '&7&oБроня'
+COBALT_LEGGINGS:
+  type:
+  - '&7&oБроня'
+COBALT_SWORD:
+  type:
+  - '&7&oЗброя'
+COPPER_BOOTS:
+  type:
+  - '&7&oБроня'
+COPPER_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+COPPER_HELMET:
+  type:
+  - '&7&oБроня'
+COPPER_LEGGINGS:
+  type:
+  - '&7&oБроня'
+COPPER_SWORD:
+  type:
+  - '&7&oЗброя'
+CORINTHIAN_BRONZE_SWORD:
+  type:
+  - '&7&oЗброя'
+DAMASCUS_STEEL_SWORD:
+  type:
+  - '&7&oЗброя'
+DURALUMIN_SWORD:
+  type:
+  - '&7&oЗброя'
+FERROSILICON_SWORD:
+  type:
+  - '&7&oЗброя'
+GILDED_IRON_SWORD:
+  type:
+  - '&7&oЗброя'
+HARDENED_SWORD:
+  type:
+  - '&7&oЗброя'
+LEAD_BOOTS:
+  type:
+  - '&7&oБроня'
+LEAD_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+LEAD_HELMET:
+  type:
+  - '&7&oБроня'
+LEAD_LEGGINGS:
+  type:
+  - '&7&oБроня'
+LEAD_SWORD:
+  type:
+  - '&7&oЗброя'
+MAGNESIUM_BOOTS:
+  type:
+  - '&7&oБроня'
+MAGNESIUM_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+MAGNESIUM_HELMET:
+  type:
+  - '&7&oБроня'
+MAGNESIUM_LEGGINGS:
+  type:
+  - '&7&oБроня'
+MAGNESIUM_SWORD:
+  type:
+  - '&7&oЗброя'
+NICKEL_SWORD:
+  type:
+  - '&7&oЗброя'
+REINFORCED_SWORD:
+  type:
+  - '&7&oЗброя'
+SILVER_BOOTS:
+  type:
+  - '&7&oБроня'
+SILVER_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+SILVER_HELMET:
+  type:
+  - '&7&oБроня'
+SILVER_LEGGINGS:
+  type:
+  - '&7&oБроня'
+SILVER_SWORD:
+  type:
+  - '&7&oЗброя'
+SOLDER_SWORD:
+  type:
+  - '&7&oЗброя'
+STEEL_BOOTS:
+  type:
+  - '&7&oБроня'
+STEEL_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+STEEL_HELMET:
+  type:
+  - '&7&oБроня'
+STEEL_LEGGINGS:
+  type:
+  - '&7&oБроня'
+STEEL_SWORD:
+  type:
+  - '&7&oЗброя'
+TIN_BOOTS:
+  type:
+  - '&7&oБроня'
+TIN_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+TIN_HELMET:
+  type:
+  - '&7&oБроня'
+TIN_LEGGINGS:
+  type:
+  - '&7&oБроня'
+TIN_SWORD:
+  type:
+  - '&7&oЗброя'
+ZINC_BOOTS:
+  type:
+  - '&7&oБроня'
+ZINC_CHESTPLATE:
+  type:
+  - '&7&oБроня'
+ZINC_HELMET:
+  type:
+  - '&7&oБроня'
+ZINC_LEGGINGS:
+  type:
+  - '&7&oБроня'
+ZINC_SWORD:
+  type:
+  - '&7&oЗброя'
