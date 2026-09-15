@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHliníkové boty'
   type:
   - '&7&oBrnění'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Čepel na bázi hliníku určená proti havěti.'
+  - '&7Nese &bZhoubu členovců&7 a snadno se prokouše'
+  - '&7pavouky, rybenkami a ostatní havětí.'
+  name: '&rMeč z hliníkové mosazi'
   type:
   - '&7&oZbraň'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Čepel na bázi hliníku určená proti havěti.'
+  - '&7Nese &bZhoubu členovců&7 a snadno se prokouše'
+  - '&7pavouky, rybenkami a ostatní havětí.'
+  name: '&rMeč z hliníkového bronzu'
   type:
   - '&7&oZbraň'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHliníkový kyrys'
   type:
   - '&7&oBrnění'
 ALUMINUM_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHliníková helma'
   type:
   - '&7&oBrnění'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHliníkové nohavice'
   type:
   - '&7&oBrnění'
 ALUMINUM_SWORD:
+  description:
+  - '&7Čepel na bázi hliníku určená proti havěti.'
+  - '&7Nese &bZhoubu členovců&7 a snadno se prokouše'
+  - '&7pavouky, rybenkami a ostatní havětí.'
+  name: '&rHliníkový meč'
   type:
   - '&7&oZbraň'
 BILLON_SWORD:
+  description:
+  - '&7Solidní meč ze slitiny střední úrovně.'
+  - '&7Předem očarován &bOstrostí&7 a &bNezničitelností&7,'
+  - '&7vyvažuje vyšší poškození delší životností.'
+  name: '&rBilonový meč'
   type:
   - '&7&oZbraň'
 BRASS_SWORD:
+  description:
+  - '&7Specializovaná čepel proti nemrtvým.'
+  - '&7Nese mocné &bUbíjení&7 a &bNezničitelnost&7,'
+  - '&7je ničivá proti zombiím, kostlivcům a witherským'
+  - '&7kostlivcům v Netheru.'
+  name: '&rMosazný meč'
   type:
   - '&7&oZbraň'
 BRONZE_SWORD:
+  description:
+  - '&7Solidní meč ze slitiny střední úrovně.'
+  - '&7Předem očarován &bOstrostí&7 a &bNezničitelností&7,'
+  - '&7vyvažuje vyšší poškození delší životností.'
+  name: '&rBronzový meč'
   type:
   - '&7&oZbraň'
 COBALT_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fKobaltové boty'
   type:
   - '&7&oBrnění'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fKobaltový kyrys'
   type:
   - '&7&oBrnění'
 COBALT_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fKobaltová helma'
   type:
   - '&7&oBrnění'
 COBALT_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fKobaltové nohavice'
   type:
   - '&7&oBrnění'
 COBALT_SWORD:
+  description:
+  - '&7Špičková čepel ukovaná z tvrzené slitiny.'
+  - '&7Nese jednu z nejsilnějších &bOstrostí&7 a'
+  - '&bNezničitelností&7 v ExtraGear - zbraň pro pozdní hru.'
+  name: '&rKobaltový meč'
   type:
   - '&7&oZbraň'
 COPPER_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fMěděné boty'
   type:
   - '&7&oBrnění'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fMěděný kyrys'
   type:
   - '&7&oBrnění'
 COPPER_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fMěděná helma'
   type:
   - '&7&oBrnění'
 COPPER_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fMěděné nohavice'
   type:
   - '&7&oBrnění'
 COPPER_SWORD:
+  description:
+  - '&7Začátečnická čepel ukovaná z mědi.'
+  - '&7Nese &bUbíjení II&7, takže se hodí na likvidaci'
+  - '&7raných nemrtvých, jako jsou zombie a kostlivci.'
+  name: '&rMěděný meč'
   type:
   - '&7&oZbraň'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Těžká, spolehlivá čepel ze slitiny.'
+  - '&7Spojuje silné očarování &bOstrost&7 s'
+  - '&bNezničitelností&7 pro dlouhé boje.'
+  name: '&rMeč z korintského bronzu'
   type:
   - '&7&oZbraň'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Vzorovaná čepel skládaná z damascénské oceli.'
+  - '&7Nese silnou &bOstrost&7 a &bNezničitelnost&7,'
+  - '&7opravdová zbraň vyšší úrovně.'
+  name: '&rMeč z damascénské oceli'
   type:
   - '&7&oZbraň'
 DURALUMIN_SWORD:
+  description:
+  - '&7Solidní meč ze slitiny střední úrovně.'
+  - '&7Předem očarován &bOstrostí&7 a &bNezničitelností&7,'
+  - '&7vyvažuje vyšší poškození delší životností.'
+  name: '&rDuralový meč'
   type:
   - '&7&oZbraň'
 FERROSILICON_SWORD:
+  description:
+  - '&7Specializovaná čepel proti nemrtvým.'
+  - '&7Nese mocné &bUbíjení&7 a &bNezničitelnost&7,'
+  - '&7je ničivá proti zombiím, kostlivcům a witherským'
+  - '&7kostlivcům v Netheru.'
+  name: '&rFerosilicitový meč'
   type:
   - '&7&oZbraň'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Pozlacená čepel se zdobeným zlatým ostřím.'
+  - '&7Nese silnou &bZhoubu členovců&7 a vysokou'
+  - '&bNezničitelnost&7, vydrží mnohem déle, než by zlato mělo.'
+  name: '&rPozlacený železný meč'
   type:
   - '&7&oZbraň'
 HARDENED_SWORD:
+  description:
+  - '&7Špičková čepel ukovaná z tvrzené slitiny.'
+  - '&7Nese jednu z nejsilnějších &bOstrostí&7 a'
+  - '&bNezničitelností&7 v ExtraGear - zbraň pro pozdní hru.'
+  name: '&rTvrzený meč'
   type:
   - '&7&oZbraň'
 LEAD_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOlověné boty'
   type:
   - '&7&oBrnění'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOlověný kyrys'
   type:
   - '&7&oBrnění'
 LEAD_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOlověná helma'
   type:
   - '&7&oBrnění'
 LEAD_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOlověné nohavice'
   type:
   - '&7&oBrnění'
 LEAD_SWORD:
+  description:
+  - '&7Těžká, spolehlivá čepel ze slitiny.'
+  - '&7Spojuje silné očarování &bOstrost&7 s'
+  - '&bNezničitelností&7 pro dlouhé boje.'
+  name: '&rOlověný meč'
   type:
   - '&7&oZbraň'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHořčíkové boty'
   type:
   - '&7&oBrnění'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHořčíkový kyrys'
   type:
   - '&7&oBrnění'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHořčíková helma'
   type:
   - '&7&oBrnění'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fHořčíkové nohavice'
   type:
   - '&7&oBrnění'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Solidní meč ze slitiny střední úrovně.'
+  - '&7Předem očarován &bOstrostí&7 a &bNezničitelností&7,'
+  - '&7vyvažuje vyšší poškození delší životností.'
+  name: '&rHořčíkový meč'
   type:
   - '&7&oZbraň'
 NICKEL_SWORD:
+  description:
+  - '&7Těžká, spolehlivá čepel ze slitiny.'
+  - '&7Spojuje silné očarování &bOstrost&7 s'
+  - '&bNezničitelností&7 pro dlouhé boje.'
+  name: '&rNiklový meč'
   type:
   - '&7&oZbraň'
 REINFORCED_SWORD:
+  description:
+  - '&7Špičková čepel ukovaná z tvrzené slitiny.'
+  - '&7Nese jednu z nejsilnějších &bOstrostí&7 a'
+  - '&bNezničitelností&7 v ExtraGear - zbraň pro pozdní hru.'
+  name: '&rZesílený meč'
   type:
   - '&7&oZbraň'
 SILVER_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fStříbrné boty'
   type:
   - '&7&oBrnění'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fStříbrný kyrys'
   type:
   - '&7&oBrnění'
 SILVER_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fStříbrná helma'
   type:
   - '&7&oBrnění'
 SILVER_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fStříbrné nohavice'
   type:
   - '&7&oBrnění'
 SILVER_SWORD:
+  description:
+  - '&7Lehký, levný meč ukovaný z obecného kovu.'
+  - '&7Přichází předem očarován &bOstrostí&7 pro malé,'
+  - '&7ale spolehlivé zvýšení poškození oproti vanilla čepeli.'
+  name: '&rStříbrný meč'
   type:
   - '&7&oZbraň'
 SOLDER_SWORD:
+  description:
+  - '&7Solidní meč ze slitiny střední úrovně.'
+  - '&7Předem očarován &bOstrostí&7 a &bNezničitelností&7,'
+  - '&7vyvažuje vyšší poškození delší životností.'
+  name: '&rPájkový meč'
   type:
   - '&7&oZbraň'
 STEEL_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOcelové boty'
   type:
   - '&7&oBrnění'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOcelový kyrys'
   type:
   - '&7&oBrnění'
 STEEL_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOcelová helma'
   type:
   - '&7&oBrnění'
 STEEL_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fOcelové nohavice'
   type:
   - '&7&oBrnění'
 STEEL_SWORD:
+  description:
+  - '&7Těžká, spolehlivá čepel ze slitiny.'
+  - '&7Spojuje silné očarování &bOstrost&7 s'
+  - '&bNezničitelností&7 pro dlouhé boje.'
+  name: '&rOcelový meč'
   type:
   - '&7&oZbraň'
 TIN_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fCínové boty'
   type:
   - '&7&oBrnění'
 TIN_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fCínový kyrys'
   type:
   - '&7&oBrnění'
 TIN_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fCínová helma'
   type:
   - '&7&oBrnění'
 TIN_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fCínové nohavice'
   type:
   - '&7&oBrnění'
 TIN_SWORD:
+  description:
+  - '&7Lehký, levný meč ukovaný z obecného kovu.'
+  - '&7Přichází předem očarován &bOstrostí&7 pro malé,'
+  - '&7ale spolehlivé zvýšení poškození oproti vanilla čepeli.'
+  name: '&rCínový meč'
   type:
   - '&7&oZbraň'
 ZINC_BOOTS:
+  description:
+  - '&7Boty ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fZinkové boty'
   type:
   - '&7&oBrnění'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Kyrys ze sady brnění ExtraGear -'
+  - '&7nejlépe chránící kus sady.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fZinkový kyrys'
   type:
   - '&7&oBrnění'
 ZINC_HELMET:
+  description:
+  - '&7Helma ze sady brnění ExtraGear.'
+  - '&7Přichází s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fZinková helma'
   type:
   - '&7&oBrnění'
 ZINC_LEGGINGS:
+  description:
+  - '&7Nohavice ze sady brnění ExtraGear.'
+  - '&7Přicházejí s vestavěnými ochrannými očarováními.'
+  - '&7Vyrábí se v &bKovárně brnění&7 z kovových ingotů.'
+  name: '&fZinkové nohavice'
   type:
   - '&7&oBrnění'
 ZINC_SWORD:
+  description:
+  - '&7Lehký, levný meč ukovaný z obecného kovu.'
+  - '&7Přichází předem očarován &bOstrostí&7 pro malé,'
+  - '&7ale spolehlivé zvýšení poškození oproti vanilla čepeli.'
+  name: '&rZinkový meč'
   type:
   - '&7&oZbraň'
