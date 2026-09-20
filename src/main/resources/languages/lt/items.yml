@@ -340,7 +340,7 @@ SILVER_SWORD:
   description:
   - '&7Lengvas, pigus kardas, nukaltas iš paprasto metalo.'
   - '&7Pateikiamas iš anksto užkerėtas &bAštrumu&7 - nedidelis,'
-  - '&7bet patikimas žalos priedas prie vanilinių ašmenų.'
+  - '&7bet patikimas žalos priedas prie standartinių ašmenų.'
   name: '&rSidabro kardas'
   type:
   - '&7&oGinklas'
@@ -428,7 +428,7 @@ TIN_SWORD:
   description:
   - '&7Lengvas, pigus kardas, nukaltas iš paprasto metalo.'
   - '&7Pateikiamas iš anksto užkerėtas &bAštrumu&7 - nedidelis,'
-  - '&7bet patikimas žalos priedas prie vanilinių ašmenų.'
+  - '&7bet patikimas žalos priedas prie standartinių ašmenų.'
   name: '&rAlavo kardas'
   type:
   - '&7&oGinklas'
@@ -468,7 +468,7 @@ ZINC_SWORD:
   description:
   - '&7Lengvas, pigus kardas, nukaltas iš paprasto metalo.'
   - '&7Pateikiamas iš anksto užkerėtas &bAštrumu&7 - nedidelis,'
-  - '&7bet patikimas žalos priedas prie vanilinių ašmenų.'
+  - '&7bet patikimas žalos priedas prie standartinių ašmenų.'
   name: '&rCinko kardas'
   type:
   - '&7&oGinklas'
