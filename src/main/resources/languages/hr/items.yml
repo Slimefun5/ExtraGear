@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fAluminijske čizme'
   type:
   - '&7&oOklop'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Oštrica na bazi aluminija izrađena za suzbijanje nametnika.'
+  - '&7Nosi &bProkletstvo člankonožaca&7, parajući'
+  - '&7pauke, srebrne ribice i ostale kukce s lakoćom.'
+  name: '&rMač od aluminijske mjedi'
   type:
   - '&7&oOružje'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Oštrica na bazi aluminija izrađena za suzbijanje nametnika.'
+  - '&7Nosi &bProkletstvo člankonožaca&7, parajući'
+  - '&7pauke, srebrne ribice i ostale kukce s lakoćom.'
+  name: '&rMač od aluminijske bronce'
   type:
   - '&7&oOružje'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fAluminijski oklop za prsa'
   type:
   - '&7&oOklop'
 ALUMINUM_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fAluminijska kaciga'
   type:
   - '&7&oOklop'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fAluminijske hlače'
   type:
   - '&7&oOklop'
 ALUMINUM_SWORD:
+  description:
+  - '&7Oštrica na bazi aluminija izrađena za suzbijanje nametnika.'
+  - '&7Nosi &bProkletstvo člankonožaca&7, parajući'
+  - '&7pauke, srebrne ribice i ostale kukce s lakoćom.'
+  name: '&rAluminijski mač'
   type:
   - '&7&oOružje'
 BILLON_SWORD:
+  description:
+  - '&7Solidan mač od legure srednjeg stupnja.'
+  - '&7Unaprijed začaran &bOštrinom&7 i &bNelomljivošću&7,'
+  - '&7uravnotežujući dodatnu štetu s dužim vijekom trajanja.'
+  name: '&rBilonski mač'
   type:
   - '&7&oOružje'
 BRASS_SWORD:
+  description:
+  - '&7Specijalizirana oštrica protiv nemrtvih.'
+  - '&7Nosi moćnu &bKaru&7 uz &bNelomljivost&7,'
+  - '&7razorna protiv zombija, kostura i wither'
+  - '&7kostura u Netheru.'
+  name: '&rMjedeni mač'
   type:
   - '&7&oOružje'
 BRONZE_SWORD:
+  description:
+  - '&7Solidan mač od legure srednjeg stupnja.'
+  - '&7Unaprijed začaran &bOštrinom&7 i &bNelomljivošću&7,'
+  - '&7uravnotežujući dodatnu štetu s dužim vijekom trajanja.'
+  name: '&rBrončani mač'
   type:
   - '&7&oOružje'
 COBALT_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKobaltne čizme'
   type:
   - '&7&oOklop'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKobaltni oklop za prsa'
   type:
   - '&7&oOklop'
 COBALT_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKobaltna kaciga'
   type:
   - '&7&oOklop'
 COBALT_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKobaltne hlače'
   type:
   - '&7&oOklop'
 COBALT_SWORD:
+  description:
+  - '&7Vrhunska oštrica kovana od očvrsnute legure.'
+  - '&7Nosi jednu od najjačih &bOštrina&7 i'
+  - '&bNelomljivosti&7 u ExtraGearu - snaga kasne igre.'
+  name: '&rKobaltni mač'
   type:
   - '&7&oOružje'
 COPPER_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fBakrene čizme'
   type:
   - '&7&oOklop'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fBakreni oklop za prsa'
   type:
   - '&7&oOklop'
 COPPER_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fBakrena kaciga'
   type:
   - '&7&oOklop'
 COPPER_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fBakrene hlače'
   type:
   - '&7&oOklop'
 COPPER_SWORD:
+  description:
+  - '&7Početnička oštrica kovana od bakra.'
+  - '&7Nosi &bKaru II&7, što je čini korisnom za čišćenje'
+  - '&7ranih nemrtvih poput zombija i kostura.'
+  name: '&rBakreni mač'
   type:
   - '&7&oOružje'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Teška, pouzdana oštrica od legure.'
+  - '&7Spaja snažnu čaroliju &bOštrine&7 s'
+  - '&bNelomljivošću&7 za dugotrajnu borbenu upotrebu.'
+  name: '&rMač od korintske bronce'
   type:
   - '&7&oOružje'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Uzorkovana oštrica prekovana od damascenskog čelika.'
+  - '&7Nosi snažnu &bOštrinu&7 i &bNelomljivost&7,'
+  - '&7pravo oružje višeg stupnja.'
+  name: '&rMač od damascenskog čelika'
   type:
   - '&7&oOružje'
 DURALUMIN_SWORD:
+  description:
+  - '&7Solidan mač od legure srednjeg stupnja.'
+  - '&7Unaprijed začaran &bOštrinom&7 i &bNelomljivošću&7,'
+  - '&7uravnotežujući dodatnu štetu s dužim vijekom trajanja.'
+  name: '&rDuraluminijski mač'
   type:
   - '&7&oOružje'
 FERROSILICON_SWORD:
+  description:
+  - '&7Specijalizirana oštrica protiv nemrtvih.'
+  - '&7Nosi moćnu &bKaru&7 uz &bNelomljivost&7,'
+  - '&7razorna protiv zombija, kostura i wither'
+  - '&7kostura u Netheru.'
+  name: '&rFerosilicijski mač'
   type:
   - '&7&oOružje'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Pozlaćena oštrica s ukrašenim zlatnim bridom.'
+  - '&7Nosi snažno &bProkletstvo člankonožaca&7 i visoku'
+  - '&bNelomljivost&7, traje mnogo dulje nego što bi zlato smjelo.'
+  name: '&rMač od pozlaćenog željeza'
   type:
   - '&7&oOružje'
 HARDENED_SWORD:
+  description:
+  - '&7Vrhunska oštrica kovana od očvrsnute legure.'
+  - '&7Nosi jednu od najjačih &bOštrina&7 i'
+  - '&bNelomljivosti&7 u ExtraGearu - snaga kasne igre.'
+  name: '&rOčvrsnuti mač'
   type:
   - '&7&oOružje'
 LEAD_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fOlovne čizme'
   type:
   - '&7&oOklop'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fOlovni oklop za prsa'
   type:
   - '&7&oOklop'
 LEAD_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fOlovna kaciga'
   type:
   - '&7&oOklop'
 LEAD_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fOlovne hlače'
   type:
   - '&7&oOklop'
 LEAD_SWORD:
+  description:
+  - '&7Teška, pouzdana oštrica od legure.'
+  - '&7Spaja snažnu čaroliju &bOštrine&7 s'
+  - '&bNelomljivošću&7 za dugotrajnu borbenu upotrebu.'
+  name: '&rOlovni mač'
   type:
   - '&7&oOružje'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fMagnezijeve čizme'
   type:
   - '&7&oOklop'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fMagnezijev oklop za prsa'
   type:
   - '&7&oOklop'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fMagnezijeva kaciga'
   type:
   - '&7&oOklop'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fMagnezijeve hlače'
   type:
   - '&7&oOklop'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Solidan mač od legure srednjeg stupnja.'
+  - '&7Unaprijed začaran &bOštrinom&7 i &bNelomljivošću&7,'
+  - '&7uravnotežujući dodatnu štetu s dužim vijekom trajanja.'
+  name: '&rMagnezijev mač'
   type:
   - '&7&oOružje'
 NICKEL_SWORD:
+  description:
+  - '&7Teška, pouzdana oštrica od legure.'
+  - '&7Spaja snažnu čaroliju &bOštrine&7 s'
+  - '&bNelomljivošću&7 za dugotrajnu borbenu upotrebu.'
+  name: '&rNikleni mač'
   type:
   - '&7&oOružje'
 REINFORCED_SWORD:
+  description:
+  - '&7Vrhunska oštrica kovana od očvrsnute legure.'
+  - '&7Nosi jednu od najjačih &bOštrina&7 i'
+  - '&bNelomljivosti&7 u ExtraGearu - snaga kasne igre.'
+  name: '&rOjačani mač'
   type:
   - '&7&oOružje'
 SILVER_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fSrebrne čizme'
   type:
   - '&7&oOklop'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fSrebrni oklop za prsa'
   type:
   - '&7&oOklop'
 SILVER_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fSrebrna kaciga'
   type:
   - '&7&oOklop'
 SILVER_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fSrebrne hlače'
   type:
   - '&7&oOklop'
 SILVER_SWORD:
+  description:
+  - '&7Lagan, jeftin mač kovan od običnog metala.'
+  - '&7Dolazi unaprijed začaran &bOštrinom&7 za malo,'
+  - '&7ali pouzdano povećanje štete u odnosu na vanilla oštricu.'
+  name: '&rSrebrni mač'
   type:
   - '&7&oOružje'
 SOLDER_SWORD:
+  description:
+  - '&7Solidan mač od legure srednjeg stupnja.'
+  - '&7Unaprijed začaran &bOštrinom&7 i &bNelomljivošću&7,'
+  - '&7uravnotežujući dodatnu štetu s dužim vijekom trajanja.'
+  name: '&rLemni mač'
   type:
   - '&7&oOružje'
 STEEL_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fČelične čizme'
   type:
   - '&7&oOklop'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fČelični oklop za prsa'
   type:
   - '&7&oOklop'
 STEEL_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fČelična kaciga'
   type:
   - '&7&oOklop'
 STEEL_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fČelične hlače'
   type:
   - '&7&oOklop'
 STEEL_SWORD:
+  description:
+  - '&7Teška, pouzdana oštrica od legure.'
+  - '&7Spaja snažnu čaroliju &bOštrine&7 s'
+  - '&bNelomljivošću&7 za dugotrajnu borbenu upotrebu.'
+  name: '&rČelični mač'
   type:
   - '&7&oOružje'
 TIN_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKositrene čizme'
   type:
   - '&7&oOklop'
 TIN_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKositreni oklop za prsa'
   type:
   - '&7&oOklop'
 TIN_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKositrena kaciga'
   type:
   - '&7&oOklop'
 TIN_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fKositrene hlače'
   type:
   - '&7&oOklop'
 TIN_SWORD:
+  description:
+  - '&7Lagan, jeftin mač kovan od običnog metala.'
+  - '&7Dolazi unaprijed začaran &bOštrinom&7 za malo,'
+  - '&7ali pouzdano povećanje štete u odnosu na vanilla oštricu.'
+  name: '&rKositreni mač'
   type:
   - '&7&oOružje'
 ZINC_BOOTS:
+  description:
+  - '&7Čizme iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fCinčane čizme'
   type:
   - '&7&oOklop'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Oklop za prsa iz ExtraGear kompleta oklopa -'
+  - '&7najzaštitniji komad kompleta.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fCinčani oklop za prsa'
   type:
   - '&7&oOklop'
 ZINC_HELMET:
+  description:
+  - '&7Kaciga iz ExtraGear kompleta oklopa.'
+  - '&7Dolazi s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fCinčana kaciga'
   type:
   - '&7&oOklop'
 ZINC_LEGGINGS:
+  description:
+  - '&7Hlače iz ExtraGear kompleta oklopa.'
+  - '&7Dolaze s ugrađenim čarolijama zaštite.'
+  - '&7Izrađeno u &bKovačnici oklopa&7 od njegovih metalnih poluga.'
+  name: '&fCinčane hlače'
   type:
   - '&7&oOklop'
 ZINC_SWORD:
+  description:
+  - '&7Lagan, jeftin mač kovan od običnog metala.'
+  - '&7Dolazi unaprijed začaran &bOštrinom&7 za malo,'
+  - '&7ali pouzdano povećanje štete u odnosu na vanilla oštricu.'
+  name: '&rCinčani mač'
   type:
   - '&7&oOružje'
