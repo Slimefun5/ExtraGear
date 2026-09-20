@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlumīnija zābaki'
   type:
   - '&7&oBruņas'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Uz alumīnija balstīts asmens kaitēkļu apkarošanai.'
+  - '&7Nes &bPosmkāju postu&7, viegli caururbjot'
+  - '&7zirnekļus, sudrabzivtiņas un citus kukaiņus.'
+  name: '&rAlumīnija misiņa zobens'
   type:
   - '&7&oIerocis'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Uz alumīnija balstīts asmens kaitēkļu apkarošanai.'
+  - '&7Nes &bPosmkāju postu&7, viegli caururbjot'
+  - '&7zirnekļus, sudrabzivtiņas un citus kukaiņus.'
+  name: '&rAlumīnija bronzas zobens'
   type:
   - '&7&oIerocis'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlumīnija krūšu bruņas'
   type:
   - '&7&oBruņas'
 ALUMINUM_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlumīnija ķivere'
   type:
   - '&7&oBruņas'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlumīnija bikses'
   type:
   - '&7&oBruņas'
 ALUMINUM_SWORD:
+  description:
+  - '&7Uz alumīnija balstīts asmens kaitēkļu apkarošanai.'
+  - '&7Nes &bPosmkāju postu&7, viegli caururbjot'
+  - '&7zirnekļus, sudrabzivtiņas un citus kukaiņus.'
+  name: '&rAlumīnija zobens'
   type:
   - '&7&oIerocis'
 BILLON_SWORD:
+  description:
+  - '&7Kārtīgs vidējā līmeņa sakausējuma zobens.'
+  - '&7Iepriekš apburts ar &bAsumu&7 un &bNesalaužamību&7,'
+  - '&7līdzsvarojot papildu bojājumus ar ilgāku kalpošanu.'
+  name: '&rBilona zobens'
   type:
   - '&7&oIerocis'
 BRASS_SWORD:
+  description:
+  - '&7Specializēts asmens pret nemirušajiem.'
+  - '&7Nes spēcīgu &bSodību&7 un &bNesalaužamību&7,'
+  - '&7postošs pret zombijiem, skeletiem un wither'
+  - '&7skeletiem Nether pasaulē.'
+  name: '&rMisiņa zobens'
   type:
   - '&7&oIerocis'
 BRONZE_SWORD:
+  description:
+  - '&7Kārtīgs vidējā līmeņa sakausējuma zobens.'
+  - '&7Iepriekš apburts ar &bAsumu&7 un &bNesalaužamību&7,'
+  - '&7līdzsvarojot papildu bojājumus ar ilgāku kalpošanu.'
+  name: '&rBronzas zobens'
   type:
   - '&7&oIerocis'
 COBALT_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fKobalta zābaki'
   type:
   - '&7&oBruņas'
 COBALT_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fKobalta krūšu bruņas'
   type:
   - '&7&oBruņas'
 COBALT_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fKobalta ķivere'
   type:
   - '&7&oBruņas'
 COBALT_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fKobalta bikses'
   type:
   - '&7&oBruņas'
 COBALT_SWORD:
+  description:
+  - '&7Augstākā līmeņa asmens, kalts no rūdīta sakausējuma.'
+  - '&7Nes vienu no spēcīgākajiem &bAsuma&7 un'
+  - '&bNesalaužamības&7 apbūrumiem ExtraGear - vēlīnās spēles spēkavots.'
+  name: '&rKobalta zobens'
   type:
   - '&7&oIerocis'
 COPPER_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fVara zābaki'
   type:
   - '&7&oBruņas'
 COPPER_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fVara krūšu bruņas'
   type:
   - '&7&oBruņas'
 COPPER_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fVara ķivere'
   type:
   - '&7&oBruņas'
 COPPER_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fVara bikses'
   type:
   - '&7&oBruņas'
 COPPER_SWORD:
+  description:
+  - '&7Iesācēja līmeņa asmens, kalts no vara.'
+  - '&7Nes &bSodību II&7, tāpēc noder, lai tīrītu'
+  - '&7agrīnās spēles nemirušos, piemēram, zombijus un skeletus.'
+  name: '&rVara zobens'
   type:
   - '&7&oIerocis'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Smags, uzticams sakausējuma asmens.'
+  - '&7Apvieno spēcīgu &bAsuma&7 apbūrumu ar'
+  - '&bNesalaužamību&7 ilgstošai cīņai.'
+  name: '&rKorintas bronzas zobens'
   type:
   - '&7&oIerocis'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Rakstains asmens, locīts no Damaskas tērauda.'
+  - '&7Nes smagu &bAsumu&7 un &bNesalaužamību&7,'
+  - '&7īsts augstākā līmeņa ierocis.'
+  name: '&rDamaskas tērauda zobens'
   type:
   - '&7&oIerocis'
 DURALUMIN_SWORD:
+  description:
+  - '&7Kārtīgs vidējā līmeņa sakausējuma zobens.'
+  - '&7Iepriekš apburts ar &bAsumu&7 un &bNesalaužamību&7,'
+  - '&7līdzsvarojot papildu bojājumus ar ilgāku kalpošanu.'
+  name: '&rDurālija zobens'
   type:
   - '&7&oIerocis'
 FERROSILICON_SWORD:
+  description:
+  - '&7Specializēts asmens pret nemirušajiem.'
+  - '&7Nes spēcīgu &bSodību&7 un &bNesalaužamību&7,'
+  - '&7postošs pret zombijiem, skeletiem un wither'
+  - '&7skeletiem Nether pasaulē.'
+  name: '&rFerosilīcija zobens'
   type:
   - '&7&oIerocis'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Zeltīts asmens ar grezni rotātu zelta griezni.'
+  - '&7Nes spēcīgu &bPosmkāju postu&7 un augstu'
+  - '&bNesalaužamību&7, kalpojot daudz ilgāk, nekā zeltam pienāktos.'
+  name: '&rZeltīts dzelzs zobens'
   type:
   - '&7&oIerocis'
 HARDENED_SWORD:
+  description:
+  - '&7Augstākā līmeņa asmens, kalts no rūdīta sakausējuma.'
+  - '&7Nes vienu no spēcīgākajiem &bAsuma&7 un'
+  - '&bNesalaužamības&7 apbūrumiem ExtraGear - vēlīnās spēles spēkavots.'
+  name: '&rRūdīts zobens'
   type:
   - '&7&oIerocis'
 LEAD_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSvina zābaki'
   type:
   - '&7&oBruņas'
 LEAD_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSvina krūšu bruņas'
   type:
   - '&7&oBruņas'
 LEAD_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSvina ķivere'
   type:
   - '&7&oBruņas'
 LEAD_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSvina bikses'
   type:
   - '&7&oBruņas'
 LEAD_SWORD:
+  description:
+  - '&7Smags, uzticams sakausējuma asmens.'
+  - '&7Apvieno spēcīgu &bAsuma&7 apbūrumu ar'
+  - '&bNesalaužamību&7 ilgstošai cīņai.'
+  name: '&rSvina zobens'
   type:
   - '&7&oIerocis'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fMagnija zābaki'
   type:
   - '&7&oBruņas'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fMagnija krūšu bruņas'
   type:
   - '&7&oBruņas'
 MAGNESIUM_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fMagnija ķivere'
   type:
   - '&7&oBruņas'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fMagnija bikses'
   type:
   - '&7&oBruņas'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Kārtīgs vidējā līmeņa sakausējuma zobens.'
+  - '&7Iepriekš apburts ar &bAsumu&7 un &bNesalaužamību&7,'
+  - '&7līdzsvarojot papildu bojājumus ar ilgāku kalpošanu.'
+  name: '&rMagnija zobens'
   type:
   - '&7&oIerocis'
 NICKEL_SWORD:
+  description:
+  - '&7Smags, uzticams sakausējuma asmens.'
+  - '&7Apvieno spēcīgu &bAsuma&7 apbūrumu ar'
+  - '&bNesalaužamību&7 ilgstošai cīņai.'
+  name: '&rNiķeļa zobens'
   type:
   - '&7&oIerocis'
 REINFORCED_SWORD:
+  description:
+  - '&7Augstākā līmeņa asmens, kalts no rūdīta sakausējuma.'
+  - '&7Nes vienu no spēcīgākajiem &bAsuma&7 un'
+  - '&bNesalaužamības&7 apbūrumiem ExtraGear - vēlīnās spēles spēkavots.'
+  name: '&rPastiprināts zobens'
   type:
   - '&7&oIerocis'
 SILVER_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSudraba zābaki'
   type:
   - '&7&oBruņas'
 SILVER_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSudraba krūšu bruņas'
   type:
   - '&7&oBruņas'
 SILVER_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSudraba ķivere'
   type:
   - '&7&oBruņas'
 SILVER_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fSudraba bikses'
   type:
   - '&7&oBruņas'
 SILVER_SWORD:
+  description:
+  - '&7Viegls, lēts zobens, kalts no vienkārša metāla.'
+  - '&7Nāk iepriekš apburts ar &bAsumu&7, kas dod nelielu,'
+  - '&7bet uzticamu bojājumu pieaugumu pār parastu asmeni.'
+  name: '&rSudraba zobens'
   type:
   - '&7&oIerocis'
 SOLDER_SWORD:
+  description:
+  - '&7Kārtīgs vidējā līmeņa sakausējuma zobens.'
+  - '&7Iepriekš apburts ar &bAsumu&7 un &bNesalaužamību&7,'
+  - '&7līdzsvarojot papildu bojājumus ar ilgāku kalpošanu.'
+  name: '&rLodalvas zobens'
   type:
   - '&7&oIerocis'
 STEEL_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fTērauda zābaki'
   type:
   - '&7&oBruņas'
 STEEL_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fTērauda krūšu bruņas'
   type:
   - '&7&oBruņas'
 STEEL_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fTērauda ķivere'
   type:
   - '&7&oBruņas'
 STEEL_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fTērauda bikses'
   type:
   - '&7&oBruņas'
 STEEL_SWORD:
+  description:
+  - '&7Smags, uzticams sakausējuma asmens.'
+  - '&7Apvieno spēcīgu &bAsuma&7 apbūrumu ar'
+  - '&bNesalaužamību&7 ilgstošai cīņai.'
+  name: '&rTērauda zobens'
   type:
   - '&7&oIerocis'
 TIN_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlvas zābaki'
   type:
   - '&7&oBruņas'
 TIN_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlvas krūšu bruņas'
   type:
   - '&7&oBruņas'
 TIN_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlvas ķivere'
   type:
   - '&7&oBruņas'
 TIN_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fAlvas bikses'
   type:
   - '&7&oBruņas'
 TIN_SWORD:
+  description:
+  - '&7Viegls, lēts zobens, kalts no vienkārša metāla.'
+  - '&7Nāk iepriekš apburts ar &bAsumu&7, kas dod nelielu,'
+  - '&7bet uzticamu bojājumu pieaugumu pār parastu asmeni.'
+  name: '&rAlvas zobens'
   type:
   - '&7&oIerocis'
 ZINC_BOOTS:
+  description:
+  - '&7ExtraGear bruņu komplekta zābaki.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fCinka zābaki'
   type:
   - '&7&oBruņas'
 ZINC_CHESTPLATE:
+  description:
+  - '&7ExtraGear bruņu komplekta krūšu bruņas -'
+  - '&7visaizsargājošākā komplekta daļa.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fCinka krūšu bruņas'
   type:
   - '&7&oBruņas'
 ZINC_HELMET:
+  description:
+  - '&7ExtraGear bruņu komplekta ķivere.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fCinka ķivere'
   type:
   - '&7&oBruņas'
 ZINC_LEGGINGS:
+  description:
+  - '&7ExtraGear bruņu komplekta bikses.'
+  - '&7Nāk ar iebūvētiem aizsardzības apbūrumiem.'
+  - '&7Izgatavots &bBruņu kalvē&7 no tā metāla lietņiem.'
+  name: '&fCinka bikses'
   type:
   - '&7&oBruņas'
 ZINC_SWORD:
+  description:
+  - '&7Viegls, lēts zobens, kalts no vienkārša metāla.'
+  - '&7Nāk iepriekš apburts ar &bAsumu&7, kas dod nelielu,'
+  - '&7bet uzticamu bojājumu pieaugumu pār parastu asmeni.'
+  name: '&rCinka zobens'
   type:
   - '&7&oIerocis'
