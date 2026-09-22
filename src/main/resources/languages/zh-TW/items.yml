@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋁靴子'
   type:
   - '&7&o護甲'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7以鋁為基底、專為除蟲打造的刀刃。'
+  - '&7附帶 &b節肢剋星&7，能輕鬆撕裂'
+  - '&7蜘蛛、蠹魚與其他蟲類生物。'
+  name: '&r鋁黃銅劍'
   type:
   - '&7&o武器'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7以鋁為基底、專為除蟲打造的刀刃。'
+  - '&7附帶 &b節肢剋星&7，能輕鬆撕裂'
+  - '&7蜘蛛、蠹魚與其他蟲類生物。'
+  name: '&r鋁青銅劍'
   type:
   - '&7&o武器'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋁胸甲'
   type:
   - '&7&o護甲'
 ALUMINUM_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋁頭盔'
   type:
   - '&7&o護甲'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋁護腿'
   type:
   - '&7&o護甲'
 ALUMINUM_SWORD:
+  description:
+  - '&7以鋁為基底、專為除蟲打造的刀刃。'
+  - '&7附帶 &b節肢剋星&7，能輕鬆撕裂'
+  - '&7蜘蛛、蠹魚與其他蟲類生物。'
+  name: '&r鋁劍'
   type:
   - '&7&o武器'
 BILLON_SWORD:
+  description:
+  - '&7一把扎實的中階合金劍。'
+  - '&7預先附魔 &b鋒利&7 與 &b耐久&7，'
+  - '&7在額外傷害與更長的壽命之間取得平衡。'
+  name: '&r銀銅合金劍'
   type:
   - '&7&o武器'
 BRASS_SWORD:
+  description:
+  - '&7一把專門對付不死生物的刀刃。'
+  - '&7附帶強力的 &b不死剋星&7 與 &b耐久&7，'
+  - '&7對殭屍、骷髏以及地獄中的凋零'
+  - '&7骷髏具有毀滅性的殺傷力。'
+  name: '&r黃銅劍'
   type:
   - '&7&o武器'
 BRONZE_SWORD:
+  description:
+  - '&7一把扎實的中階合金劍。'
+  - '&7預先附魔 &b鋒利&7 與 &b耐久&7，'
+  - '&7在額外傷害與更長的壽命之間取得平衡。'
+  name: '&r青銅劍'
   type:
   - '&7&o武器'
 COBALT_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鈷靴子'
   type:
   - '&7&o護甲'
 COBALT_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鈷胸甲'
   type:
   - '&7&o護甲'
 COBALT_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鈷頭盔'
   type:
   - '&7&o護甲'
 COBALT_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鈷護腿'
   type:
   - '&7&o護甲'
 COBALT_SWORD:
+  description:
+  - '&7以硬化合金鍛造而成的頂級刀刃。'
+  - '&7附帶 ExtraGear 中數一數二強力的 &b鋒利&7 與'
+  - '&b耐久&7 附魔，是遊戲後期的強力武器。'
+  name: '&r鈷劍'
   type:
   - '&7&o武器'
 COPPER_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銅靴子'
   type:
   - '&7&o護甲'
 COPPER_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銅胸甲'
   type:
   - '&7&o護甲'
 COPPER_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銅頭盔'
   type:
   - '&7&o護甲'
 COPPER_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銅護腿'
   type:
   - '&7&o護甲'
 COPPER_SWORD:
+  description:
+  - '&7以銅鍛造而成的入門級刀刃。'
+  - '&7附帶 &b不死剋星 II&7，很適合用來清除'
+  - '&7遊戲前期的殭屍與骷髏等不死生物。'
+  name: '&r銅劍'
   type:
   - '&7&o武器'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7一把沉重而可靠的合金刀刃。'
+  - '&7結合了強力的 &b鋒利&7 附魔與'
+  - '&b耐久&7，適合長時間的戰鬥使用。'
+  name: '&r科林斯青銅劍'
   type:
   - '&7&o武器'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7以大馬士革鋼反覆摺疊鍛造的花紋刀刃。'
+  - '&7附帶高等級的 &b鋒利&7 與 &b耐久&7，'
+  - '&7是真正的高階武器。'
+  name: '&r大馬士革鋼劍'
   type:
   - '&7&o武器'
 DURALUMIN_SWORD:
+  description:
+  - '&7一把扎實的中階合金劍。'
+  - '&7預先附魔 &b鋒利&7 與 &b耐久&7，'
+  - '&7在額外傷害與更長的壽命之間取得平衡。'
+  name: '&r杜拉鋁劍'
   type:
   - '&7&o武器'
 FERROSILICON_SWORD:
+  description:
+  - '&7一把專門對付不死生物的刀刃。'
+  - '&7附帶強力的 &b不死剋星&7 與 &b耐久&7，'
+  - '&7對殭屍、骷髏以及地獄中的凋零'
+  - '&7骷髏具有毀滅性的殺傷力。'
+  name: '&r矽鐵劍'
   type:
   - '&7&o武器'
 GILDED_IRON_SWORD:
+  description:
+  - '&7一把鍍金刀刃，帶有華麗的金色鋒緣。'
+  - '&7附帶強力的 &b節肢剋星&7 與高等級的'
+  - '&b耐久&7，耐用程度遠超黃金應有的表現。'
+  name: '&r鍍金鐵劍'
   type:
   - '&7&o武器'
 HARDENED_SWORD:
+  description:
+  - '&7以硬化合金鍛造而成的頂級刀刃。'
+  - '&7附帶 ExtraGear 中數一數二強力的 &b鋒利&7 與'
+  - '&b耐久&7 附魔，是遊戲後期的強力武器。'
+  name: '&r硬化劍'
   type:
   - '&7&o武器'
 LEAD_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鉛靴子'
   type:
   - '&7&o護甲'
 LEAD_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鉛胸甲'
   type:
   - '&7&o護甲'
 LEAD_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鉛頭盔'
   type:
   - '&7&o護甲'
 LEAD_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鉛護腿'
   type:
   - '&7&o護甲'
 LEAD_SWORD:
+  description:
+  - '&7一把沉重而可靠的合金刀刃。'
+  - '&7結合了強力的 &b鋒利&7 附魔與'
+  - '&b耐久&7，適合長時間的戰鬥使用。'
+  name: '&r鉛劍'
   type:
   - '&7&o武器'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鎂靴子'
   type:
   - '&7&o護甲'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鎂胸甲'
   type:
   - '&7&o護甲'
 MAGNESIUM_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鎂頭盔'
   type:
   - '&7&o護甲'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鎂護腿'
   type:
   - '&7&o護甲'
 MAGNESIUM_SWORD:
+  description:
+  - '&7一把扎實的中階合金劍。'
+  - '&7預先附魔 &b鋒利&7 與 &b耐久&7，'
+  - '&7在額外傷害與更長的壽命之間取得平衡。'
+  name: '&r鎂劍'
   type:
   - '&7&o武器'
 NICKEL_SWORD:
+  description:
+  - '&7一把沉重而可靠的合金刀刃。'
+  - '&7結合了強力的 &b鋒利&7 附魔與'
+  - '&b耐久&7，適合長時間的戰鬥使用。'
+  name: '&r鎳劍'
   type:
   - '&7&o武器'
 REINFORCED_SWORD:
+  description:
+  - '&7以硬化合金鍛造而成的頂級刀刃。'
+  - '&7附帶 ExtraGear 中數一數二強力的 &b鋒利&7 與'
+  - '&b耐久&7 附魔，是遊戲後期的強力武器。'
+  name: '&r強化劍'
   type:
   - '&7&o武器'
 SILVER_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銀靴子'
   type:
   - '&7&o護甲'
 SILVER_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銀胸甲'
   type:
   - '&7&o護甲'
 SILVER_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銀頭盔'
   type:
   - '&7&o護甲'
 SILVER_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f銀護腿'
   type:
   - '&7&o護甲'
 SILVER_SWORD:
+  description:
+  - '&7以賤金屬鍛造而成的輕便廉價劍。'
+  - '&7預先附魔 &b鋒利&7，相較於原版刀刃'
+  - '&7能提供小幅但穩定的傷害提升。'
+  name: '&r銀劍'
   type:
   - '&7&o武器'
 SOLDER_SWORD:
+  description:
+  - '&7一把扎實的中階合金劍。'
+  - '&7預先附魔 &b鋒利&7 與 &b耐久&7，'
+  - '&7在額外傷害與更長的壽命之間取得平衡。'
+  name: '&r焊錫劍'
   type:
   - '&7&o武器'
 STEEL_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋼靴子'
   type:
   - '&7&o護甲'
 STEEL_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋼胸甲'
   type:
   - '&7&o護甲'
 STEEL_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋼頭盔'
   type:
   - '&7&o護甲'
 STEEL_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋼護腿'
   type:
   - '&7&o護甲'
 STEEL_SWORD:
+  description:
+  - '&7一把沉重而可靠的合金刀刃。'
+  - '&7結合了強力的 &b鋒利&7 附魔與'
+  - '&b耐久&7，適合長時間的戰鬥使用。'
+  name: '&r鋼劍'
   type:
   - '&7&o武器'
 TIN_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f錫靴子'
   type:
   - '&7&o護甲'
 TIN_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f錫胸甲'
   type:
   - '&7&o護甲'
 TIN_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f錫頭盔'
   type:
   - '&7&o護甲'
 TIN_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f錫護腿'
   type:
   - '&7&o護甲'
 TIN_SWORD:
+  description:
+  - '&7以賤金屬鍛造而成的輕便廉價劍。'
+  - '&7預先附魔 &b鋒利&7，相較於原版刀刃'
+  - '&7能提供小幅但穩定的傷害提升。'
+  name: '&r錫劍'
   type:
   - '&7&o武器'
 ZINC_BOOTS:
+  description:
+  - '&7ExtraGear 盔甲套裝的靴子。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋅靴子'
   type:
   - '&7&o護甲'
 ZINC_CHESTPLATE:
+  description:
+  - '&7ExtraGear 盔甲套裝的胸甲，也是整套中'
+  - '&7防護力最強的部件。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋅胸甲'
   type:
   - '&7&o護甲'
 ZINC_HELMET:
+  description:
+  - '&7ExtraGear 盔甲套裝的頭盔。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋅頭盔'
   type:
   - '&7&o護甲'
 ZINC_LEGGINGS:
+  description:
+  - '&7ExtraGear 盔甲套裝的護腿。'
+  - '&7附帶內建的保護附魔。'
+  - '&7在 &b盔甲鍛造爐&7 中以對應的金屬錠製作。'
+  name: '&f鋅護腿'
   type:
   - '&7&o護甲'
 ZINC_SWORD:
+  description:
+  - '&7以賤金屬鍛造而成的輕便廉價劍。'
+  - '&7預先附魔 &b鋒利&7，相較於原版刀刃'
+  - '&7能提供小幅但穩定的傷害提升。'
+  name: '&r鋅劍'
   type:
   - '&7&o武器'
