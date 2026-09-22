@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fAluminiumstewels'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7''n Aluminiumgebaseerde lem gebou vir plaagbeheer.'
+  - '&7Dra &bPlaag van Geleedpotiges&7, wat met gemak deur'
+  - '&7spinnekoppe, silwervissies en ander goggas skeur.'
+  name: '&rAluminiumgeelkoperswaard'
   type:
   - '&7&oWapen'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7''n Aluminiumgebaseerde lem gebou vir plaagbeheer.'
+  - '&7Dra &bPlaag van Geleedpotiges&7, wat met gemak deur'
+  - '&7spinnekoppe, silwervissies en ander goggas skeur.'
+  name: '&rAluminiumbronsswaard'
   type:
   - '&7&oWapen'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fAluminiumborsplaat'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fAluminiumhelm'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fAluminiumbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_SWORD:
+  description:
+  - '&7''n Aluminiumgebaseerde lem gebou vir plaagbeheer.'
+  - '&7Dra &bPlaag van Geleedpotiges&7, wat met gemak deur'
+  - '&7spinnekoppe, silwervissies en ander goggas skeur.'
+  name: '&rAluminiumswaard'
   type:
   - '&7&oWapen'
 BILLON_SWORD:
+  description:
+  - '&7''n Stewige middelvlak-legeringswaard.'
+  - '&7Voorbetower met &bSkerpheid&7 en &bOnbreekbaarheid&7,'
+  - '&7wat ekstra skade met ''n langer lewensduur balanseer.'
+  name: '&rBillonswaard'
   type:
   - '&7&oWapen'
 BRASS_SWORD:
+  description:
+  - '&7''n Spesialislem teen wandelende dooies.'
+  - '&7Dra kragtige &bVerdelging&7 plus &bOnbreekbaarheid&7,'
+  - '&7verwoestend teen zombies, geraamtes en wither-'
+  - '&7geraamtes in die Nether.'
+  name: '&rGeelkoperswaard'
   type:
   - '&7&oWapen'
 BRONZE_SWORD:
+  description:
+  - '&7''n Stewige middelvlak-legeringswaard.'
+  - '&7Voorbetower met &bSkerpheid&7 en &bOnbreekbaarheid&7,'
+  - '&7wat ekstra skade met ''n langer lewensduur balanseer.'
+  name: '&rBronsswaard'
   type:
   - '&7&oWapen'
 COBALT_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKobaltstewels'
   type:
   - '&7&oWapenrusting'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKobaltborsplaat'
   type:
   - '&7&oWapenrusting'
 COBALT_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKobalthelm'
   type:
   - '&7&oWapenrusting'
 COBALT_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKobaltbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 COBALT_SWORD:
+  description:
+  - '&7''n Topvlak-lem gesmee uit ''n geharde legering.'
+  - '&7Dra van die sterkste &bSkerpheid&7 en'
+  - '&bOnbreekbaarheid&7 in ExtraGear - ''n laatspel-kraghuis.'
+  name: '&rKobaltswaard'
   type:
   - '&7&oWapen'
 COPPER_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKoperstewels'
   type:
   - '&7&oWapenrusting'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKoperborsplaat'
   type:
   - '&7&oWapenrusting'
 COPPER_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKoperhelm'
   type:
   - '&7&oWapenrusting'
 COPPER_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fKoperbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 COPPER_SWORD:
+  description:
+  - '&7''n Beginnerslem gesmee uit Koper.'
+  - '&7Dra &bVerdelging II&7, wat dit handig maak om vroeë-spel'
+  - '&7wandelende dooies soos zombies en geraamtes uit te wis.'
+  name: '&rKoperswaard'
   type:
   - '&7&oWapen'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7''n Swaar, betroubare legeringslem.'
+  - '&7Kombineer ''n sterk &bSkerpheid&7-betowering met'
+  - '&bOnbreekbaarheid&7 vir volgehoue gevegsgebruik.'
+  name: '&rKorintiese Bronsswaard'
   type:
   - '&7&oWapen'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7''n Gepatroonde lem gevou uit Damaskusstaal.'
+  - '&7Dra swaar &bSkerpheid&7 en &bOnbreekbaarheid&7,'
+  - '&7''n ware bovlak-wapen.'
+  name: '&rDamaskusstaalswaard'
   type:
   - '&7&oWapen'
 DURALUMIN_SWORD:
+  description:
+  - '&7''n Stewige middelvlak-legeringswaard.'
+  - '&7Voorbetower met &bSkerpheid&7 en &bOnbreekbaarheid&7,'
+  - '&7wat ekstra skade met ''n langer lewensduur balanseer.'
+  name: '&rDuraluminiumswaard'
   type:
   - '&7&oWapen'
 FERROSILICON_SWORD:
+  description:
+  - '&7''n Spesialislem teen wandelende dooies.'
+  - '&7Dra kragtige &bVerdelging&7 plus &bOnbreekbaarheid&7,'
+  - '&7verwoestend teen zombies, geraamtes en wither-'
+  - '&7geraamtes in die Nether.'
+  name: '&rFerrosilikonswaard'
   type:
   - '&7&oWapen'
 GILDED_IRON_SWORD:
+  description:
+  - '&7''n Vergulde lem met ''n sierlike goue snykant.'
+  - '&7Dra sterk &bPlaag van Geleedpotiges&7 en hoë'
+  - '&bOnbreekbaarheid&7, wat veel langer hou as wat goud behoort te.'
+  name: '&rVergulde Ysterswaard'
   type:
   - '&7&oWapen'
 HARDENED_SWORD:
+  description:
+  - '&7''n Topvlak-lem gesmee uit ''n geharde legering.'
+  - '&7Dra van die sterkste &bSkerpheid&7 en'
+  - '&bOnbreekbaarheid&7 in ExtraGear - ''n laatspel-kraghuis.'
+  name: '&rGeharde Swaard'
   type:
   - '&7&oWapen'
 LEAD_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fLoodstewels'
   type:
   - '&7&oWapenrusting'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fLoodborsplaat'
   type:
   - '&7&oWapenrusting'
 LEAD_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fLoodhelm'
   type:
   - '&7&oWapenrusting'
 LEAD_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fLoodbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 LEAD_SWORD:
+  description:
+  - '&7''n Swaar, betroubare legeringslem.'
+  - '&7Kombineer ''n sterk &bSkerpheid&7-betowering met'
+  - '&bOnbreekbaarheid&7 vir volgehoue gevegsgebruik.'
+  name: '&rLoodswaard'
   type:
   - '&7&oWapen'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fMagnesiumstewels'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fMagnesiumborsplaat'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fMagnesiumhelm'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fMagnesiumbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_SWORD:
+  description:
+  - '&7''n Stewige middelvlak-legeringswaard.'
+  - '&7Voorbetower met &bSkerpheid&7 en &bOnbreekbaarheid&7,'
+  - '&7wat ekstra skade met ''n langer lewensduur balanseer.'
+  name: '&rMagnesiumswaard'
   type:
   - '&7&oWapen'
 NICKEL_SWORD:
+  description:
+  - '&7''n Swaar, betroubare legeringslem.'
+  - '&7Kombineer ''n sterk &bSkerpheid&7-betowering met'
+  - '&bOnbreekbaarheid&7 vir volgehoue gevegsgebruik.'
+  name: '&rNikkelswaard'
   type:
   - '&7&oWapen'
 REINFORCED_SWORD:
+  description:
+  - '&7''n Topvlak-lem gesmee uit ''n geharde legering.'
+  - '&7Dra van die sterkste &bSkerpheid&7 en'
+  - '&bOnbreekbaarheid&7 in ExtraGear - ''n laatspel-kraghuis.'
+  name: '&rVersterkte Swaard'
   type:
   - '&7&oWapen'
 SILVER_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSilwerstewels'
   type:
   - '&7&oWapenrusting'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSilwerborsplaat'
   type:
   - '&7&oWapenrusting'
 SILVER_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSilwerhelm'
   type:
   - '&7&oWapenrusting'
 SILVER_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSilwerbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 SILVER_SWORD:
+  description:
+  - '&7''n Ligte, goedkoop swaard gesmee uit ''n onedel metaal.'
+  - '&7Kom voorbetower met &bSkerpheid&7 vir ''n klein'
+  - '&7maar betroubare skadehupstoot bo ''n standaardlem.'
+  name: '&rSilwerswaard'
   type:
   - '&7&oWapen'
 SOLDER_SWORD:
+  description:
+  - '&7''n Stewige middelvlak-legeringswaard.'
+  - '&7Voorbetower met &bSkerpheid&7 en &bOnbreekbaarheid&7,'
+  - '&7wat ekstra skade met ''n langer lewensduur balanseer.'
+  name: '&rSoldeerselswaard'
   type:
   - '&7&oWapen'
 STEEL_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fStaalstewels'
   type:
   - '&7&oWapenrusting'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fStaalborsplaat'
   type:
   - '&7&oWapenrusting'
 STEEL_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fStaalhelm'
   type:
   - '&7&oWapenrusting'
 STEEL_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fStaalbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 STEEL_SWORD:
+  description:
+  - '&7''n Swaar, betroubare legeringslem.'
+  - '&7Kombineer ''n sterk &bSkerpheid&7-betowering met'
+  - '&bOnbreekbaarheid&7 vir volgehoue gevegsgebruik.'
+  name: '&rStaalswaard'
   type:
   - '&7&oWapen'
 TIN_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fTinstewels'
   type:
   - '&7&oWapenrusting'
 TIN_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fTinborsplaat'
   type:
   - '&7&oWapenrusting'
 TIN_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fTinhelm'
   type:
   - '&7&oWapenrusting'
 TIN_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fTinbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 TIN_SWORD:
+  description:
+  - '&7''n Ligte, goedkoop swaard gesmee uit ''n onedel metaal.'
+  - '&7Kom voorbetower met &bSkerpheid&7 vir ''n klein'
+  - '&7maar betroubare skadehupstoot bo ''n standaardlem.'
+  name: '&rTinswaard'
   type:
   - '&7&oWapen'
 ZINC_BOOTS:
+  description:
+  - '&7Die stewels van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSinkstewels'
   type:
   - '&7&oWapenrusting'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Die borsplaat van ''n ExtraGear-wapenrustingstel - die'
+  - '&7mees beskermende stuk van die stel.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSinkborsplaat'
   type:
   - '&7&oWapenrusting'
 ZINC_HELMET:
+  description:
+  - '&7Die helm van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSinkhelm'
   type:
   - '&7&oWapenrusting'
 ZINC_LEGGINGS:
+  description:
+  - '&7Die beenbeskermers van ''n ExtraGear-wapenrustingstel.'
+  - '&7Kom met ingeboude beskermingsbetowerings.'
+  - '&7Vervaardig in die &bWapenrustingsmidse&7 uit sy metaalstawe.'
+  name: '&fSinkbeenbeskermers'
   type:
   - '&7&oWapenrusting'
 ZINC_SWORD:
+  description:
+  - '&7''n Ligte, goedkoop swaard gesmee uit ''n onedel metaal.'
+  - '&7Kom voorbetower met &bSkerpheid&7 vir ''n klein'
+  - '&7maar betroubare skadehupstoot bo ''n standaardlem.'
+  name: '&rSinkswaard'
   type:
   - '&7&oWapen'
