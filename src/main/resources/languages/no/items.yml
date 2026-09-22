@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fAluminiumstøvler'
   type:
   - '&7&oRustning'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7En aluminiumsbasert klinge laget for skadedyrkontroll.'
+  - '&7Bærer &bLeddyrbane&7, som river gjennom'
+  - '&7edderkopper, sølvkre og andre kryp med letthet.'
+  name: '&rAluminiummessingsverd'
   type:
   - '&7&oVåpen'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7En aluminiumsbasert klinge laget for skadedyrkontroll.'
+  - '&7Bærer &bLeddyrbane&7, som river gjennom'
+  - '&7edderkopper, sølvkre og andre kryp med letthet.'
+  name: '&rAluminiumbronsesverd'
   type:
   - '&7&oVåpen'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fAluminiumbrystplate'
   type:
   - '&7&oRustning'
 ALUMINUM_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fAluminiumhjelm'
   type:
   - '&7&oRustning'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fAluminiumbukser'
   type:
   - '&7&oRustning'
 ALUMINUM_SWORD:
+  description:
+  - '&7En aluminiumsbasert klinge laget for skadedyrkontroll.'
+  - '&7Bærer &bLeddyrbane&7, som river gjennom'
+  - '&7edderkopper, sølvkre og andre kryp med letthet.'
+  name: '&rAluminiumsverd'
   type:
   - '&7&oVåpen'
 BILLON_SWORD:
+  description:
+  - '&7Et solid legeringssverd på mellomnivå.'
+  - '&7Forhåndsfortryllet med &bSkarphet&7 og &bHoldbarhet&7,'
+  - '&7som balanserer ekstra skade mot lengre levetid.'
+  name: '&rBillonsverd'
   type:
   - '&7&oVåpen'
 BRASS_SWORD:
+  description:
+  - '&7En spesialisert klinge mot udøde.'
+  - '&7Bærer kraftig &bBane&7 pluss &bHoldbarhet&7,'
+  - '&7ødeleggende mot zombier, skjeletter og wither-'
+  - '&7skjeletter i Nether.'
+  name: '&rMessingsverd'
   type:
   - '&7&oVåpen'
 BRONZE_SWORD:
+  description:
+  - '&7Et solid legeringssverd på mellomnivå.'
+  - '&7Forhåndsfortryllet med &bSkarphet&7 og &bHoldbarhet&7,'
+  - '&7som balanserer ekstra skade mot lengre levetid.'
+  name: '&rBronsesverd'
   type:
   - '&7&oVåpen'
 COBALT_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKoboltstøvler'
   type:
   - '&7&oRustning'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKoboltbrystplate'
   type:
   - '&7&oRustning'
 COBALT_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKobolthjelm'
   type:
   - '&7&oRustning'
 COBALT_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKoboltbukser'
   type:
   - '&7&oRustning'
 COBALT_SWORD:
+  description:
+  - '&7En toppklinge smidd av en herdet legering.'
+  - '&7Bærer noe av den sterkeste &bSkarphet&7 og'
+  - '&bHoldbarhet&7 i ExtraGear - et kraftsenter sent i spillet.'
+  name: '&rKoboltsverd'
   type:
   - '&7&oVåpen'
 COPPER_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKobberstøvler'
   type:
   - '&7&oRustning'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKobberbrystplate'
   type:
   - '&7&oRustning'
 COPPER_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKobberhjelm'
   type:
   - '&7&oRustning'
 COPPER_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fKobberbukser'
   type:
   - '&7&oRustning'
 COPPER_SWORD:
+  description:
+  - '&7En nybegynnerklinge smidd av kobber.'
+  - '&7Bærer &bBane II&7, som gjør den nyttig til å rydde'
+  - '&7unna udøde tidlig i spillet, som zombier og skjeletter.'
+  name: '&rKobbersverd'
   type:
   - '&7&oVåpen'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7En tung, pålitelig legeringsklinge.'
+  - '&7Kombinerer en sterk &bSkarphet&7-fortryllelse med'
+  - '&bHoldbarhet&7 for langvarig kampbruk.'
+  name: '&rKorintisk bronsesverd'
   type:
   - '&7&oVåpen'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7En mønstret klinge foldet av damaskusstål.'
+  - '&7Bærer tung &bSkarphet&7 og &bHoldbarhet&7,'
+  - '&7et ekte våpen på øverste nivå.'
+  name: '&rDamaskusstålsverd'
   type:
   - '&7&oVåpen'
 DURALUMIN_SWORD:
+  description:
+  - '&7Et solid legeringssverd på mellomnivå.'
+  - '&7Forhåndsfortryllet med &bSkarphet&7 og &bHoldbarhet&7,'
+  - '&7som balanserer ekstra skade mot lengre levetid.'
+  name: '&rDuraluminsverd'
   type:
   - '&7&oVåpen'
 FERROSILICON_SWORD:
+  description:
+  - '&7En spesialisert klinge mot udøde.'
+  - '&7Bærer kraftig &bBane&7 pluss &bHoldbarhet&7,'
+  - '&7ødeleggende mot zombier, skjeletter og wither-'
+  - '&7skjeletter i Nether.'
+  name: '&rFerrosilisiumsverd'
   type:
   - '&7&oVåpen'
 GILDED_IRON_SWORD:
+  description:
+  - '&7En forgylt klinge med utsmykket gyllen egg.'
+  - '&7Bærer sterk &bLeddyrbane&7 og høy'
+  - '&bHoldbarhet&7, og varer langt lenger enn gull burde.'
+  name: '&rForgylt jernsverd'
   type:
   - '&7&oVåpen'
 HARDENED_SWORD:
+  description:
+  - '&7En toppklinge smidd av en herdet legering.'
+  - '&7Bærer noe av den sterkeste &bSkarphet&7 og'
+  - '&bHoldbarhet&7 i ExtraGear - et kraftsenter sent i spillet.'
+  name: '&rHerdet sverd'
   type:
   - '&7&oVåpen'
 LEAD_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fBlystøvler'
   type:
   - '&7&oRustning'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fBlybrystplate'
   type:
   - '&7&oRustning'
 LEAD_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fBlyhjelm'
   type:
   - '&7&oRustning'
 LEAD_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fBlybukser'
   type:
   - '&7&oRustning'
 LEAD_SWORD:
+  description:
+  - '&7En tung, pålitelig legeringsklinge.'
+  - '&7Kombinerer en sterk &bSkarphet&7-fortryllelse med'
+  - '&bHoldbarhet&7 for langvarig kampbruk.'
+  name: '&rBlysverd'
   type:
   - '&7&oVåpen'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fMagnesiumstøvler'
   type:
   - '&7&oRustning'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fMagnesiumbrystplate'
   type:
   - '&7&oRustning'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fMagnesiumhjelm'
   type:
   - '&7&oRustning'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fMagnesiumbukser'
   type:
   - '&7&oRustning'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Et solid legeringssverd på mellomnivå.'
+  - '&7Forhåndsfortryllet med &bSkarphet&7 og &bHoldbarhet&7,'
+  - '&7som balanserer ekstra skade mot lengre levetid.'
+  name: '&rMagnesiumsverd'
   type:
   - '&7&oVåpen'
 NICKEL_SWORD:
+  description:
+  - '&7En tung, pålitelig legeringsklinge.'
+  - '&7Kombinerer en sterk &bSkarphet&7-fortryllelse med'
+  - '&bHoldbarhet&7 for langvarig kampbruk.'
+  name: '&rNikkelsverd'
   type:
   - '&7&oVåpen'
 REINFORCED_SWORD:
+  description:
+  - '&7En toppklinge smidd av en herdet legering.'
+  - '&7Bærer noe av den sterkeste &bSkarphet&7 og'
+  - '&bHoldbarhet&7 i ExtraGear - et kraftsenter sent i spillet.'
+  name: '&rForsterket sverd'
   type:
   - '&7&oVåpen'
 SILVER_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSølvstøvler'
   type:
   - '&7&oRustning'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSølvbrystplate'
   type:
   - '&7&oRustning'
 SILVER_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSølvhjelm'
   type:
   - '&7&oRustning'
 SILVER_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSølvbukser'
   type:
   - '&7&oRustning'
 SILVER_SWORD:
+  description:
+  - '&7Et lett, billig sverd smidd av et uedelt metall.'
+  - '&7Kommer forhåndsfortryllet med &bSkarphet&7 for et lite'
+  - '&7men pålitelig skadepåslag over en vanilla-klinge.'
+  name: '&rSølvsverd'
   type:
   - '&7&oVåpen'
 SOLDER_SWORD:
+  description:
+  - '&7Et solid legeringssverd på mellomnivå.'
+  - '&7Forhåndsfortryllet med &bSkarphet&7 og &bHoldbarhet&7,'
+  - '&7som balanserer ekstra skade mot lengre levetid.'
+  name: '&rLoddemetallsverd'
   type:
   - '&7&oVåpen'
 STEEL_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fStålstøvler'
   type:
   - '&7&oRustning'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fStålbrystplate'
   type:
   - '&7&oRustning'
 STEEL_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fStålhjelm'
   type:
   - '&7&oRustning'
 STEEL_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fStålbukser'
   type:
   - '&7&oRustning'
 STEEL_SWORD:
+  description:
+  - '&7En tung, pålitelig legeringsklinge.'
+  - '&7Kombinerer en sterk &bSkarphet&7-fortryllelse med'
+  - '&bHoldbarhet&7 for langvarig kampbruk.'
+  name: '&rStålsverd'
   type:
   - '&7&oVåpen'
 TIN_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fTinnstøvler'
   type:
   - '&7&oRustning'
 TIN_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fTinnbrystplate'
   type:
   - '&7&oRustning'
 TIN_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fTinnhjelm'
   type:
   - '&7&oRustning'
 TIN_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fTinnbukser'
   type:
   - '&7&oRustning'
 TIN_SWORD:
+  description:
+  - '&7Et lett, billig sverd smidd av et uedelt metall.'
+  - '&7Kommer forhåndsfortryllet med &bSkarphet&7 for et lite'
+  - '&7men pålitelig skadepåslag over en vanilla-klinge.'
+  name: '&rTinnsverd'
   type:
   - '&7&oVåpen'
 ZINC_BOOTS:
+  description:
+  - '&7Støvlene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSinkstøvler'
   type:
   - '&7&oRustning'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Brystplaten i et ExtraGear-rustningssett - den'
+  - '&7mest beskyttende delen av settet.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSinkbrystplate'
   type:
   - '&7&oRustning'
 ZINC_HELMET:
+  description:
+  - '&7Hjelmen i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSinkhjelm'
   type:
   - '&7&oRustning'
 ZINC_LEGGINGS:
+  description:
+  - '&7Buksene i et ExtraGear-rustningssett.'
+  - '&7Kommer med innebygde beskyttelsesfortryllelser.'
+  - '&7Lages i &bRustningssmien&7 av metallbarrene sine.'
+  name: '&fSinkbukser'
   type:
   - '&7&oRustning'
 ZINC_SWORD:
+  description:
+  - '&7Et lett, billig sverd smidd av et uedelt metall.'
+  - '&7Kommer forhåndsfortryllet med &bSkarphet&7 for et lite'
+  - '&7men pålitelig skadepåslag over en vanilla-klinge.'
+  name: '&rSinksverd'
   type:
   - '&7&oVåpen'
