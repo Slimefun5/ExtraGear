@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fAluminiumstövlar'
   type:
   - '&7&oRustning'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7En aluminiumbaserad klinga byggd för skadedjursbekämpning.'
+  - '&7Bär &bLeddjursplåga&7, och river igenom'
+  - '&7spindlar, silverfiskar och andra kryp med lätthet.'
+  name: '&rAluminiummässingssvärd'
   type:
   - '&7&oVapen'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7En aluminiumbaserad klinga byggd för skadedjursbekämpning.'
+  - '&7Bär &bLeddjursplåga&7, och river igenom'
+  - '&7spindlar, silverfiskar och andra kryp med lätthet.'
+  name: '&rAluminiumbronssvärd'
   type:
   - '&7&oVapen'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fAluminiumbröstplåt'
   type:
   - '&7&oRustning'
 ALUMINUM_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fAluminiumhjälm'
   type:
   - '&7&oRustning'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fAluminiumbenskydd'
   type:
   - '&7&oRustning'
 ALUMINUM_SWORD:
+  description:
+  - '&7En aluminiumbaserad klinga byggd för skadedjursbekämpning.'
+  - '&7Bär &bLeddjursplåga&7, och river igenom'
+  - '&7spindlar, silverfiskar och andra kryp med lätthet.'
+  name: '&rAluminiumsvärd'
   type:
   - '&7&oVapen'
 BILLON_SWORD:
+  description:
+  - '&7Ett gediget legeringssvärd i mellanklass.'
+  - '&7Förförtrollat med &bSkärpa&7 och &bObrytbarhet&7,'
+  - '&7som balanserar extra skada med längre livslängd.'
+  name: '&rBillonsvärd'
   type:
   - '&7&oVapen'
 BRASS_SWORD:
+  description:
+  - '&7En specialiserad klinga mot odöda.'
+  - '&7Bär kraftfull &bBestraffning&7 plus &bObrytbarhet&7,'
+  - '&7förödande mot zombier, skelett och wither-'
+  - '&7skelett i Nether.'
+  name: '&rMässingssvärd'
   type:
   - '&7&oVapen'
 BRONZE_SWORD:
+  description:
+  - '&7Ett gediget legeringssvärd i mellanklass.'
+  - '&7Förförtrollat med &bSkärpa&7 och &bObrytbarhet&7,'
+  - '&7som balanserar extra skada med längre livslängd.'
+  name: '&rBronssvärd'
   type:
   - '&7&oVapen'
 COBALT_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKoboltstövlar'
   type:
   - '&7&oRustning'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKoboltbröstplåt'
   type:
   - '&7&oRustning'
 COBALT_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKobolthjälm'
   type:
   - '&7&oRustning'
 COBALT_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKoboltbenskydd'
   type:
   - '&7&oRustning'
 COBALT_SWORD:
+  description:
+  - '&7En toppklassklinga smidd av en härdad legering.'
+  - '&7Bär några av de starkaste &bSkärpa&7- och'
+  - '&bObrytbarhet&7-förtrollningarna i ExtraGear - ett sent kraftpaket.'
+  name: '&rKoboltsvärd'
   type:
   - '&7&oVapen'
 COPPER_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKopparstövlar'
   type:
   - '&7&oRustning'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKopparbröstplåt'
   type:
   - '&7&oRustning'
 COPPER_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKopparhjälm'
   type:
   - '&7&oRustning'
 COPPER_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fKopparbenskydd'
   type:
   - '&7&oRustning'
 COPPER_SWORD:
+  description:
+  - '&7En nybörjarklinga smidd av koppar.'
+  - '&7Bär &bBestraffning II&7, vilket gör det behändigt för att'
+  - '&7rensa bort tidiga odöda som zombier och skelett.'
+  name: '&rKopparsvärd'
   type:
   - '&7&oVapen'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7En tung, pålitlig legeringsklinga.'
+  - '&7Kombinerar en stark &bSkärpa&7-förtrollning med'
+  - '&bObrytbarhet&7 för uthållig strid.'
+  name: '&rKorintiskt bronssvärd'
   type:
   - '&7&oVapen'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7En mönstrad klinga vikt av damaskusstål.'
+  - '&7Bär tung &bSkärpa&7 och &bObrytbarhet&7,'
+  - '&7ett äkta vapen i toppklass.'
+  name: '&rDamaskusstålsvärd'
   type:
   - '&7&oVapen'
 DURALUMIN_SWORD:
+  description:
+  - '&7Ett gediget legeringssvärd i mellanklass.'
+  - '&7Förförtrollat med &bSkärpa&7 och &bObrytbarhet&7,'
+  - '&7som balanserar extra skada med längre livslängd.'
+  name: '&rDuraluminsvärd'
   type:
   - '&7&oVapen'
 FERROSILICON_SWORD:
+  description:
+  - '&7En specialiserad klinga mot odöda.'
+  - '&7Bär kraftfull &bBestraffning&7 plus &bObrytbarhet&7,'
+  - '&7förödande mot zombier, skelett och wither-'
+  - '&7skelett i Nether.'
+  name: '&rFerrokiselsvärd'
   type:
   - '&7&oVapen'
 GILDED_IRON_SWORD:
+  description:
+  - '&7En förgylld klinga med en utsmyckad guldegg.'
+  - '&7Bär stark &bLeddjursplåga&7 och hög'
+  - '&bObrytbarhet&7, och håller mycket längre än guld borde.'
+  name: '&rFörgyllt järnsvärd'
   type:
   - '&7&oVapen'
 HARDENED_SWORD:
+  description:
+  - '&7En toppklassklinga smidd av en härdad legering.'
+  - '&7Bär några av de starkaste &bSkärpa&7- och'
+  - '&bObrytbarhet&7-förtrollningarna i ExtraGear - ett sent kraftpaket.'
+  name: '&rHärdat svärd'
   type:
   - '&7&oVapen'
 LEAD_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fBlystövlar'
   type:
   - '&7&oRustning'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fBlybröstplåt'
   type:
   - '&7&oRustning'
 LEAD_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fBlyhjälm'
   type:
   - '&7&oRustning'
 LEAD_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fBlybenskydd'
   type:
   - '&7&oRustning'
 LEAD_SWORD:
+  description:
+  - '&7En tung, pålitlig legeringsklinga.'
+  - '&7Kombinerar en stark &bSkärpa&7-förtrollning med'
+  - '&bObrytbarhet&7 för uthållig strid.'
+  name: '&rBlysvärd'
   type:
   - '&7&oVapen'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fMagnesiumstövlar'
   type:
   - '&7&oRustning'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fMagnesiumbröstplåt'
   type:
   - '&7&oRustning'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fMagnesiumhjälm'
   type:
   - '&7&oRustning'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fMagnesiumbenskydd'
   type:
   - '&7&oRustning'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Ett gediget legeringssvärd i mellanklass.'
+  - '&7Förförtrollat med &bSkärpa&7 och &bObrytbarhet&7,'
+  - '&7som balanserar extra skada med längre livslängd.'
+  name: '&rMagnesiumsvärd'
   type:
   - '&7&oVapen'
 NICKEL_SWORD:
+  description:
+  - '&7En tung, pålitlig legeringsklinga.'
+  - '&7Kombinerar en stark &bSkärpa&7-förtrollning med'
+  - '&bObrytbarhet&7 för uthållig strid.'
+  name: '&rNickelsvärd'
   type:
   - '&7&oVapen'
 REINFORCED_SWORD:
+  description:
+  - '&7En toppklassklinga smidd av en härdad legering.'
+  - '&7Bär några av de starkaste &bSkärpa&7- och'
+  - '&bObrytbarhet&7-förtrollningarna i ExtraGear - ett sent kraftpaket.'
+  name: '&rFörstärkt svärd'
   type:
   - '&7&oVapen'
 SILVER_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fSilverstövlar'
   type:
   - '&7&oRustning'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fSilverbröstplåt'
   type:
   - '&7&oRustning'
 SILVER_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fSilverhjälm'
   type:
   - '&7&oRustning'
 SILVER_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fSilverbenskydd'
   type:
   - '&7&oRustning'
 SILVER_SWORD:
+  description:
+  - '&7Ett lätt, billigt svärd smitt av en oädel metall.'
+  - '&7Kommer förförtrollat med &bSkärpa&7 för en liten'
+  - '&7men pålitlig skadeökning jämfört med en vanilla-klinga.'
+  name: '&rSilversvärd'
   type:
   - '&7&oVapen'
 SOLDER_SWORD:
+  description:
+  - '&7Ett gediget legeringssvärd i mellanklass.'
+  - '&7Förförtrollat med &bSkärpa&7 och &bObrytbarhet&7,'
+  - '&7som balanserar extra skada med längre livslängd.'
+  name: '&rLodsvärd'
   type:
   - '&7&oVapen'
 STEEL_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fStålstövlar'
   type:
   - '&7&oRustning'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fStålbröstplåt'
   type:
   - '&7&oRustning'
 STEEL_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fStålhjälm'
   type:
   - '&7&oRustning'
 STEEL_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fStålbenskydd'
   type:
   - '&7&oRustning'
 STEEL_SWORD:
+  description:
+  - '&7En tung, pålitlig legeringsklinga.'
+  - '&7Kombinerar en stark &bSkärpa&7-förtrollning med'
+  - '&bObrytbarhet&7 för uthållig strid.'
+  name: '&rStålsvärd'
   type:
   - '&7&oVapen'
 TIN_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fTennstövlar'
   type:
   - '&7&oRustning'
 TIN_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fTennbröstplåt'
   type:
   - '&7&oRustning'
 TIN_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fTennhjälm'
   type:
   - '&7&oRustning'
 TIN_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fTennbenskydd'
   type:
   - '&7&oRustning'
 TIN_SWORD:
+  description:
+  - '&7Ett lätt, billigt svärd smitt av en oädel metall.'
+  - '&7Kommer förförtrollat med &bSkärpa&7 för en liten'
+  - '&7men pålitlig skadeökning jämfört med en vanilla-klinga.'
+  name: '&rTennsvärd'
   type:
   - '&7&oVapen'
 ZINC_BOOTS:
+  description:
+  - '&7Stövlarna i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fZinkstövlar'
   type:
   - '&7&oRustning'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Bröstplåten i en ExtraGear-rustningsuppsättning - den'
+  - '&7mest skyddande delen i uppsättningen.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fZinkbröstplåt'
   type:
   - '&7&oRustning'
 ZINC_HELMET:
+  description:
+  - '&7Hjälmen i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fZinkhjälm'
   type:
   - '&7&oRustning'
 ZINC_LEGGINGS:
+  description:
+  - '&7Benskydden i en ExtraGear-rustningsuppsättning.'
+  - '&7Kommer med inbyggda skyddsförtrollningar.'
+  - '&7Tillverkas i &bRustningssmedjan&7 av sina metalltackor.'
+  name: '&fZinkbenskydd'
   type:
   - '&7&oRustning'
 ZINC_SWORD:
+  description:
+  - '&7Ett lätt, billigt svärd smitt av en oädel metall.'
+  - '&7Kommer förförtrollat med &bSkärpa&7 för en liten'
+  - '&7men pålitlig skadeökning jämfört med en vanilla-klinga.'
+  name: '&rZinksvärd'
   type:
   - '&7&oVapen'
