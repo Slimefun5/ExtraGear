@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Aluminium'
   type:
   - '&7&oBaju Zirah'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Bilah berbahan aluminium untuk pengendalian hama.'
+  - '&7Membawa &bPembasmi Artropoda&7, merobek'
+  - '&7laba-laba, silverfish dan serangga lain dengan mudah.'
+  name: '&rPedang Kuningan Aluminium'
   type:
   - '&7&oSenjata'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Bilah berbahan aluminium untuk pengendalian hama.'
+  - '&7Membawa &bPembasmi Artropoda&7, merobek'
+  - '&7laba-laba, silverfish dan serangga lain dengan mudah.'
+  name: '&rPedang Perunggu Aluminium'
   type:
   - '&7&oSenjata'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Aluminium'
   type:
   - '&7&oBaju Zirah'
 ALUMINUM_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Aluminium'
   type:
   - '&7&oBaju Zirah'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Aluminium'
   type:
   - '&7&oBaju Zirah'
 ALUMINUM_SWORD:
+  description:
+  - '&7Bilah berbahan aluminium untuk pengendalian hama.'
+  - '&7Membawa &bPembasmi Artropoda&7, merobek'
+  - '&7laba-laba, silverfish dan serangga lain dengan mudah.'
+  name: '&rPedang Aluminium'
   type:
   - '&7&oSenjata'
 BILLON_SWORD:
+  description:
+  - '&7Pedang paduan tingkat menengah yang kokoh.'
+  - '&7Sudah dimantrai &bKetajaman&7 dan &bTak Terpatahkan&7,'
+  - '&7menyeimbangkan kerusakan ekstra dengan usia pakai lebih panjang.'
+  name: '&rPedang Bilon'
   type:
   - '&7&oSenjata'
 BRASS_SWORD:
+  description:
+  - '&7Bilah khusus anti-mayat hidup.'
+  - '&7Membawa &bPembasmi Mayat Hidup&7 yang kuat plus &bTak Terpatahkan&7,'
+  - '&7menghancurkan zombi, skeleton dan skeleton'
+  - '&7wither di Nether.'
+  name: '&rPedang Kuningan'
   type:
   - '&7&oSenjata'
 BRONZE_SWORD:
+  description:
+  - '&7Pedang paduan tingkat menengah yang kokoh.'
+  - '&7Sudah dimantrai &bKetajaman&7 dan &bTak Terpatahkan&7,'
+  - '&7menyeimbangkan kerusakan ekstra dengan usia pakai lebih panjang.'
+  name: '&rPedang Perunggu'
   type:
   - '&7&oSenjata'
 COBALT_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Kobalt'
   type:
   - '&7&oBaju Zirah'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Kobalt'
   type:
   - '&7&oBaju Zirah'
 COBALT_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Kobalt'
   type:
   - '&7&oBaju Zirah'
 COBALT_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Kobalt'
   type:
   - '&7&oBaju Zirah'
 COBALT_SWORD:
+  description:
+  - '&7Bilah tingkat puncak yang ditempa dari paduan diperkeras.'
+  - '&7Membawa &bKetajaman&7 terkuat dan'
+  - '&bTak Terpatahkan&7 di ExtraGear - kekuatan akhir permainan.'
+  name: '&rPedang Kobalt'
   type:
   - '&7&oSenjata'
 COPPER_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Tembaga'
   type:
   - '&7&oBaju Zirah'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Tembaga'
   type:
   - '&7&oBaju Zirah'
 COPPER_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Tembaga'
   type:
   - '&7&oBaju Zirah'
 COPPER_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Tembaga'
   type:
   - '&7&oBaju Zirah'
 COPPER_SWORD:
+  description:
+  - '&7Bilah tingkat pemula yang ditempa dari Tembaga.'
+  - '&7Membawa &bPembasmi Mayat Hidup II&7, praktis untuk membersihkan'
+  - '&7mayat hidup awal permainan seperti zombi dan skeleton.'
+  name: '&rPedang Tembaga'
   type:
   - '&7&oSenjata'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Bilah paduan yang berat dan andal.'
+  - '&7Memadukan mantra &bKetajaman&7 yang kuat dengan'
+  - '&bTak Terpatahkan&7 untuk penggunaan tempur berkelanjutan.'
+  name: '&rPedang Perunggu Korintus'
   type:
   - '&7&oSenjata'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Bilah bercorak yang dilipat dari Baja Damaskus.'
+  - '&7Membawa &bKetajaman&7 dan &bTak Terpatahkan&7 yang berat,'
+  - '&7sebuah senjata tingkat atas sejati.'
+  name: '&rPedang Baja Damaskus'
   type:
   - '&7&oSenjata'
 DURALUMIN_SWORD:
+  description:
+  - '&7Pedang paduan tingkat menengah yang kokoh.'
+  - '&7Sudah dimantrai &bKetajaman&7 dan &bTak Terpatahkan&7,'
+  - '&7menyeimbangkan kerusakan ekstra dengan usia pakai lebih panjang.'
+  name: '&rPedang Duralumin'
   type:
   - '&7&oSenjata'
 FERROSILICON_SWORD:
+  description:
+  - '&7Bilah khusus anti-mayat hidup.'
+  - '&7Membawa &bPembasmi Mayat Hidup&7 yang kuat plus &bTak Terpatahkan&7,'
+  - '&7menghancurkan zombi, skeleton dan skeleton'
+  - '&7wither di Nether.'
+  name: '&rPedang Ferosilikon'
   type:
   - '&7&oSenjata'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Bilah bersepuh dengan mata emas berukir.'
+  - '&7Membawa &bPembasmi Artropoda&7 yang kuat dan'
+  - '&bTak Terpatahkan&7 tinggi, bertahan jauh lebih lama daripada emas seharusnya.'
+  name: '&rPedang Besi Bersepuh Emas'
   type:
   - '&7&oSenjata'
 HARDENED_SWORD:
+  description:
+  - '&7Bilah tingkat puncak yang ditempa dari paduan diperkeras.'
+  - '&7Membawa &bKetajaman&7 terkuat dan'
+  - '&bTak Terpatahkan&7 di ExtraGear - kekuatan akhir permainan.'
+  name: '&rPedang Diperkeras'
   type:
   - '&7&oSenjata'
 LEAD_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Timbal'
   type:
   - '&7&oBaju Zirah'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Timbal'
   type:
   - '&7&oBaju Zirah'
 LEAD_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Timbal'
   type:
   - '&7&oBaju Zirah'
 LEAD_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Timbal'
   type:
   - '&7&oBaju Zirah'
 LEAD_SWORD:
+  description:
+  - '&7Bilah paduan yang berat dan andal.'
+  - '&7Memadukan mantra &bKetajaman&7 yang kuat dengan'
+  - '&bTak Terpatahkan&7 untuk penggunaan tempur berkelanjutan.'
+  name: '&rPedang Timbal'
   type:
   - '&7&oSenjata'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Magnesium'
   type:
   - '&7&oBaju Zirah'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Magnesium'
   type:
   - '&7&oBaju Zirah'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Magnesium'
   type:
   - '&7&oBaju Zirah'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Magnesium'
   type:
   - '&7&oBaju Zirah'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Pedang paduan tingkat menengah yang kokoh.'
+  - '&7Sudah dimantrai &bKetajaman&7 dan &bTak Terpatahkan&7,'
+  - '&7menyeimbangkan kerusakan ekstra dengan usia pakai lebih panjang.'
+  name: '&rPedang Magnesium'
   type:
   - '&7&oSenjata'
 NICKEL_SWORD:
+  description:
+  - '&7Bilah paduan yang berat dan andal.'
+  - '&7Memadukan mantra &bKetajaman&7 yang kuat dengan'
+  - '&bTak Terpatahkan&7 untuk penggunaan tempur berkelanjutan.'
+  name: '&rPedang Nikel'
   type:
   - '&7&oSenjata'
 REINFORCED_SWORD:
+  description:
+  - '&7Bilah tingkat puncak yang ditempa dari paduan diperkeras.'
+  - '&7Membawa &bKetajaman&7 terkuat dan'
+  - '&bTak Terpatahkan&7 di ExtraGear - kekuatan akhir permainan.'
+  name: '&rPedang Diperkuat'
   type:
   - '&7&oSenjata'
 SILVER_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Perak'
   type:
   - '&7&oBaju Zirah'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Perak'
   type:
   - '&7&oBaju Zirah'
 SILVER_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Perak'
   type:
   - '&7&oBaju Zirah'
 SILVER_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Perak'
   type:
   - '&7&oBaju Zirah'
 SILVER_SWORD:
+  description:
+  - '&7Pedang ringan dan murah yang ditempa dari logam dasar.'
+  - '&7Sudah dimantrai &bKetajaman&7 untuk peningkatan'
+  - '&7kerusakan kecil namun andal atas bilah vanilla.'
+  name: '&rPedang Perak'
   type:
   - '&7&oSenjata'
 SOLDER_SWORD:
+  description:
+  - '&7Pedang paduan tingkat menengah yang kokoh.'
+  - '&7Sudah dimantrai &bKetajaman&7 dan &bTak Terpatahkan&7,'
+  - '&7menyeimbangkan kerusakan ekstra dengan usia pakai lebih panjang.'
+  name: '&rPedang Patri'
   type:
   - '&7&oSenjata'
 STEEL_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Baja'
   type:
   - '&7&oBaju Zirah'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Baja'
   type:
   - '&7&oBaju Zirah'
 STEEL_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Baja'
   type:
   - '&7&oBaju Zirah'
 STEEL_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Baja'
   type:
   - '&7&oBaju Zirah'
 STEEL_SWORD:
+  description:
+  - '&7Bilah paduan yang berat dan andal.'
+  - '&7Memadukan mantra &bKetajaman&7 yang kuat dengan'
+  - '&bTak Terpatahkan&7 untuk penggunaan tempur berkelanjutan.'
+  name: '&rPedang Baja'
   type:
   - '&7&oSenjata'
 TIN_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Timah'
   type:
   - '&7&oBaju Zirah'
 TIN_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Timah'
   type:
   - '&7&oBaju Zirah'
 TIN_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Timah'
   type:
   - '&7&oBaju Zirah'
 TIN_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Timah'
   type:
   - '&7&oBaju Zirah'
 TIN_SWORD:
+  description:
+  - '&7Pedang ringan dan murah yang ditempa dari logam dasar.'
+  - '&7Sudah dimantrai &bKetajaman&7 untuk peningkatan'
+  - '&7kerusakan kecil namun andal atas bilah vanilla.'
+  name: '&rPedang Timah'
   type:
   - '&7&oSenjata'
 ZINC_BOOTS:
+  description:
+  - '&7Sepatu bot dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fSepatu Bot Seng'
   type:
   - '&7&oBaju Zirah'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Zirah dada dari set zirah ExtraGear -'
+  - '&7bagian paling pelindung dari set ini.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fZirah Dada Seng'
   type:
   - '&7&oBaju Zirah'
 ZINC_HELMET:
+  description:
+  - '&7Helm dari set zirah ExtraGear.'
+  - '&7Dilengkapi mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fHelm Seng'
   type:
   - '&7&oBaju Zirah'
 ZINC_LEGGINGS:
+  description:
+  - '&7Celana zirah dari set zirah ExtraGear.'
+  - '&7Dilengkapi dengan mantra perlindungan bawaan.'
+  - '&7Dibuat di &bTempa Zirah&7 dari batangan logamnya.'
+  name: '&fCelana Zirah Seng'
   type:
   - '&7&oBaju Zirah'
 ZINC_SWORD:
+  description:
+  - '&7Pedang ringan dan murah yang ditempa dari logam dasar.'
+  - '&7Sudah dimantrai &bKetajaman&7 untuk peningkatan'
+  - '&7kerusakan kecil namun andal atas bilah vanilla.'
+  name: '&rPedang Seng'
   type:
   - '&7&oSenjata'
