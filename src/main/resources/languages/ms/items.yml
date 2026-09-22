@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Aluminium'
   type:
   - '&7&oPerisai'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Bilah berasaskan aluminium yang dibina untuk mengawal perosak.'
+  - '&7Membawa &bBencana Artropod&7, mencabik-cabik'
+  - '&7labah-labah, ikan perak dan serangga lain dengan mudah.'
+  name: '&rPedang Loyang Aluminium'
   type:
   - '&7&oSenjata'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Bilah berasaskan aluminium yang dibina untuk mengawal perosak.'
+  - '&7Membawa &bBencana Artropod&7, mencabik-cabik'
+  - '&7labah-labah, ikan perak dan serangga lain dengan mudah.'
+  name: '&rPedang Gangsa Aluminium'
   type:
   - '&7&oSenjata'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Aluminium'
   type:
   - '&7&oPerisai'
 ALUMINUM_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Aluminium'
   type:
   - '&7&oPerisai'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Aluminium'
   type:
   - '&7&oPerisai'
 ALUMINUM_SWORD:
+  description:
+  - '&7Bilah berasaskan aluminium yang dibina untuk mengawal perosak.'
+  - '&7Membawa &bBencana Artropod&7, mencabik-cabik'
+  - '&7labah-labah, ikan perak dan serangga lain dengan mudah.'
+  name: '&rPedang Aluminium'
   type:
   - '&7&oSenjata'
 BILLON_SWORD:
+  description:
+  - '&7Pedang aloi peringkat pertengahan yang kukuh.'
+  - '&7Sudah dipesona dengan &bKetajaman&7 dan &bTahan Lasak&7,'
+  - '&7mengimbangi kerosakan tambahan dengan jangka hayat lebih panjang.'
+  name: '&rPedang Bilon'
   type:
   - '&7&oSenjata'
 BRASS_SWORD:
+  description:
+  - '&7Bilah pakar anti-mayat hidup.'
+  - '&7Membawa &bHentaman&7 yang hebat serta &bTahan Lasak&7,'
+  - '&7memusnahkan zombi, rangka dan rangka'
+  - '&7wither di Nether.'
+  name: '&rPedang Loyang'
   type:
   - '&7&oSenjata'
 BRONZE_SWORD:
+  description:
+  - '&7Pedang aloi peringkat pertengahan yang kukuh.'
+  - '&7Sudah dipesona dengan &bKetajaman&7 dan &bTahan Lasak&7,'
+  - '&7mengimbangi kerosakan tambahan dengan jangka hayat lebih panjang.'
+  name: '&rPedang Gangsa'
   type:
   - '&7&oSenjata'
 COBALT_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Kobalt'
   type:
   - '&7&oPerisai'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Kobalt'
   type:
   - '&7&oPerisai'
 COBALT_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Kobalt'
   type:
   - '&7&oPerisai'
 COBALT_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Kobalt'
   type:
   - '&7&oPerisai'
 COBALT_SWORD:
+  description:
+  - '&7Bilah peringkat tertinggi yang ditempa daripada aloi terkeras.'
+  - '&7Membawa antara &bKetajaman&7 terkuat dan'
+  - '&bTahan Lasak&7 dalam ExtraGear - gergasi penghujung permainan.'
+  name: '&rPedang Kobalt'
   type:
   - '&7&oSenjata'
 COPPER_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Tembaga'
   type:
   - '&7&oPerisai'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Tembaga'
   type:
   - '&7&oPerisai'
 COPPER_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Tembaga'
   type:
   - '&7&oPerisai'
 COPPER_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Tembaga'
   type:
   - '&7&oPerisai'
 COPPER_SWORD:
+  description:
+  - '&7Bilah peringkat permulaan yang ditempa daripada Tembaga.'
+  - '&7Membawa &bHentaman II&7, menjadikannya berguna untuk membersihkan'
+  - '&7mayat hidup awal permainan seperti zombi dan rangka.'
+  name: '&rPedang Tembaga'
   type:
   - '&7&oSenjata'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Bilah aloi yang berat dan boleh diharap.'
+  - '&7Menggabungkan pesona &bKetajaman&7 yang kuat dengan'
+  - '&bTahan Lasak&7 untuk kegunaan pertempuran berpanjangan.'
+  name: '&rPedang Gangsa Corinth'
   type:
   - '&7&oSenjata'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Bilah bercorak yang dilipat daripada Keluli Damsyik.'
+  - '&7Membawa &bKetajaman&7 dan &bTahan Lasak&7 yang berat,'
+  - '&7sebuah senjata peringkat atasan yang sejati.'
+  name: '&rPedang Keluli Damsyik'
   type:
   - '&7&oSenjata'
 DURALUMIN_SWORD:
+  description:
+  - '&7Pedang aloi peringkat pertengahan yang kukuh.'
+  - '&7Sudah dipesona dengan &bKetajaman&7 dan &bTahan Lasak&7,'
+  - '&7mengimbangi kerosakan tambahan dengan jangka hayat lebih panjang.'
+  name: '&rPedang Duralumin'
   type:
   - '&7&oSenjata'
 FERROSILICON_SWORD:
+  description:
+  - '&7Bilah pakar anti-mayat hidup.'
+  - '&7Membawa &bHentaman&7 yang hebat serta &bTahan Lasak&7,'
+  - '&7memusnahkan zombi, rangka dan rangka'
+  - '&7wither di Nether.'
+  name: '&rPedang Ferosilikon'
   type:
   - '&7&oSenjata'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Bilah bersalut emas dengan mata berhias keemasan.'
+  - '&7Membawa &bBencana Artropod&7 yang kuat dan'
+  - '&bTahan Lasak&7 tinggi, bertahan jauh lebih lama daripada emas biasa.'
+  name: '&rPedang Besi Bersalut Emas'
   type:
   - '&7&oSenjata'
 HARDENED_SWORD:
+  description:
+  - '&7Bilah peringkat tertinggi yang ditempa daripada aloi terkeras.'
+  - '&7Membawa antara &bKetajaman&7 terkuat dan'
+  - '&bTahan Lasak&7 dalam ExtraGear - gergasi penghujung permainan.'
+  name: '&rPedang Terkeras'
   type:
   - '&7&oSenjata'
 LEAD_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Plumbum'
   type:
   - '&7&oPerisai'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Plumbum'
   type:
   - '&7&oPerisai'
 LEAD_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Plumbum'
   type:
   - '&7&oPerisai'
 LEAD_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Plumbum'
   type:
   - '&7&oPerisai'
 LEAD_SWORD:
+  description:
+  - '&7Bilah aloi yang berat dan boleh diharap.'
+  - '&7Menggabungkan pesona &bKetajaman&7 yang kuat dengan'
+  - '&bTahan Lasak&7 untuk kegunaan pertempuran berpanjangan.'
+  name: '&rPedang Plumbum'
   type:
   - '&7&oSenjata'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Magnesium'
   type:
   - '&7&oPerisai'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Magnesium'
   type:
   - '&7&oPerisai'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Magnesium'
   type:
   - '&7&oPerisai'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Magnesium'
   type:
   - '&7&oPerisai'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Pedang aloi peringkat pertengahan yang kukuh.'
+  - '&7Sudah dipesona dengan &bKetajaman&7 dan &bTahan Lasak&7,'
+  - '&7mengimbangi kerosakan tambahan dengan jangka hayat lebih panjang.'
+  name: '&rPedang Magnesium'
   type:
   - '&7&oSenjata'
 NICKEL_SWORD:
+  description:
+  - '&7Bilah aloi yang berat dan boleh diharap.'
+  - '&7Menggabungkan pesona &bKetajaman&7 yang kuat dengan'
+  - '&bTahan Lasak&7 untuk kegunaan pertempuran berpanjangan.'
+  name: '&rPedang Nikel'
   type:
   - '&7&oSenjata'
 REINFORCED_SWORD:
+  description:
+  - '&7Bilah peringkat tertinggi yang ditempa daripada aloi terkeras.'
+  - '&7Membawa antara &bKetajaman&7 terkuat dan'
+  - '&bTahan Lasak&7 dalam ExtraGear - gergasi penghujung permainan.'
+  name: '&rPedang Diperkukuh'
   type:
   - '&7&oSenjata'
 SILVER_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Perak'
   type:
   - '&7&oPerisai'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Perak'
   type:
   - '&7&oPerisai'
 SILVER_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Perak'
   type:
   - '&7&oPerisai'
 SILVER_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Perak'
   type:
   - '&7&oPerisai'
 SILVER_SWORD:
+  description:
+  - '&7Pedang ringan dan murah yang ditempa daripada logam asas.'
+  - '&7Hadir sudah dipesona dengan &bKetajaman&7 untuk peningkatan'
+  - '&7kerosakan kecil namun mantap berbanding bilah asli.'
+  name: '&rPedang Perak'
   type:
   - '&7&oSenjata'
 SOLDER_SWORD:
+  description:
+  - '&7Pedang aloi peringkat pertengahan yang kukuh.'
+  - '&7Sudah dipesona dengan &bKetajaman&7 dan &bTahan Lasak&7,'
+  - '&7mengimbangi kerosakan tambahan dengan jangka hayat lebih panjang.'
+  name: '&rPedang Pateri'
   type:
   - '&7&oSenjata'
 STEEL_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Keluli'
   type:
   - '&7&oPerisai'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Keluli'
   type:
   - '&7&oPerisai'
 STEEL_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Keluli'
   type:
   - '&7&oPerisai'
 STEEL_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Keluli'
   type:
   - '&7&oPerisai'
 STEEL_SWORD:
+  description:
+  - '&7Bilah aloi yang berat dan boleh diharap.'
+  - '&7Menggabungkan pesona &bKetajaman&7 yang kuat dengan'
+  - '&bTahan Lasak&7 untuk kegunaan pertempuran berpanjangan.'
+  name: '&rPedang Keluli'
   type:
   - '&7&oSenjata'
 TIN_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Timah'
   type:
   - '&7&oPerisai'
 TIN_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Timah'
   type:
   - '&7&oPerisai'
 TIN_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Timah'
   type:
   - '&7&oPerisai'
 TIN_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Timah'
   type:
   - '&7&oPerisai'
 TIN_SWORD:
+  description:
+  - '&7Pedang ringan dan murah yang ditempa daripada logam asas.'
+  - '&7Hadir sudah dipesona dengan &bKetajaman&7 untuk peningkatan'
+  - '&7kerosakan kecil namun mantap berbanding bilah asli.'
+  name: '&rPedang Timah'
   type:
   - '&7&oSenjata'
 ZINC_BOOTS:
+  description:
+  - '&7But bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fBut Zink'
   type:
   - '&7&oPerisai'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Pelindung dada bagi set Zirah ExtraGear - bahagian'
+  - '&7paling melindungi dalam set itu.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fPelindung Dada Zink'
   type:
   - '&7&oPerisai'
 ZINC_HELMET:
+  description:
+  - '&7Topi keledar bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fTopi Keledar Zink'
   type:
   - '&7&oPerisai'
 ZINC_LEGGINGS:
+  description:
+  - '&7Seluar zirah bagi set Zirah ExtraGear.'
+  - '&7Hadir dengan pesona perlindungan terbina dalam.'
+  - '&7Dibuat di &bPenempa Zirah&7 daripada jongkong logamnya.'
+  name: '&fSeluar Zirah Zink'
   type:
   - '&7&oPerisai'
 ZINC_SWORD:
+  description:
+  - '&7Pedang ringan dan murah yang ditempa daripada logam asas.'
+  - '&7Hadir sudah dipesona dengan &bKetajaman&7 untuk peningkatan'
+  - '&7kerosakan kecil namun mantap berbanding bilah asli.'
+  name: '&rPedang Zink'
   type:
   - '&7&oSenjata'
