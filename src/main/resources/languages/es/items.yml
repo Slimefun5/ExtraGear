@@ -1,236 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAluminio Botas'
   type:
   - '&7&oArmadura'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Una hoja a base de aluminio creada para el control de plagas.'
+  - '&7Lleva &bPerdición de los Artrópodos&7, atravesando'
+  - '&7arañas, lepismas y otros bichos con facilidad.'
   name: '&rLatón de aluminio Espada'
   type:
   - '&7&oArma'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Una hoja a base de aluminio creada para el control de plagas.'
+  - '&7Lleva &bPerdición de los Artrópodos&7, atravesando'
+  - '&7arañas, lepismas y otros bichos con facilidad.'
   name: '&rBronce de aluminio Espada'
   type:
   - '&7&oArma'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAluminio Peto'
   type:
   - '&7&oArmadura'
 ALUMINUM_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAluminio Casco'
   type:
   - '&7&oArmadura'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAluminio Grebas'
   type:
   - '&7&oArmadura'
 ALUMINUM_SWORD:
+  description:
+  - '&7Una hoja a base de aluminio creada para el control de plagas.'
+  - '&7Lleva &bPerdición de los Artrópodos&7, atravesando'
+  - '&7arañas, lepismas y otros bichos con facilidad.'
   name: '&rAluminio Espada'
   type:
   - '&7&oArma'
 BILLON_SWORD:
+  description:
+  - '&7Una espada de aleación sólida de nivel medio.'
+  - '&7Preencantada con &bFilo&7 e &bIrrompibilidad&7,'
+  - '&7equilibrando daño extra con una vida útil más larga.'
   name: '&rVellón Espada'
   type:
   - '&7&oArma'
 BRASS_SWORD:
+  description:
+  - '&7Una hoja especializada contra los no muertos.'
+  - '&7Lleva un potente &bCastigo&7 más &bIrrompibilidad&7,'
+  - '&7devastadora contra zombis, esqueletos y esqueletos'
+  - '&7wither en el Nether.'
   name: '&rLatón Espada'
   type:
   - '&7&oArma'
 BRONZE_SWORD:
+  description:
+  - '&7Una espada de aleación sólida de nivel medio.'
+  - '&7Preencantada con &bFilo&7 e &bIrrompibilidad&7,'
+  - '&7equilibrando daño extra con una vida útil más larga.'
   name: '&rBronce Espada'
   type:
   - '&7&oArma'
 COBALT_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobalto Botas'
   type:
   - '&7&oArmadura'
 COBALT_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobalto Peto'
   type:
   - '&7&oArmadura'
 COBALT_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobalto Casco'
   type:
   - '&7&oArmadura'
 COBALT_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobalto Grebas'
   type:
   - '&7&oArmadura'
 COBALT_SWORD:
+  description:
+  - '&7Una hoja de máximo nivel forjada en una aleación endurecida.'
+  - '&7Lleva algunos de los mayores niveles de &bFilo&7 e'
+  - '&bIrrompibilidad&7 de ExtraGear, una potencia del final del juego.'
   name: '&rCobalto Espada'
   type:
   - '&7&oArma'
 COPPER_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobre Botas'
   type:
   - '&7&oArmadura'
 COPPER_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobre Peto'
   type:
   - '&7&oArmadura'
 COPPER_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobre Casco'
   type:
   - '&7&oArmadura'
 COPPER_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fCobre Grebas'
   type:
   - '&7&oArmadura'
 COPPER_SWORD:
+  description:
+  - '&7Una hoja de iniciación forjada en Cobre.'
+  - '&7Lleva &bCastigo II&7, lo que la hace útil para eliminar'
+  - '&7no muertos del inicio del juego como zombis y esqueletos.'
   name: '&rCobre Espada'
   type:
   - '&7&oArma'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Una hoja de aleación pesada y fiable.'
+  - '&7Combina un fuerte encantamiento de &bFilo&7 con'
+  - '&bIrrompibilidad&7 para un uso sostenido en combate.'
   name: '&rBronce corintio Espada'
   type:
   - '&7&oArma'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Una hoja con dibujo plegada en Acero de Damasco.'
+  - '&7Lleva un fuerte &bFilo&7 e &bIrrompibilidad&7,'
+  - '&7un arma de primer nivel de verdad.'
   name: '&rAcero de Damasco Espada'
   type:
   - '&7&oArma'
 DURALUMIN_SWORD:
+  description:
+  - '&7Una espada de aleación sólida de nivel medio.'
+  - '&7Preencantada con &bFilo&7 e &bIrrompibilidad&7,'
+  - '&7equilibrando daño extra con una vida útil más larga.'
   name: '&rDuraluminio Espada'
   type:
   - '&7&oArma'
 FERROSILICON_SWORD:
+  description:
+  - '&7Una hoja especializada contra los no muertos.'
+  - '&7Lleva un potente &bCastigo&7 más &bIrrompibilidad&7,'
+  - '&7devastadora contra zombis, esqueletos y esqueletos'
+  - '&7wither en el Nether.'
   name: '&rFerrosilicio Espada'
   type:
   - '&7&oArma'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Una hoja dorada con un filo áureo ornamentado.'
+  - '&7Lleva una fuerte &bPerdición de los Artrópodos&7 y mucha'
+  - '&bIrrompibilidad&7, durando mucho más de lo que debería el oro.'
   name: '&rHierro dorado Espada'
   type:
   - '&7&oArma'
 HARDENED_SWORD:
+  description:
+  - '&7Una hoja de máximo nivel forjada en una aleación endurecida.'
+  - '&7Lleva algunos de los mayores niveles de &bFilo&7 e'
+  - '&bIrrompibilidad&7 de ExtraGear, una potencia del final del juego.'
   name: '&rMetal endurecido Espada'
   type:
   - '&7&oArma'
 LEAD_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlomo Botas'
   type:
   - '&7&oArmadura'
 LEAD_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlomo Peto'
   type:
   - '&7&oArmadura'
 LEAD_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlomo Casco'
   type:
   - '&7&oArmadura'
 LEAD_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlomo Grebas'
   type:
   - '&7&oArmadura'
 LEAD_SWORD:
+  description:
+  - '&7Una hoja de aleación pesada y fiable.'
+  - '&7Combina un fuerte encantamiento de &bFilo&7 con'
+  - '&bIrrompibilidad&7 para un uso sostenido en combate.'
   name: '&rPlomo Espada'
   type:
   - '&7&oArma'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fMagnesio Botas'
   type:
   - '&7&oArmadura'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fMagnesio Peto'
   type:
   - '&7&oArmadura'
 MAGNESIUM_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fMagnesio Casco'
   type:
   - '&7&oArmadura'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fMagnesio Grebas'
   type:
   - '&7&oArmadura'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Una espada de aleación sólida de nivel medio.'
+  - '&7Preencantada con &bFilo&7 e &bIrrompibilidad&7,'
+  - '&7equilibrando daño extra con una vida útil más larga.'
   name: '&rMagnesio Espada'
   type:
   - '&7&oArma'
 NICKEL_SWORD:
+  description:
+  - '&7Una hoja de aleación pesada y fiable.'
+  - '&7Combina un fuerte encantamiento de &bFilo&7 con'
+  - '&bIrrompibilidad&7 para un uso sostenido en combate.'
   name: '&rNíquel Espada'
   type:
   - '&7&oArma'
 REINFORCED_SWORD:
+  description:
+  - '&7Una hoja de máximo nivel forjada en una aleación endurecida.'
+  - '&7Lleva algunos de los mayores niveles de &bFilo&7 e'
+  - '&bIrrompibilidad&7 de ExtraGear, una potencia del final del juego.'
   name: '&rReforzado Espada'
   type:
   - '&7&oArma'
 SILVER_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlata Botas'
   type:
   - '&7&oArmadura'
 SILVER_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlata Peto'
   type:
   - '&7&oArmadura'
 SILVER_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlata Casco'
   type:
   - '&7&oArmadura'
 SILVER_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fPlata Grebas'
   type:
   - '&7&oArmadura'
 SILVER_SWORD:
+  description:
+  - '&7Una espada ligera y barata forjada en un metal básico.'
+  - '&7Viene preencantada con &bFilo&7 para un aumento de daño'
+  - '&7pequeño pero fiable frente a una hoja vanilla.'
   name: '&rPlata Espada'
   type:
   - '&7&oArma'
 SOLDER_SWORD:
+  description:
+  - '&7Una espada de aleación sólida de nivel medio.'
+  - '&7Preencantada con &bFilo&7 e &bIrrompibilidad&7,'
+  - '&7equilibrando daño extra con una vida útil más larga.'
   name: '&rSoldadura Espada'
   type:
   - '&7&oArma'
 STEEL_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAcero Botas'
   type:
   - '&7&oArmadura'
 STEEL_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAcero Peto'
   type:
   - '&7&oArmadura'
 STEEL_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAcero Casco'
   type:
   - '&7&oArmadura'
 STEEL_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fAcero Grebas'
   type:
   - '&7&oArmadura'
 STEEL_SWORD:
+  description:
+  - '&7Una hoja de aleación pesada y fiable.'
+  - '&7Combina un fuerte encantamiento de &bFilo&7 con'
+  - '&bIrrompibilidad&7 para un uso sostenido en combate.'
   name: '&rAcero Espada'
   type:
   - '&7&oArma'
 TIN_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fEstaño Botas'
   type:
   - '&7&oArmadura'
 TIN_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fEstaño Peto'
   type:
   - '&7&oArmadura'
 TIN_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fEstaño Casco'
   type:
   - '&7&oArmadura'
 TIN_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fEstaño Grebas'
   type:
   - '&7&oArmadura'
 TIN_SWORD:
+  description:
+  - '&7Una espada ligera y barata forjada en un metal básico.'
+  - '&7Viene preencantada con &bFilo&7 para un aumento de daño'
+  - '&7pequeño pero fiable frente a una hoja vanilla.'
   name: '&rEstaño Espada'
   type:
   - '&7&oArma'
 ZINC_BOOTS:
+  description:
+  - '&7Las botas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fZinc Botas'
   type:
   - '&7&oArmadura'
 ZINC_CHESTPLATE:
+  description:
+  - '&7El peto de un conjunto de armadura ExtraGear, la'
+  - '&7pieza más protectora del conjunto.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fZinc Peto'
   type:
   - '&7&oArmadura'
 ZINC_HELMET:
+  description:
+  - '&7El casco de un conjunto de armadura ExtraGear.'
+  - '&7Viene con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fZinc Casco'
   type:
   - '&7&oArmadura'
 ZINC_LEGGINGS:
+  description:
+  - '&7Las grebas de un conjunto de armadura ExtraGear.'
+  - '&7Vienen con encantamientos de protección integrados.'
+  - '&7Fabricado en la &bForja de Armaduras&7 con sus lingotes de metal.'
   name: '&fZinc Grebas'
   type:
   - '&7&oArmadura'
 ZINC_SWORD:
+  description:
+  - '&7Una espada ligera y barata forjada en un metal básico.'
+  - '&7Viene preencantada con &bFilo&7 para un aumento de daño'
+  - '&7pequeño pero fiable frente a una hoja vanilla.'
   name: '&rZinc Espada'
   type:
   - '&7&oArma'
