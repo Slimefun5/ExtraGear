@@ -1,236 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAluminium Bottes'
   type:
   - '&7&oArmure'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Une lame à base d''aluminium conçue pour le contrôle des nuisibles.'
+  - '&7Possède &bFléau des arthropodes&7, déchirant'
+  - '&7araignées, poissons d''argent et autres bestioles avec aisance.'
   name: '&rLaiton d''aluminium Épée'
   type:
   - '&7&oArme'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Une lame à base d''aluminium conçue pour le contrôle des nuisibles.'
+  - '&7Possède &bFléau des arthropodes&7, déchirant'
+  - '&7araignées, poissons d''argent et autres bestioles avec aisance.'
   name: '&rBronze d''aluminium Épée'
   type:
   - '&7&oArme'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAluminium Plastron'
   type:
   - '&7&oArmure'
 ALUMINUM_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAluminium Casque'
   type:
   - '&7&oArmure'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAluminium Jambières'
   type:
   - '&7&oArmure'
 ALUMINUM_SWORD:
+  description:
+  - '&7Une lame à base d''aluminium conçue pour le contrôle des nuisibles.'
+  - '&7Possède &bFléau des arthropodes&7, déchirant'
+  - '&7araignées, poissons d''argent et autres bestioles avec aisance.'
   name: '&rAluminium Épée'
   type:
   - '&7&oArme'
 BILLON_SWORD:
+  description:
+  - '&7Une solide épée d''alliage de palier intermédiaire.'
+  - '&7Pré-enchantée avec &bTranchant&7 et &bSolidité&7,'
+  - '&7équilibrant des dégâts accrus et une durée de vie plus longue.'
   name: '&rBillon Épée'
   type:
   - '&7&oArme'
 BRASS_SWORD:
+  description:
+  - '&7Une lame spécialisée contre les morts-vivants.'
+  - '&7Possède un puissant &bChâtiment&7 ainsi que &bSolidité&7,'
+  - '&7dévastatrice contre les zombies, les squelettes et les squelettes'
+  - '&7wither du Nether.'
   name: '&rLaiton Épée'
   type:
   - '&7&oArme'
 BRONZE_SWORD:
+  description:
+  - '&7Une solide épée d''alliage de palier intermédiaire.'
+  - '&7Pré-enchantée avec &bTranchant&7 et &bSolidité&7,'
+  - '&7équilibrant des dégâts accrus et une durée de vie plus longue.'
   name: '&rBronze Épée'
   type:
   - '&7&oArme'
 COBALT_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCobalt Bottes'
   type:
   - '&7&oArmure'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCobalt Plastron'
   type:
   - '&7&oArmure'
 COBALT_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCobalt Casque'
   type:
   - '&7&oArmure'
 COBALT_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCobalt Jambières'
   type:
   - '&7&oArmure'
 COBALT_SWORD:
+  description:
+  - '&7Une lame de tout premier palier forgée dans un alliage durci.'
+  - '&7Possède parmi les plus puissants &bTranchant&7 et'
+  - '&bSolidité&7 d''ExtraGear - une puissance de fin de partie.'
   name: '&rCobalt Épée'
   type:
   - '&7&oArme'
 COPPER_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCuivre Bottes'
   type:
   - '&7&oArmure'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCuivre Plastron'
   type:
   - '&7&oArmure'
 COPPER_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCuivre Casque'
   type:
   - '&7&oArmure'
 COPPER_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fCuivre Jambières'
   type:
   - '&7&oArmure'
 COPPER_SWORD:
+  description:
+  - '&7Une lame d''entrée de gamme forgée en Cuivre.'
+  - '&7Possède &bChâtiment II&7, bien pratique pour éliminer'
+  - '&7les morts-vivants du début de partie comme zombies et squelettes.'
   name: '&rCuivre Épée'
   type:
   - '&7&oArme'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Une lame d''alliage lourde et fiable.'
+  - '&7Combine un puissant enchantement &bTranchant&7 avec'
+  - '&bSolidité&7 pour un usage prolongé au combat.'
   name: '&rBronze de Corinthe Épée'
   type:
   - '&7&oArme'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Une lame damassée forgée en Acier de Damas.'
+  - '&7Possède un fort &bTranchant&7 et &bSolidité&7,'
+  - '&7une véritable arme de haut palier.'
   name: '&rAcier de Damas Épée'
   type:
   - '&7&oArme'
 DURALUMIN_SWORD:
+  description:
+  - '&7Une solide épée d''alliage de palier intermédiaire.'
+  - '&7Pré-enchantée avec &bTranchant&7 et &bSolidité&7,'
+  - '&7équilibrant des dégâts accrus et une durée de vie plus longue.'
   name: '&rDuralumin Épée'
   type:
   - '&7&oArme'
 FERROSILICON_SWORD:
+  description:
+  - '&7Une lame spécialisée contre les morts-vivants.'
+  - '&7Possède un puissant &bChâtiment&7 ainsi que &bSolidité&7,'
+  - '&7dévastatrice contre les zombies, les squelettes et les squelettes'
+  - '&7wither du Nether.'
   name: '&rFerrosilicium Épée'
   type:
   - '&7&oArme'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Une lame dorée au tranchant ouvragé en or.'
+  - '&7Possède un fort &bFléau des arthropodes&7 et une grande'
+  - '&bSolidité&7, durant bien plus longtemps que l''or ne le devrait.'
   name: '&rFer doré Épée'
   type:
   - '&7&oArme'
 HARDENED_SWORD:
+  description:
+  - '&7Une lame de tout premier palier forgée dans un alliage durci.'
+  - '&7Possède parmi les plus puissants &bTranchant&7 et'
+  - '&bSolidité&7 d''ExtraGear - une puissance de fin de partie.'
   name: '&rMétal durci Épée'
   type:
   - '&7&oArme'
 LEAD_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fPlomb Bottes'
   type:
   - '&7&oArmure'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fPlomb Plastron'
   type:
   - '&7&oArmure'
 LEAD_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fPlomb Casque'
   type:
   - '&7&oArmure'
 LEAD_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fPlomb Jambières'
   type:
   - '&7&oArmure'
 LEAD_SWORD:
+  description:
+  - '&7Une lame d''alliage lourde et fiable.'
+  - '&7Combine un puissant enchantement &bTranchant&7 avec'
+  - '&bSolidité&7 pour un usage prolongé au combat.'
   name: '&rPlomb Épée'
   type:
   - '&7&oArme'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fMagnésium Bottes'
   type:
   - '&7&oArmure'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fMagnésium Plastron'
   type:
   - '&7&oArmure'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fMagnésium Casque'
   type:
   - '&7&oArmure'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fMagnésium Jambières'
   type:
   - '&7&oArmure'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Une solide épée d''alliage de palier intermédiaire.'
+  - '&7Pré-enchantée avec &bTranchant&7 et &bSolidité&7,'
+  - '&7équilibrant des dégâts accrus et une durée de vie plus longue.'
   name: '&rMagnésium Épée'
   type:
   - '&7&oArme'
 NICKEL_SWORD:
+  description:
+  - '&7Une lame d''alliage lourde et fiable.'
+  - '&7Combine un puissant enchantement &bTranchant&7 avec'
+  - '&bSolidité&7 pour un usage prolongé au combat.'
   name: '&rNickel Épée'
   type:
   - '&7&oArme'
 REINFORCED_SWORD:
+  description:
+  - '&7Une lame de tout premier palier forgée dans un alliage durci.'
+  - '&7Possède parmi les plus puissants &bTranchant&7 et'
+  - '&bSolidité&7 d''ExtraGear - une puissance de fin de partie.'
   name: '&rRenforcé Épée'
   type:
   - '&7&oArme'
 SILVER_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fArgent Bottes'
   type:
   - '&7&oArmure'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fArgent Plastron'
   type:
   - '&7&oArmure'
 SILVER_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fArgent Casque'
   type:
   - '&7&oArmure'
 SILVER_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fArgent Jambières'
   type:
   - '&7&oArmure'
 SILVER_SWORD:
+  description:
+  - '&7Une épée légère et bon marché forgée dans un métal commun.'
+  - '&7Fournie pré-enchantée avec &bTranchant&7 pour un léger'
+  - '&7mais fiable gain de dégâts par rapport à une lame vanilla.'
   name: '&rArgent Épée'
   type:
   - '&7&oArme'
 SOLDER_SWORD:
+  description:
+  - '&7Une solide épée d''alliage de palier intermédiaire.'
+  - '&7Pré-enchantée avec &bTranchant&7 et &bSolidité&7,'
+  - '&7équilibrant des dégâts accrus et une durée de vie plus longue.'
   name: '&rSoudure Épée'
   type:
   - '&7&oArme'
 STEEL_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAcier Bottes'
   type:
   - '&7&oArmure'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAcier Plastron'
   type:
   - '&7&oArmure'
 STEEL_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAcier Casque'
   type:
   - '&7&oArmure'
 STEEL_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fAcier Jambières'
   type:
   - '&7&oArmure'
 STEEL_SWORD:
+  description:
+  - '&7Une lame d''alliage lourde et fiable.'
+  - '&7Combine un puissant enchantement &bTranchant&7 avec'
+  - '&bSolidité&7 pour un usage prolongé au combat.'
   name: '&rAcier Épée'
   type:
   - '&7&oArme'
 TIN_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fÉtain Bottes'
   type:
   - '&7&oArmure'
 TIN_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fÉtain Plastron'
   type:
   - '&7&oArmure'
 TIN_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fÉtain Casque'
   type:
   - '&7&oArmure'
 TIN_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fÉtain Jambières'
   type:
   - '&7&oArmure'
 TIN_SWORD:
+  description:
+  - '&7Une épée légère et bon marché forgée dans un métal commun.'
+  - '&7Fournie pré-enchantée avec &bTranchant&7 pour un léger'
+  - '&7mais fiable gain de dégâts par rapport à une lame vanilla.'
   name: '&rÉtain Épée'
   type:
   - '&7&oArme'
 ZINC_BOOTS:
+  description:
+  - '&7Les bottes d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fZinc Bottes'
   type:
   - '&7&oArmure'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Le plastron d''un ensemble d''armure ExtraGear - la'
+  - '&7pièce la plus protectrice de l''ensemble.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fZinc Plastron'
   type:
   - '&7&oArmure'
 ZINC_HELMET:
+  description:
+  - '&7Le casque d''un ensemble d''armure ExtraGear.'
+  - '&7Fourni avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fZinc Casque'
   type:
   - '&7&oArmure'
 ZINC_LEGGINGS:
+  description:
+  - '&7Les jambières d''un ensemble d''armure ExtraGear.'
+  - '&7Fournies avec des enchantements de protection intégrés.'
+  - '&7Fabriqué dans la &bForge d''armure&7 à partir de ses lingots de métal.'
   name: '&fZinc Jambières'
   type:
   - '&7&oArmure'
 ZINC_SWORD:
+  description:
+  - '&7Une épée légère et bon marché forgée dans un métal commun.'
+  - '&7Fournie pré-enchantée avec &bTranchant&7 pour un léger'
+  - '&7mais fiable gain de dégâts par rapport à une lame vanilla.'
   name: '&rZinc Épée'
   type:
   - '&7&oArme'
