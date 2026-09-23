@@ -1,236 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAlluminio Stivali'
   type:
   - '&7&oArmatura'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Una lama a base di alluminio creata per il controllo dei parassiti.'
+  - '&7Possiede &bFlagello degli Artropodi&7, e squarcia'
+  - '&7ragni, pesciolini d''argento e altri insetti con facilità.'
   name: '&rOttone di alluminio Spada'
   type:
   - '&7&oArma'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Una lama a base di alluminio creata per il controllo dei parassiti.'
+  - '&7Possiede &bFlagello degli Artropodi&7, e squarcia'
+  - '&7ragni, pesciolini d''argento e altri insetti con facilità.'
   name: '&rBronzo di alluminio Spada'
   type:
   - '&7&oArma'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAlluminio Corazza'
   type:
   - '&7&oArmatura'
 ALUMINUM_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAlluminio Elmo'
   type:
   - '&7&oArmatura'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAlluminio Gambali'
   type:
   - '&7&oArmatura'
 ALUMINUM_SWORD:
+  description:
+  - '&7Una lama a base di alluminio creata per il controllo dei parassiti.'
+  - '&7Possiede &bFlagello degli Artropodi&7, e squarcia'
+  - '&7ragni, pesciolini d''argento e altri insetti con facilità.'
   name: '&rAlluminio Spada'
   type:
   - '&7&oArma'
 BILLON_SWORD:
+  description:
+  - '&7Una solida spada di lega di livello intermedio.'
+  - '&7Pre-incantata con &bAffilatura&7 e &bIndistruttibilità&7,'
+  - '&7bilancia danno extra e durata maggiore.'
   name: '&rBiglione Spada'
   type:
   - '&7&oArma'
 BRASS_SWORD:
+  description:
+  - '&7Una lama specializzata contro i non morti.'
+  - '&7Possiede un potente &bCastigo&7 e &bIndistruttibilità&7,'
+  - '&7devastante contro zombie, scheletri e scheletri'
+  - '&7del wither nel Nether.'
   name: '&rOttone Spada'
   type:
   - '&7&oArma'
 BRONZE_SWORD:
+  description:
+  - '&7Una solida spada di lega di livello intermedio.'
+  - '&7Pre-incantata con &bAffilatura&7 e &bIndistruttibilità&7,'
+  - '&7bilancia danno extra e durata maggiore.'
   name: '&rBronzo Spada'
   type:
   - '&7&oArma'
 COBALT_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fCobalto Stivali'
   type:
   - '&7&oArmatura'
 COBALT_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fCobalto Corazza'
   type:
   - '&7&oArmatura'
 COBALT_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fCobalto Elmo'
   type:
   - '&7&oArmatura'
 COBALT_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fCobalto Gambali'
   type:
   - '&7&oArmatura'
 COBALT_SWORD:
+  description:
+  - '&7Una lama di primo livello forgiata da una lega indurita.'
+  - '&7Possiede tra le più forti &bAffilatura&7 e'
+  - '&bIndistruttibilità&7 di ExtraGear - una potenza di fine partita.'
   name: '&rCobalto Spada'
   type:
   - '&7&oArma'
 COPPER_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fRame Stivali'
   type:
   - '&7&oArmatura'
 COPPER_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fRame Corazza'
   type:
   - '&7&oArmatura'
 COPPER_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fRame Elmo'
   type:
   - '&7&oArmatura'
 COPPER_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fRame Gambali'
   type:
   - '&7&oArmatura'
 COPPER_SWORD:
+  description:
+  - '&7Una lama base forgiata dal Rame.'
+  - '&7Possiede &bCastigo II&7, utile per eliminare'
+  - '&7i non morti di inizio partita come zombie e scheletri.'
   name: '&rRame Spada'
   type:
   - '&7&oArma'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Una lama di lega pesante e affidabile.'
+  - '&7Unisce un forte incantesimo di &bAffilatura&7 a'
+  - '&bIndistruttibilità&7 per un uso prolungato in combattimento.'
   name: '&rBronzo corinzio Spada'
   type:
   - '&7&oArma'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Una lama damascata ripiegata dall''Acciaio di Damasco.'
+  - '&7Possiede una forte &bAffilatura&7 e &bIndistruttibilità&7,'
+  - '&7una vera arma di livello superiore.'
   name: '&rAcciaio di Damasco Spada'
   type:
   - '&7&oArma'
 DURALUMIN_SWORD:
+  description:
+  - '&7Una solida spada di lega di livello intermedio.'
+  - '&7Pre-incantata con &bAffilatura&7 e &bIndistruttibilità&7,'
+  - '&7bilancia danno extra e durata maggiore.'
   name: '&rDuralluminio Spada'
   type:
   - '&7&oArma'
 FERROSILICON_SWORD:
+  description:
+  - '&7Una lama specializzata contro i non morti.'
+  - '&7Possiede un potente &bCastigo&7 e &bIndistruttibilità&7,'
+  - '&7devastante contro zombie, scheletri e scheletri'
+  - '&7del wither nel Nether.'
   name: '&rFerrosilicio Spada'
   type:
   - '&7&oArma'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Una lama dorata con un filo d''oro decorato.'
+  - '&7Possiede un forte &bFlagello degli Artropodi&7 e alta'
+  - '&bIndistruttibilità&7, dura molto più di quanto l''oro dovrebbe.'
   name: '&rFerro dorato Spada'
   type:
   - '&7&oArma'
 HARDENED_SWORD:
+  description:
+  - '&7Una lama di primo livello forgiata da una lega indurita.'
+  - '&7Possiede tra le più forti &bAffilatura&7 e'
+  - '&bIndistruttibilità&7 di ExtraGear - una potenza di fine partita.'
   name: '&rMetallo temprato Spada'
   type:
   - '&7&oArma'
 LEAD_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fPiombo Stivali'
   type:
   - '&7&oArmatura'
 LEAD_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fPiombo Corazza'
   type:
   - '&7&oArmatura'
 LEAD_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fPiombo Elmo'
   type:
   - '&7&oArmatura'
 LEAD_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fPiombo Gambali'
   type:
   - '&7&oArmatura'
 LEAD_SWORD:
+  description:
+  - '&7Una lama di lega pesante e affidabile.'
+  - '&7Unisce un forte incantesimo di &bAffilatura&7 a'
+  - '&bIndistruttibilità&7 per un uso prolungato in combattimento.'
   name: '&rPiombo Spada'
   type:
   - '&7&oArma'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fMagnesio Stivali'
   type:
   - '&7&oArmatura'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fMagnesio Corazza'
   type:
   - '&7&oArmatura'
 MAGNESIUM_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fMagnesio Elmo'
   type:
   - '&7&oArmatura'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fMagnesio Gambali'
   type:
   - '&7&oArmatura'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Una solida spada di lega di livello intermedio.'
+  - '&7Pre-incantata con &bAffilatura&7 e &bIndistruttibilità&7,'
+  - '&7bilancia danno extra e durata maggiore.'
   name: '&rMagnesio Spada'
   type:
   - '&7&oArma'
 NICKEL_SWORD:
+  description:
+  - '&7Una lama di lega pesante e affidabile.'
+  - '&7Unisce un forte incantesimo di &bAffilatura&7 a'
+  - '&bIndistruttibilità&7 per un uso prolungato in combattimento.'
   name: '&rNichel Spada'
   type:
   - '&7&oArma'
 REINFORCED_SWORD:
+  description:
+  - '&7Una lama di primo livello forgiata da una lega indurita.'
+  - '&7Possiede tra le più forti &bAffilatura&7 e'
+  - '&bIndistruttibilità&7 di ExtraGear - una potenza di fine partita.'
   name: '&rRinforzato Spada'
   type:
   - '&7&oArma'
 SILVER_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fArgento Stivali'
   type:
   - '&7&oArmatura'
 SILVER_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fArgento Corazza'
   type:
   - '&7&oArmatura'
 SILVER_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fArgento Elmo'
   type:
   - '&7&oArmatura'
 SILVER_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fArgento Gambali'
   type:
   - '&7&oArmatura'
 SILVER_SWORD:
+  description:
+  - '&7Una spada leggera ed economica forgiata da un metallo comune.'
+  - '&7Arriva pre-incantata con &bAffilatura&7 per un piccolo'
+  - '&7ma affidabile aumento di danno rispetto a una lama vanilla.'
   name: '&rArgento Spada'
   type:
   - '&7&oArma'
 SOLDER_SWORD:
+  description:
+  - '&7Una solida spada di lega di livello intermedio.'
+  - '&7Pre-incantata con &bAffilatura&7 e &bIndistruttibilità&7,'
+  - '&7bilancia danno extra e durata maggiore.'
   name: '&rLega per saldatura Spada'
   type:
   - '&7&oArma'
 STEEL_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAcciaio Stivali'
   type:
   - '&7&oArmatura'
 STEEL_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAcciaio Corazza'
   type:
   - '&7&oArmatura'
 STEEL_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAcciaio Elmo'
   type:
   - '&7&oArmatura'
 STEEL_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fAcciaio Gambali'
   type:
   - '&7&oArmatura'
 STEEL_SWORD:
+  description:
+  - '&7Una lama di lega pesante e affidabile.'
+  - '&7Unisce un forte incantesimo di &bAffilatura&7 a'
+  - '&bIndistruttibilità&7 per un uso prolungato in combattimento.'
   name: '&rAcciaio Spada'
   type:
   - '&7&oArma'
 TIN_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fStagno Stivali'
   type:
   - '&7&oArmatura'
 TIN_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fStagno Corazza'
   type:
   - '&7&oArmatura'
 TIN_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fStagno Elmo'
   type:
   - '&7&oArmatura'
 TIN_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fStagno Gambali'
   type:
   - '&7&oArmatura'
 TIN_SWORD:
+  description:
+  - '&7Una spada leggera ed economica forgiata da un metallo comune.'
+  - '&7Arriva pre-incantata con &bAffilatura&7 per un piccolo'
+  - '&7ma affidabile aumento di danno rispetto a una lama vanilla.'
   name: '&rStagno Spada'
   type:
   - '&7&oArma'
 ZINC_BOOTS:
+  description:
+  - '&7Gli stivali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fZinco Stivali'
   type:
   - '&7&oArmatura'
 ZINC_CHESTPLATE:
+  description:
+  - '&7La corazza di un set di armatura ExtraGear - il'
+  - '&7pezzo più protettivo del set.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fZinco Corazza'
   type:
   - '&7&oArmatura'
 ZINC_HELMET:
+  description:
+  - '&7L''elmo di un set di armatura ExtraGear.'
+  - '&7Arriva con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fZinco Elmo'
   type:
   - '&7&oArmatura'
 ZINC_LEGGINGS:
+  description:
+  - '&7I gambali di un set di armatura ExtraGear.'
+  - '&7Arrivano con incantesimi di protezione integrati.'
+  - '&7Fabbricato nella &bForgia per Armature&7 dai suoi lingotti di metallo.'
   name: '&fZinco Gambali'
   type:
   - '&7&oArmatura'
 ZINC_SWORD:
+  description:
+  - '&7Una spada leggera ed economica forgiata da un metallo comune.'
+  - '&7Arriva pre-incantata con &bAffilatura&7 per un piccolo'
+  - '&7ma affidabile aumento di danno rispetto a una lama vanilla.'
   name: '&rZinco Spada'
   type:
   - '&7&oArma'
