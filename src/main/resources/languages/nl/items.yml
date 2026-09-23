@@ -1,236 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fAluminium Laarzen'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Een kling op aluminiumbasis voor ongediertebestrijding.'
+  - '&7Heeft &bOngediertebestrijding&7 en scheurt door'
+  - '&7spinnen, zilvervisjes en andere beestjes heen.'
   name: '&rAluminiummessing Zwaard'
   type:
   - '&7&oWapen'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Een kling op aluminiumbasis voor ongediertebestrijding.'
+  - '&7Heeft &bOngediertebestrijding&7 en scheurt door'
+  - '&7spinnen, zilvervisjes en andere beestjes heen.'
   name: '&rAluminiumbrons Zwaard'
   type:
   - '&7&oWapen'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fAluminium Borstplaat'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fAluminium Helm'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fAluminium Broek'
   type:
   - '&7&oWapenrusting'
 ALUMINUM_SWORD:
+  description:
+  - '&7Een kling op aluminiumbasis voor ongediertebestrijding.'
+  - '&7Heeft &bOngediertebestrijding&7 en scheurt door'
+  - '&7spinnen, zilvervisjes en andere beestjes heen.'
   name: '&rAluminium Zwaard'
   type:
   - '&7&oWapen'
 BILLON_SWORD:
+  description:
+  - '&7Een degelijk legeringszwaard van middenrang.'
+  - '&7Voorbetoverd met &bScherpte&7 en &bOnbreekbaarheid&7,'
+  - '&7dat extra schade combineert met een langere levensduur.'
   name: '&rBiljoen Zwaard'
   type:
   - '&7&oWapen'
 BRASS_SWORD:
+  description:
+  - '&7Een gespecialiseerde kling tegen ondoden.'
+  - '&7Heeft krachtige &bVerdelging&7 plus &bOnbreekbaarheid&7,'
+  - '&7verwoestend tegen zombies, skeletten en wither-'
+  - '&7skeletten in de Nether.'
   name: '&rMessing Zwaard'
   type:
   - '&7&oWapen'
 BRONZE_SWORD:
+  description:
+  - '&7Een degelijk legeringszwaard van middenrang.'
+  - '&7Voorbetoverd met &bScherpte&7 en &bOnbreekbaarheid&7,'
+  - '&7dat extra schade combineert met een langere levensduur.'
   name: '&rBrons Zwaard'
   type:
   - '&7&oWapen'
 COBALT_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKobalt Laarzen'
   type:
   - '&7&oWapenrusting'
 COBALT_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKobalt Borstplaat'
   type:
   - '&7&oWapenrusting'
 COBALT_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKobalt Helm'
   type:
   - '&7&oWapenrusting'
 COBALT_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKobalt Broek'
   type:
   - '&7&oWapenrusting'
 COBALT_SWORD:
+  description:
+  - '&7Een topkling gesmeed uit een geharde legering.'
+  - '&7Heeft de sterkste &bScherpte&7 en'
+  - '&bOnbreekbaarheid&7 in ExtraGear - een krachtpatser voor het late spel.'
   name: '&rKobalt Zwaard'
   type:
   - '&7&oWapen'
 COPPER_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKoper Laarzen'
   type:
   - '&7&oWapenrusting'
 COPPER_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKoper Borstplaat'
   type:
   - '&7&oWapenrusting'
 COPPER_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKoper Helm'
   type:
   - '&7&oWapenrusting'
 COPPER_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fKoper Broek'
   type:
   - '&7&oWapenrusting'
 COPPER_SWORD:
+  description:
+  - '&7Een instapkling gesmeed uit Koper.'
+  - '&7Heeft &bVerdelging II&7, handig om vroege'
+  - '&7ondoden zoals zombies en skeletten op te ruimen.'
   name: '&rKoper Zwaard'
   type:
   - '&7&oWapen'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Een zware, betrouwbare legeringskling.'
+  - '&7Combineert een sterke &bScherpte&7-betovering met'
+  - '&bOnbreekbaarheid&7 voor langdurig gevechtsgebruik.'
   name: '&rKorinthisch brons Zwaard'
   type:
   - '&7&oWapen'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Een gevlamde kling gevouwen uit Damascusstaal.'
+  - '&7Heeft zware &bScherpte&7 en &bOnbreekbaarheid&7,'
+  - '&7een echt wapen van hoge rang.'
   name: '&rDamaststaal Zwaard'
   type:
   - '&7&oWapen'
 DURALUMIN_SWORD:
+  description:
+  - '&7Een degelijk legeringszwaard van middenrang.'
+  - '&7Voorbetoverd met &bScherpte&7 en &bOnbreekbaarheid&7,'
+  - '&7dat extra schade combineert met een langere levensduur.'
   name: '&rDuraluminium Zwaard'
   type:
   - '&7&oWapen'
 FERROSILICON_SWORD:
+  description:
+  - '&7Een gespecialiseerde kling tegen ondoden.'
+  - '&7Heeft krachtige &bVerdelging&7 plus &bOnbreekbaarheid&7,'
+  - '&7verwoestend tegen zombies, skeletten en wither-'
+  - '&7skeletten in de Nether.'
   name: '&rFerrosilicium Zwaard'
   type:
   - '&7&oWapen'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Een vergulde kling met een sierlijke gouden snede.'
+  - '&7Heeft sterke &bOngediertebestrijding&7 en hoge'
+  - '&bOnbreekbaarheid&7 en gaat veel langer mee dan goud zou moeten.'
   name: '&rVerguld ijzer Zwaard'
   type:
   - '&7&oWapen'
 HARDENED_SWORD:
+  description:
+  - '&7Een topkling gesmeed uit een geharde legering.'
+  - '&7Heeft de sterkste &bScherpte&7 en'
+  - '&bOnbreekbaarheid&7 in ExtraGear - een krachtpatser voor het late spel.'
   name: '&rGehard metaal Zwaard'
   type:
   - '&7&oWapen'
 LEAD_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fLood Laarzen'
   type:
   - '&7&oWapenrusting'
 LEAD_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fLood Borstplaat'
   type:
   - '&7&oWapenrusting'
 LEAD_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fLood Helm'
   type:
   - '&7&oWapenrusting'
 LEAD_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fLood Broek'
   type:
   - '&7&oWapenrusting'
 LEAD_SWORD:
+  description:
+  - '&7Een zware, betrouwbare legeringskling.'
+  - '&7Combineert een sterke &bScherpte&7-betovering met'
+  - '&bOnbreekbaarheid&7 voor langdurig gevechtsgebruik.'
   name: '&rLood Zwaard'
   type:
   - '&7&oWapen'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fMagnesium Laarzen'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fMagnesium Borstplaat'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fMagnesium Helm'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fMagnesium Broek'
   type:
   - '&7&oWapenrusting'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Een degelijk legeringszwaard van middenrang.'
+  - '&7Voorbetoverd met &bScherpte&7 en &bOnbreekbaarheid&7,'
+  - '&7dat extra schade combineert met een langere levensduur.'
   name: '&rMagnesium Zwaard'
   type:
   - '&7&oWapen'
 NICKEL_SWORD:
+  description:
+  - '&7Een zware, betrouwbare legeringskling.'
+  - '&7Combineert een sterke &bScherpte&7-betovering met'
+  - '&bOnbreekbaarheid&7 voor langdurig gevechtsgebruik.'
   name: '&rNikkel Zwaard'
   type:
   - '&7&oWapen'
 REINFORCED_SWORD:
+  description:
+  - '&7Een topkling gesmeed uit een geharde legering.'
+  - '&7Heeft de sterkste &bScherpte&7 en'
+  - '&bOnbreekbaarheid&7 in ExtraGear - een krachtpatser voor het late spel.'
   name: '&rVersterkt Zwaard'
   type:
   - '&7&oWapen'
 SILVER_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZilver Laarzen'
   type:
   - '&7&oWapenrusting'
 SILVER_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZilver Borstplaat'
   type:
   - '&7&oWapenrusting'
 SILVER_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZilver Helm'
   type:
   - '&7&oWapenrusting'
 SILVER_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZilver Broek'
   type:
   - '&7&oWapenrusting'
 SILVER_SWORD:
+  description:
+  - '&7Een licht, goedkoop zwaard gesmeed uit een onedel metaal.'
+  - '&7Komt voorbetoverd met &bScherpte&7 voor een kleine'
+  - '&7maar betrouwbare schadebonus boven een vanilla kling.'
   name: '&rZilver Zwaard'
   type:
   - '&7&oWapen'
 SOLDER_SWORD:
+  description:
+  - '&7Een degelijk legeringszwaard van middenrang.'
+  - '&7Voorbetoverd met &bScherpte&7 en &bOnbreekbaarheid&7,'
+  - '&7dat extra schade combineert met een langere levensduur.'
   name: '&rSoldeer Zwaard'
   type:
   - '&7&oWapen'
 STEEL_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fStaal Laarzen'
   type:
   - '&7&oWapenrusting'
 STEEL_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fStaal Borstplaat'
   type:
   - '&7&oWapenrusting'
 STEEL_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fStaal Helm'
   type:
   - '&7&oWapenrusting'
 STEEL_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fStaal Broek'
   type:
   - '&7&oWapenrusting'
 STEEL_SWORD:
+  description:
+  - '&7Een zware, betrouwbare legeringskling.'
+  - '&7Combineert een sterke &bScherpte&7-betovering met'
+  - '&bOnbreekbaarheid&7 voor langdurig gevechtsgebruik.'
   name: '&rStaal Zwaard'
   type:
   - '&7&oWapen'
 TIN_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fTin Laarzen'
   type:
   - '&7&oWapenrusting'
 TIN_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fTin Borstplaat'
   type:
   - '&7&oWapenrusting'
 TIN_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fTin Helm'
   type:
   - '&7&oWapenrusting'
 TIN_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fTin Broek'
   type:
   - '&7&oWapenrusting'
 TIN_SWORD:
+  description:
+  - '&7Een licht, goedkoop zwaard gesmeed uit een onedel metaal.'
+  - '&7Komt voorbetoverd met &bScherpte&7 voor een kleine'
+  - '&7maar betrouwbare schadebonus boven een vanilla kling.'
   name: '&rTin Zwaard'
   type:
   - '&7&oWapen'
 ZINC_BOOTS:
+  description:
+  - '&7De laarzen van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZink Laarzen'
   type:
   - '&7&oWapenrusting'
 ZINC_CHESTPLATE:
+  description:
+  - '&7De borstplaat van een ExtraGear-harnasset - het'
+  - '&7meest beschermende stuk van de set.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZink Borstplaat'
   type:
   - '&7&oWapenrusting'
 ZINC_HELMET:
+  description:
+  - '&7De helm van een ExtraGear-harnasset.'
+  - '&7Komt met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZink Helm'
   type:
   - '&7&oWapenrusting'
 ZINC_LEGGINGS:
+  description:
+  - '&7De broek van een ExtraGear-harnasset.'
+  - '&7Komen met ingebouwde beschermingsbetoveringen.'
+  - '&7Vervaardigd in de &bHarnassmederij&7 uit zijn metaalstaven.'
   name: '&fZink Broek'
   type:
   - '&7&oWapenrusting'
 ZINC_SWORD:
+  description:
+  - '&7Een licht, goedkoop zwaard gesmeed uit een onedel metaal.'
+  - '&7Komt voorbetoverd met &bScherpte&7 voor een kleine'
+  - '&7maar betrouwbare schadebonus boven een vanilla kling.'
   name: '&rZink Zwaard'
   type:
   - '&7&oWapen'
