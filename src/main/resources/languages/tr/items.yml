@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fAlüminyum Bot'
   type:
   - '&7&oZırh'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Haşere kontrolü için yapılmış alüminyum esaslı bir bıçak.'
+  - '&7Üzerinde &bEklembacaklı Belası&7 vardır; örümcekleri,'
+  - '&7gümüş balıklarını ve diğer böcekleri kolayca doğrar.'
+  name: '&rAlüminyum Pirinç Kılıç'
   type:
   - '&7&oSilah'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Haşere kontrolü için yapılmış alüminyum esaslı bir bıçak.'
+  - '&7Üzerinde &bEklembacaklı Belası&7 vardır; örümcekleri,'
+  - '&7gümüş balıklarını ve diğer böcekleri kolayca doğrar.'
+  name: '&rAlüminyum Bronz Kılıç'
   type:
   - '&7&oSilah'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fAlüminyum Göğüslük'
   type:
   - '&7&oZırh'
 ALUMINUM_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fAlüminyum Kask'
   type:
   - '&7&oZırh'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fAlüminyum Pantolon'
   type:
   - '&7&oZırh'
 ALUMINUM_SWORD:
+  description:
+  - '&7Haşere kontrolü için yapılmış alüminyum esaslı bir bıçak.'
+  - '&7Üzerinde &bEklembacaklı Belası&7 vardır; örümcekleri,'
+  - '&7gümüş balıklarını ve diğer böcekleri kolayca doğrar.'
+  name: '&rAlüminyum Kılıç'
   type:
   - '&7&oSilah'
 BILLON_SWORD:
+  description:
+  - '&7Sağlam, orta kademe bir alaşım kılıcı.'
+  - '&7Önceden &bKeskinlik&7 ve &bDayanıklılık&7 ile büyülenmiştir,'
+  - '&7fazladan hasarı daha uzun ömürle dengeler.'
+  name: '&rBillon Kılıç'
   type:
   - '&7&oSilah'
 BRASS_SWORD:
+  description:
+  - '&7Ölümsüzlere karşı uzmanlaşmış bir bıçak.'
+  - '&7Güçlü &bKutsama&7 ve &bDayanıklılık&7 taşır,'
+  - '&7zombilere, iskeletlere ve wither'
+  - '&7iskeletlerine karşı Nether''de yıkıcıdır.'
+  name: '&rPirinç Kılıç'
   type:
   - '&7&oSilah'
 BRONZE_SWORD:
+  description:
+  - '&7Sağlam, orta kademe bir alaşım kılıcı.'
+  - '&7Önceden &bKeskinlik&7 ve &bDayanıklılık&7 ile büyülenmiştir,'
+  - '&7fazladan hasarı daha uzun ömürle dengeler.'
+  name: '&rBronz Kılıç'
   type:
   - '&7&oSilah'
 COBALT_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKobalt Bot'
   type:
   - '&7&oZırh'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKobalt Göğüslük'
   type:
   - '&7&oZırh'
 COBALT_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKobalt Kask'
   type:
   - '&7&oZırh'
 COBALT_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKobalt Pantolon'
   type:
   - '&7&oZırh'
 COBALT_SWORD:
+  description:
+  - '&7Sertleştirilmiş bir alaşımdan dövülmüş en üst kademe bıçak.'
+  - '&7ExtraGear''daki en güçlü &bKeskinlik&7 ve'
+  - '&bDayanıklılık&7 büyülerinden bazılarını taşır - geç oyunun canavarı.'
+  name: '&rKobalt Kılıç'
   type:
   - '&7&oSilah'
 COPPER_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fBakır Bot'
   type:
   - '&7&oZırh'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fBakır Göğüslük'
   type:
   - '&7&oZırh'
 COPPER_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fBakır Kask'
   type:
   - '&7&oZırh'
 COPPER_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fBakır Pantolon'
   type:
   - '&7&oZırh'
 COPPER_SWORD:
+  description:
+  - '&7Bakırdan dövülmüş giriş seviyesi bir bıçak.'
+  - '&7Üzerinde &bKutsama II&7 vardır, erken oyundaki'
+  - '&7zombi ve iskelet gibi ölümsüzleri temizlemede işe yarar.'
+  name: '&rBakır Kılıç'
   type:
   - '&7&oSilah'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Ağır, güvenilir bir alaşım bıçağı.'
+  - '&7Güçlü bir &bKeskinlik&7 büyüsünü şununla birleştirir:'
+  - '&bDayanıklılık&7 - uzun süreli çatışmalar için.'
+  name: '&rKorint Bronzu Kılıç'
   type:
   - '&7&oSilah'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Şam Çeliğinden katlanarak dövülmüş desenli bir bıçak.'
+  - '&7Ağır &bKeskinlik&7 ve &bDayanıklılık&7 taşır,'
+  - '&7gerçek bir üst kademe silah.'
+  name: '&rŞam Çeliği Kılıç'
   type:
   - '&7&oSilah'
 DURALUMIN_SWORD:
+  description:
+  - '&7Sağlam, orta kademe bir alaşım kılıcı.'
+  - '&7Önceden &bKeskinlik&7 ve &bDayanıklılık&7 ile büyülenmiştir,'
+  - '&7fazladan hasarı daha uzun ömürle dengeler.'
+  name: '&rDuralumin Kılıç'
   type:
   - '&7&oSilah'
 FERROSILICON_SWORD:
+  description:
+  - '&7Ölümsüzlere karşı uzmanlaşmış bir bıçak.'
+  - '&7Güçlü &bKutsama&7 ve &bDayanıklılık&7 taşır,'
+  - '&7zombilere, iskeletlere ve wither'
+  - '&7iskeletlerine karşı Nether''de yıkıcıdır.'
+  name: '&rFerrosilisyum Kılıç'
   type:
   - '&7&oSilah'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Süslü altın ağızlı, yaldızlı bir bıçak.'
+  - '&7Güçlü &bEklembacaklı Belası&7 ve yüksek'
+  - '&bDayanıklılık&7 taşır; altından beklenenden çok daha uzun dayanır.'
+  name: '&rYaldızlı Demir Kılıç'
   type:
   - '&7&oSilah'
 HARDENED_SWORD:
+  description:
+  - '&7Sertleştirilmiş bir alaşımdan dövülmüş en üst kademe bıçak.'
+  - '&7ExtraGear''daki en güçlü &bKeskinlik&7 ve'
+  - '&bDayanıklılık&7 büyülerinden bazılarını taşır - geç oyunun canavarı.'
+  name: '&rSertleştirilmiş Kılıç'
   type:
   - '&7&oSilah'
 LEAD_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKurşun Bot'
   type:
   - '&7&oZırh'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKurşun Göğüslük'
   type:
   - '&7&oZırh'
 LEAD_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKurşun Kask'
   type:
   - '&7&oZırh'
 LEAD_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKurşun Pantolon'
   type:
   - '&7&oZırh'
 LEAD_SWORD:
+  description:
+  - '&7Ağır, güvenilir bir alaşım bıçağı.'
+  - '&7Güçlü bir &bKeskinlik&7 büyüsünü şununla birleştirir:'
+  - '&bDayanıklılık&7 - uzun süreli çatışmalar için.'
+  name: '&rKurşun Kılıç'
   type:
   - '&7&oSilah'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fMagnezyum Bot'
   type:
   - '&7&oZırh'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fMagnezyum Göğüslük'
   type:
   - '&7&oZırh'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fMagnezyum Kask'
   type:
   - '&7&oZırh'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fMagnezyum Pantolon'
   type:
   - '&7&oZırh'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Sağlam, orta kademe bir alaşım kılıcı.'
+  - '&7Önceden &bKeskinlik&7 ve &bDayanıklılık&7 ile büyülenmiştir,'
+  - '&7fazladan hasarı daha uzun ömürle dengeler.'
+  name: '&rMagnezyum Kılıç'
   type:
   - '&7&oSilah'
 NICKEL_SWORD:
+  description:
+  - '&7Ağır, güvenilir bir alaşım bıçağı.'
+  - '&7Güçlü bir &bKeskinlik&7 büyüsünü şununla birleştirir:'
+  - '&bDayanıklılık&7 - uzun süreli çatışmalar için.'
+  name: '&rNikel Kılıç'
   type:
   - '&7&oSilah'
 REINFORCED_SWORD:
+  description:
+  - '&7Sertleştirilmiş bir alaşımdan dövülmüş en üst kademe bıçak.'
+  - '&7ExtraGear''daki en güçlü &bKeskinlik&7 ve'
+  - '&bDayanıklılık&7 büyülerinden bazılarını taşır - geç oyunun canavarı.'
+  name: '&rTakviyeli Kılıç'
   type:
   - '&7&oSilah'
 SILVER_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fGümüş Bot'
   type:
   - '&7&oZırh'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fGümüş Göğüslük'
   type:
   - '&7&oZırh'
 SILVER_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fGümüş Kask'
   type:
   - '&7&oZırh'
 SILVER_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fGümüş Pantolon'
   type:
   - '&7&oZırh'
 SILVER_SWORD:
+  description:
+  - '&7Adi bir metalden dövülmüş hafif, ucuz bir kılıç.'
+  - '&7Önceden &bKeskinlik&7 ile büyülenmiş gelir; küçük'
+  - '&7ama vanilla bir bıçağa göre güvenilir bir hasar artışı sağlar.'
+  name: '&rGümüş Kılıç'
   type:
   - '&7&oSilah'
 SOLDER_SWORD:
+  description:
+  - '&7Sağlam, orta kademe bir alaşım kılıcı.'
+  - '&7Önceden &bKeskinlik&7 ve &bDayanıklılık&7 ile büyülenmiştir,'
+  - '&7fazladan hasarı daha uzun ömürle dengeler.'
+  name: '&rLehim Kılıç'
   type:
   - '&7&oSilah'
 STEEL_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇelik Bot'
   type:
   - '&7&oZırh'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇelik Göğüslük'
   type:
   - '&7&oZırh'
 STEEL_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇelik Kask'
   type:
   - '&7&oZırh'
 STEEL_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇelik Pantolon'
   type:
   - '&7&oZırh'
 STEEL_SWORD:
+  description:
+  - '&7Ağır, güvenilir bir alaşım bıçağı.'
+  - '&7Güçlü bir &bKeskinlik&7 büyüsünü şununla birleştirir:'
+  - '&bDayanıklılık&7 - uzun süreli çatışmalar için.'
+  name: '&rÇelik Kılıç'
   type:
   - '&7&oSilah'
 TIN_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKalay Bot'
   type:
   - '&7&oZırh'
 TIN_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKalay Göğüslük'
   type:
   - '&7&oZırh'
 TIN_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKalay Kask'
   type:
   - '&7&oZırh'
 TIN_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fKalay Pantolon'
   type:
   - '&7&oZırh'
 TIN_SWORD:
+  description:
+  - '&7Adi bir metalden dövülmüş hafif, ucuz bir kılıç.'
+  - '&7Önceden &bKeskinlik&7 ile büyülenmiş gelir; küçük'
+  - '&7ama vanilla bir bıçağa göre güvenilir bir hasar artışı sağlar.'
+  name: '&rKalay Kılıç'
   type:
   - '&7&oSilah'
 ZINC_BOOTS:
+  description:
+  - '&7Bir ExtraGear zırh takımının botu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇinko Bot'
   type:
   - '&7&oZırh'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Bir ExtraGear zırh takımının göğüslüğü -'
+  - '&7takımın en koruyucu parçası.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇinko Göğüslük'
   type:
   - '&7&oZırh'
 ZINC_HELMET:
+  description:
+  - '&7Bir ExtraGear zırh takımının kaskı.'
+  - '&7Dahili koruma büyüleriyle gelir.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇinko Kask'
   type:
   - '&7&oZırh'
 ZINC_LEGGINGS:
+  description:
+  - '&7Bir ExtraGear zırh takımının pantolonu.'
+  - '&7Dahili koruma büyüleriyle gelirler.'
+  - '&7Kendi metal külçelerinden &bZırh Ocağı&7''nda üretilir.'
+  name: '&fÇinko Pantolon'
   type:
   - '&7&oZırh'
 ZINC_SWORD:
+  description:
+  - '&7Adi bir metalden dövülmüş hafif, ucuz bir kılıç.'
+  - '&7Önceden &bKeskinlik&7 ile büyülenmiş gelir; küçük'
+  - '&7ama vanilla bir bıçağa göre güvenilir bir hasar artışı sağlar.'
+  name: '&rÇinko Kılıç'
   type:
   - '&7&oSilah'
