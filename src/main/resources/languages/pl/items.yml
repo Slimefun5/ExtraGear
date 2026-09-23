@@ -1,236 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fAluminium Buty'
   type:
   - '&7&oZbroja'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Ostrze na bazie aluminium, stworzone do tępienia robactwa.'
+  - '&7Ma &bZgubę stawonogów&7, rozrywając'
+  - '&7pająki, rybiki i inne robactwo bez trudu.'
   name: '&rMosiądz aluminiowy Miecz'
   type:
   - '&7&oBroń'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Ostrze na bazie aluminium, stworzone do tępienia robactwa.'
+  - '&7Ma &bZgubę stawonogów&7, rozrywając'
+  - '&7pająki, rybiki i inne robactwo bez trudu.'
   name: '&rBrąz aluminiowy Miecz'
   type:
   - '&7&oBroń'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fAluminium Napierśnik'
   type:
   - '&7&oZbroja'
 ALUMINUM_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fAluminium Hełm'
   type:
   - '&7&oZbroja'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fAluminium Nogawice'
   type:
   - '&7&oZbroja'
 ALUMINUM_SWORD:
+  description:
+  - '&7Ostrze na bazie aluminium, stworzone do tępienia robactwa.'
+  - '&7Ma &bZgubę stawonogów&7, rozrywając'
+  - '&7pająki, rybiki i inne robactwo bez trudu.'
   name: '&rAluminium Miecz'
   type:
   - '&7&oBroń'
 BILLON_SWORD:
+  description:
+  - '&7Solidny miecz ze stopu średniego poziomu.'
+  - '&7Wstępnie zaklęty &bOstrością&7 i &bNiezniszczalnością&7,'
+  - '&7łączy dodatkowe obrażenia z dłuższą żywotnością.'
   name: '&rBilon Miecz'
   type:
   - '&7&oBroń'
 BRASS_SWORD:
+  description:
+  - '&7Wyspecjalizowane ostrze przeciw nieumarłym.'
+  - '&7Ma potężnego &bPogromcę nieumarłych&7 i &bNiezniszczalność&7,'
+  - '&7miażdżące wobec zombie, szkieletów i szkieletów'
+  - '&7Wither w Netherze.'
   name: '&rMosiądz Miecz'
   type:
   - '&7&oBroń'
 BRONZE_SWORD:
+  description:
+  - '&7Solidny miecz ze stopu średniego poziomu.'
+  - '&7Wstępnie zaklęty &bOstrością&7 i &bNiezniszczalnością&7,'
+  - '&7łączy dodatkowe obrażenia z dłuższą żywotnością.'
   name: '&rBrąz Miecz'
   type:
   - '&7&oBroń'
 COBALT_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fKobalt Buty'
   type:
   - '&7&oZbroja'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fKobalt Napierśnik'
   type:
   - '&7&oZbroja'
 COBALT_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fKobalt Hełm'
   type:
   - '&7&oZbroja'
 COBALT_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fKobalt Nogawice'
   type:
   - '&7&oZbroja'
 COBALT_SWORD:
+  description:
+  - '&7Ostrze najwyższej klasy wykute z utwardzonego stopu.'
+  - '&7Ma jedną z najsilniejszych &bOstrości&7 i'
+  - '&bNiezniszczalności&7 w ExtraGear - potęga późnej gry.'
   name: '&rKobalt Miecz'
   type:
   - '&7&oBroń'
 COPPER_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMiedź Buty'
   type:
   - '&7&oZbroja'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMiedź Napierśnik'
   type:
   - '&7&oZbroja'
 COPPER_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMiedź Hełm'
   type:
   - '&7&oZbroja'
 COPPER_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMiedź Nogawice'
   type:
   - '&7&oZbroja'
 COPPER_SWORD:
+  description:
+  - '&7Podstawowe ostrze wykute z miedzi.'
+  - '&7Ma &bPogromcę nieumarłych II&7, co ułatwia sprzątanie'
+  - '&7wczesnych nieumarłych, takich jak zombie i szkielety.'
   name: '&rMiedź Miecz'
   type:
   - '&7&oBroń'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Ciężkie, niezawodne ostrze ze stopu.'
+  - '&7Łączy silne zaklęcie &bOstrość&7 z'
+  - '&bNiezniszczalnością&7 do długiej walki.'
   name: '&rBrąz koryncki Miecz'
   type:
   - '&7&oBroń'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Wzorzyste ostrze kute ze stali damasceńskiej.'
+  - '&7Ma mocną &bOstrość&7 i &bNiezniszczalność&7,'
+  - '&7to prawdziwa broń najwyższej klasy.'
   name: '&rStal damasceńska Miecz'
   type:
   - '&7&oBroń'
 DURALUMIN_SWORD:
+  description:
+  - '&7Solidny miecz ze stopu średniego poziomu.'
+  - '&7Wstępnie zaklęty &bOstrością&7 i &bNiezniszczalnością&7,'
+  - '&7łączy dodatkowe obrażenia z dłuższą żywotnością.'
   name: '&rDuraluminium Miecz'
   type:
   - '&7&oBroń'
 FERROSILICON_SWORD:
+  description:
+  - '&7Wyspecjalizowane ostrze przeciw nieumarłym.'
+  - '&7Ma potężnego &bPogromcę nieumarłych&7 i &bNiezniszczalność&7,'
+  - '&7miażdżące wobec zombie, szkieletów i szkieletów'
+  - '&7Wither w Netherze.'
   name: '&rŻelazokrzem Miecz'
   type:
   - '&7&oBroń'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Złocone ostrze o zdobnym, złotym brzegu.'
+  - '&7Ma silną &bZgubę stawonogów&7 i wysoką'
+  - '&bNiezniszczalność&7, trwając dłużej, niż złoto powinno.'
   name: '&rPozłacane żelazo Miecz'
   type:
   - '&7&oBroń'
 HARDENED_SWORD:
+  description:
+  - '&7Ostrze najwyższej klasy wykute z utwardzonego stopu.'
+  - '&7Ma jedną z najsilniejszych &bOstrości&7 i'
+  - '&bNiezniszczalności&7 w ExtraGear - potęga późnej gry.'
   name: '&rHartowany metal Miecz'
   type:
   - '&7&oBroń'
 LEAD_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fOłów Buty'
   type:
   - '&7&oZbroja'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fOłów Napierśnik'
   type:
   - '&7&oZbroja'
 LEAD_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fOłów Hełm'
   type:
   - '&7&oZbroja'
 LEAD_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fOłów Nogawice'
   type:
   - '&7&oZbroja'
 LEAD_SWORD:
+  description:
+  - '&7Ciężkie, niezawodne ostrze ze stopu.'
+  - '&7Łączy silne zaklęcie &bOstrość&7 z'
+  - '&bNiezniszczalnością&7 do długiej walki.'
   name: '&rOłów Miecz'
   type:
   - '&7&oBroń'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMagnez Buty'
   type:
   - '&7&oZbroja'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMagnez Napierśnik'
   type:
   - '&7&oZbroja'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMagnez Hełm'
   type:
   - '&7&oZbroja'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fMagnez Nogawice'
   type:
   - '&7&oZbroja'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Solidny miecz ze stopu średniego poziomu.'
+  - '&7Wstępnie zaklęty &bOstrością&7 i &bNiezniszczalnością&7,'
+  - '&7łączy dodatkowe obrażenia z dłuższą żywotnością.'
   name: '&rMagnez Miecz'
   type:
   - '&7&oBroń'
 NICKEL_SWORD:
+  description:
+  - '&7Ciężkie, niezawodne ostrze ze stopu.'
+  - '&7Łączy silne zaklęcie &bOstrość&7 z'
+  - '&bNiezniszczalnością&7 do długiej walki.'
   name: '&rNikiel Miecz'
   type:
   - '&7&oBroń'
 REINFORCED_SWORD:
+  description:
+  - '&7Ostrze najwyższej klasy wykute z utwardzonego stopu.'
+  - '&7Ma jedną z najsilniejszych &bOstrości&7 i'
+  - '&bNiezniszczalności&7 w ExtraGear - potęga późnej gry.'
   name: '&rWzmocniony Miecz'
   type:
   - '&7&oBroń'
 SILVER_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fSrebro Buty'
   type:
   - '&7&oZbroja'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fSrebro Napierśnik'
   type:
   - '&7&oZbroja'
 SILVER_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fSrebro Hełm'
   type:
   - '&7&oZbroja'
 SILVER_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fSrebro Nogawice'
   type:
   - '&7&oZbroja'
 SILVER_SWORD:
+  description:
+  - '&7Lekki, tani miecz wykuty z pospolitego metalu.'
+  - '&7Ma wstępne zaklęcie &bOstrość&7, dające niewielki,'
+  - '&7lecz pewny wzrost obrażeń wobec zwykłego ostrza.'
   name: '&rSrebro Miecz'
   type:
   - '&7&oBroń'
 SOLDER_SWORD:
+  description:
+  - '&7Solidny miecz ze stopu średniego poziomu.'
+  - '&7Wstępnie zaklęty &bOstrością&7 i &bNiezniszczalnością&7,'
+  - '&7łączy dodatkowe obrażenia z dłuższą żywotnością.'
   name: '&rLut Miecz'
   type:
   - '&7&oBroń'
 STEEL_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fStal Buty'
   type:
   - '&7&oZbroja'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fStal Napierśnik'
   type:
   - '&7&oZbroja'
 STEEL_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fStal Hełm'
   type:
   - '&7&oZbroja'
 STEEL_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fStal Nogawice'
   type:
   - '&7&oZbroja'
 STEEL_SWORD:
+  description:
+  - '&7Ciężkie, niezawodne ostrze ze stopu.'
+  - '&7Łączy silne zaklęcie &bOstrość&7 z'
+  - '&bNiezniszczalnością&7 do długiej walki.'
   name: '&rStal Miecz'
   type:
   - '&7&oBroń'
 TIN_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCyna Buty'
   type:
   - '&7&oZbroja'
 TIN_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCyna Napierśnik'
   type:
   - '&7&oZbroja'
 TIN_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCyna Hełm'
   type:
   - '&7&oZbroja'
 TIN_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCyna Nogawice'
   type:
   - '&7&oZbroja'
 TIN_SWORD:
+  description:
+  - '&7Lekki, tani miecz wykuty z pospolitego metalu.'
+  - '&7Ma wstępne zaklęcie &bOstrość&7, dające niewielki,'
+  - '&7lecz pewny wzrost obrażeń wobec zwykłego ostrza.'
   name: '&rCyna Miecz'
   type:
   - '&7&oBroń'
 ZINC_BOOTS:
+  description:
+  - '&7Buty z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCynk Buty'
   type:
   - '&7&oZbroja'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Napierśnik z zestawu zbroi ExtraGear -'
+  - '&7najbardziej ochronna część zestawu.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCynk Napierśnik'
   type:
   - '&7&oZbroja'
 ZINC_HELMET:
+  description:
+  - '&7Hełm z zestawu zbroi ExtraGear.'
+  - '&7Posiada wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCynk Hełm'
   type:
   - '&7&oZbroja'
 ZINC_LEGGINGS:
+  description:
+  - '&7Spodnie z zestawu zbroi ExtraGear.'
+  - '&7Posiadają wbudowane zaklęcia ochronne.'
+  - '&7Wytwarzany w &bKuźni zbroi&7 z jego sztabek metalu.'
   name: '&fCynk Nogawice'
   type:
   - '&7&oZbroja'
 ZINC_SWORD:
+  description:
+  - '&7Lekki, tani miecz wykuty z pospolitego metalu.'
+  - '&7Ma wstępne zaklęcie &bOstrość&7, dające niewielki,'
+  - '&7lecz pewny wzrost obrażeń wobec zwykłego ostrza.'
   name: '&rCynk Miecz'
   type:
   - '&7&oBroń'
