@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Aluminyo'
   type:
   - '&7&oBaluti'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Isang talim na batay sa aluminyo na gawa para sa pagpuksa ng peste.'
+  - '&7Taglay ang &bSalot sa mga Artropod&7, tumatagos sa'
+  - '&7mga gagamba, bukbok at iba pang insekto nang madali.'
+  name: '&rEspada ng Aluminyong Tumbaga'
   type:
   - '&7&oSandata'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Isang talim na batay sa aluminyo na gawa para sa pagpuksa ng peste.'
+  - '&7Taglay ang &bSalot sa mga Artropod&7, tumatagos sa'
+  - '&7mga gagamba, bukbok at iba pang insekto nang madali.'
+  name: '&rEspada ng Aluminyong Bronse'
   type:
   - '&7&oSandata'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Aluminyo'
   type:
   - '&7&oBaluti'
 ALUMINUM_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Aluminyo'
   type:
   - '&7&oBaluti'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Aluminyo'
   type:
   - '&7&oBaluti'
 ALUMINUM_SWORD:
+  description:
+  - '&7Isang talim na batay sa aluminyo na gawa para sa pagpuksa ng peste.'
+  - '&7Taglay ang &bSalot sa mga Artropod&7, tumatagos sa'
+  - '&7mga gagamba, bukbok at iba pang insekto nang madali.'
+  name: '&rEspada ng Aluminyo'
   type:
   - '&7&oSandata'
 BILLON_SWORD:
+  description:
+  - '&7Isang matibay na espadang haluang metal sa gitnang baitang.'
+  - '&7Naka-enkanto ng &bKatalasan&7 at &bTibay&7,'
+  - '&7binabalanse ang dagdag na pinsala at mas mahabang buhay.'
+  name: '&rEspada ng Billon'
   type:
   - '&7&oSandata'
 BRASS_SWORD:
+  description:
+  - '&7Isang dalubhasang talim kontra sa patay-na-buhay.'
+  - '&7Taglay ang malakas na &bHampas&7 kasama ang &bTibay&7,'
+  - '&7mapaminsala laban sa zombie, kalansay at wither'
+  - '&7kalansay sa Nether.'
+  name: '&rEspada ng Tumbaga'
   type:
   - '&7&oSandata'
 BRONZE_SWORD:
+  description:
+  - '&7Isang matibay na espadang haluang metal sa gitnang baitang.'
+  - '&7Naka-enkanto ng &bKatalasan&7 at &bTibay&7,'
+  - '&7binabalanse ang dagdag na pinsala at mas mahabang buhay.'
+  name: '&rEspada ng Bronse'
   type:
   - '&7&oSandata'
 COBALT_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Kobalto'
   type:
   - '&7&oBaluti'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Kobalto'
   type:
   - '&7&oBaluti'
 COBALT_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Kobalto'
   type:
   - '&7&oBaluti'
 COBALT_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Kobalto'
   type:
   - '&7&oBaluti'
 COBALT_SWORD:
+  description:
+  - '&7Isang pinakamataas na uri ng talim na pinanday mula sa pinatigas na haluang metal.'
+  - '&7Taglay ang ilan sa pinakamalakas na &bKatalasan&7 at'
+  - '&bTibay&7 sa ExtraGear - isang makapangyarihan sa wakas ng laro.'
+  name: '&rEspada ng Kobalto'
   type:
   - '&7&oSandata'
 COPPER_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Tanso'
   type:
   - '&7&oBaluti'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Tanso'
   type:
   - '&7&oBaluti'
 COPPER_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Tanso'
   type:
   - '&7&oBaluti'
 COPPER_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Tanso'
   type:
   - '&7&oBaluti'
 COPPER_SWORD:
+  description:
+  - '&7Isang pang-umpisang talim na pinanday mula sa Tanso.'
+  - '&7Taglay ang &bHampas II&7, kaya madaling gamitin sa paglilinis'
+  - '&7ng mga patay-na-buhay sa simula ng laro gaya ng zombie at kalansay.'
+  name: '&rEspada ng Tanso'
   type:
   - '&7&oSandata'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Isang mabigat at maaasahang talim na haluang metal.'
+  - '&7Pinagsasama ang malakas na &bKatalasan&7 na enkantasyon at'
+  - '&bTibay&7 para sa matagalang paggamit sa labanan.'
+  name: '&rEspada ng Bronseng Corinthian'
   type:
   - '&7&oSandata'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Isang talim na may padron, tiniklop mula sa Aserong Damascus.'
+  - '&7Taglay ang mabigat na &bKatalasan&7 at &bTibay&7,'
+  - '&7isang tunay na sandata sa mataas na baitang.'
+  name: '&rEspada ng Aserong Damascus'
   type:
   - '&7&oSandata'
 DURALUMIN_SWORD:
+  description:
+  - '&7Isang matibay na espadang haluang metal sa gitnang baitang.'
+  - '&7Naka-enkanto ng &bKatalasan&7 at &bTibay&7,'
+  - '&7binabalanse ang dagdag na pinsala at mas mahabang buhay.'
+  name: '&rEspada ng Duralumin'
   type:
   - '&7&oSandata'
 FERROSILICON_SWORD:
+  description:
+  - '&7Isang dalubhasang talim kontra sa patay-na-buhay.'
+  - '&7Taglay ang malakas na &bHampas&7 kasama ang &bTibay&7,'
+  - '&7mapaminsala laban sa zombie, kalansay at wither'
+  - '&7kalansay sa Nether.'
+  name: '&rEspada ng Ferrosilicon'
   type:
   - '&7&oSandata'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Isang ginintuang talim na may palamuting gintong gilid.'
+  - '&7Taglay ang malakas na &bSalot sa mga Artropod&7 at mataas na'
+  - '&bTibay&7, higit pang tumatagal kaysa sa nararapat sa ginto.'
+  name: '&rEspada ng Ginintuang Bakal'
   type:
   - '&7&oSandata'
 HARDENED_SWORD:
+  description:
+  - '&7Isang pinakamataas na uri ng talim na pinanday mula sa pinatigas na haluang metal.'
+  - '&7Taglay ang ilan sa pinakamalakas na &bKatalasan&7 at'
+  - '&bTibay&7 sa ExtraGear - isang makapangyarihan sa wakas ng laro.'
+  name: '&rPinatigas na Espada'
   type:
   - '&7&oSandata'
 LEAD_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Tingga'
   type:
   - '&7&oBaluti'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Tingga'
   type:
   - '&7&oBaluti'
 LEAD_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Tingga'
   type:
   - '&7&oBaluti'
 LEAD_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Tingga'
   type:
   - '&7&oBaluti'
 LEAD_SWORD:
+  description:
+  - '&7Isang mabigat at maaasahang talim na haluang metal.'
+  - '&7Pinagsasama ang malakas na &bKatalasan&7 na enkantasyon at'
+  - '&bTibay&7 para sa matagalang paggamit sa labanan.'
+  name: '&rEspada ng Tingga'
   type:
   - '&7&oSandata'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Magnesyo'
   type:
   - '&7&oBaluti'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Magnesyo'
   type:
   - '&7&oBaluti'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Magnesyo'
   type:
   - '&7&oBaluti'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Magnesyo'
   type:
   - '&7&oBaluti'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Isang matibay na espadang haluang metal sa gitnang baitang.'
+  - '&7Naka-enkanto ng &bKatalasan&7 at &bTibay&7,'
+  - '&7binabalanse ang dagdag na pinsala at mas mahabang buhay.'
+  name: '&rEspada ng Magnesyo'
   type:
   - '&7&oSandata'
 NICKEL_SWORD:
+  description:
+  - '&7Isang mabigat at maaasahang talim na haluang metal.'
+  - '&7Pinagsasama ang malakas na &bKatalasan&7 na enkantasyon at'
+  - '&bTibay&7 para sa matagalang paggamit sa labanan.'
+  name: '&rEspada ng Nikel'
   type:
   - '&7&oSandata'
 REINFORCED_SWORD:
+  description:
+  - '&7Isang pinakamataas na uri ng talim na pinanday mula sa pinatigas na haluang metal.'
+  - '&7Taglay ang ilan sa pinakamalakas na &bKatalasan&7 at'
+  - '&bTibay&7 sa ExtraGear - isang makapangyarihan sa wakas ng laro.'
+  name: '&rPinatibay na Espada'
   type:
   - '&7&oSandata'
 SILVER_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Pilak'
   type:
   - '&7&oBaluti'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Pilak'
   type:
   - '&7&oBaluti'
 SILVER_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Pilak'
   type:
   - '&7&oBaluti'
 SILVER_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Pilak'
   type:
   - '&7&oBaluti'
 SILVER_SWORD:
+  description:
+  - '&7Isang magaan at murang espada na pinanday mula sa payak na metal.'
+  - '&7Naka-enkanto na may &bKatalasan&7 para sa maliit'
+  - '&7ngunit maaasahang dagdag na pinsala kaysa sa orihinal na talim.'
+  name: '&rEspada ng Pilak'
   type:
   - '&7&oSandata'
 SOLDER_SWORD:
+  description:
+  - '&7Isang matibay na espadang haluang metal sa gitnang baitang.'
+  - '&7Naka-enkanto ng &bKatalasan&7 at &bTibay&7,'
+  - '&7binabalanse ang dagdag na pinsala at mas mahabang buhay.'
+  name: '&rEspada ng Soldadura'
   type:
   - '&7&oSandata'
 STEEL_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Asero'
   type:
   - '&7&oBaluti'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Asero'
   type:
   - '&7&oBaluti'
 STEEL_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Asero'
   type:
   - '&7&oBaluti'
 STEEL_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Asero'
   type:
   - '&7&oBaluti'
 STEEL_SWORD:
+  description:
+  - '&7Isang mabigat at maaasahang talim na haluang metal.'
+  - '&7Pinagsasama ang malakas na &bKatalasan&7 na enkantasyon at'
+  - '&bTibay&7 para sa matagalang paggamit sa labanan.'
+  name: '&rEspada ng Asero'
   type:
   - '&7&oSandata'
 TIN_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Estanyo'
   type:
   - '&7&oBaluti'
 TIN_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Estanyo'
   type:
   - '&7&oBaluti'
 TIN_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Estanyo'
   type:
   - '&7&oBaluti'
 TIN_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Estanyo'
   type:
   - '&7&oBaluti'
 TIN_SWORD:
+  description:
+  - '&7Isang magaan at murang espada na pinanday mula sa payak na metal.'
+  - '&7Naka-enkanto na may &bKatalasan&7 para sa maliit'
+  - '&7ngunit maaasahang dagdag na pinsala kaysa sa orihinal na talim.'
+  name: '&rEspada ng Estanyo'
   type:
   - '&7&oSandata'
 ZINC_BOOTS:
+  description:
+  - '&7Ang bota ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBota ng Sink'
   type:
   - '&7&oBaluti'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Ang baluting dibdib ng isang set ng baluti ng ExtraGear - ang'
+  - '&7pinaka-protektibong piraso ng set.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Dibdib ng Sink'
   type:
   - '&7&oBaluti'
 ZINC_HELMET:
+  description:
+  - '&7Ang helmet ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fHelmet ng Sink'
   type:
   - '&7&oBaluti'
 ZINC_LEGGINGS:
+  description:
+  - '&7Ang baluting binti ng isang set ng baluti ng ExtraGear.'
+  - '&7May kasamang nakapaloob na mga enkantasyon ng proteksyon.'
+  - '&7Nilikha sa &bPandayan ng Baluti&7 mula sa mga bareta ng metal nito.'
+  name: '&fBaluting Binti ng Sink'
   type:
   - '&7&oBaluti'
 ZINC_SWORD:
+  description:
+  - '&7Isang magaan at murang espada na pinanday mula sa payak na metal.'
+  - '&7Naka-enkanto na may &bKatalasan&7 para sa maliit'
+  - '&7ngunit maaasahang dagdag na pinsala kaysa sa orihinal na talim.'
+  name: '&rEspada ng Sink'
   type:
   - '&7&oSandata'
