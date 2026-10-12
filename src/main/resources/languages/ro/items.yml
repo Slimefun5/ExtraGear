@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Aluminiu'
   type:
   - '&7&oArmură'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7O lamă pe bază de aluminiu făcută pentru controlul dăunătorilor.'
+  - '&7Poartă &bBlestemul Artropodelor&7, sfâșiind'
+  - '&7păianjeni, pești de argint și alte insecte cu ușurință.'
+  name: '&rSabie de Alamă de Aluminiu'
   type:
   - '&7&oArmă'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7O lamă pe bază de aluminiu făcută pentru controlul dăunătorilor.'
+  - '&7Poartă &bBlestemul Artropodelor&7, sfâșiind'
+  - '&7păianjeni, pești de argint și alte insecte cu ușurință.'
+  name: '&rSabie de Bronz de Aluminiu'
   type:
   - '&7&oArmă'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Aluminiu'
   type:
   - '&7&oArmură'
 ALUMINUM_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Aluminiu'
   type:
   - '&7&oArmură'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Aluminiu'
   type:
   - '&7&oArmură'
 ALUMINUM_SWORD:
+  description:
+  - '&7O lamă pe bază de aluminiu făcută pentru controlul dăunătorilor.'
+  - '&7Poartă &bBlestemul Artropodelor&7, sfâșiind'
+  - '&7păianjeni, pești de argint și alte insecte cu ușurință.'
+  name: '&rSabie de Aluminiu'
   type:
   - '&7&oArmă'
 BILLON_SWORD:
+  description:
+  - '&7O sabie solidă de aliaj de nivel mediu.'
+  - '&7Pre-vrăjită cu &bAscuțime&7 și &bIndestructibilitate&7,'
+  - '&7echilibrând daunele în plus cu o durată mai lungă.'
+  name: '&rSabie de Billon'
   type:
   - '&7&oArmă'
 BRASS_SWORD:
+  description:
+  - '&7O lamă specializată împotriva nemorților.'
+  - '&7Poartă o &bLovitură Divină&7 puternică plus &bIndestructibilitate&7,'
+  - '&7devastatoare împotriva zombilor, scheleților și scheleților'
+  - '&7wither din Nether.'
+  name: '&rSabie de Alamă'
   type:
   - '&7&oArmă'
 BRONZE_SWORD:
+  description:
+  - '&7O sabie solidă de aliaj de nivel mediu.'
+  - '&7Pre-vrăjită cu &bAscuțime&7 și &bIndestructibilitate&7,'
+  - '&7echilibrând daunele în plus cu o durată mai lungă.'
+  name: '&rSabie de Bronz'
   type:
   - '&7&oArmă'
 COBALT_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Cobalt'
   type:
   - '&7&oArmură'
 COBALT_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Cobalt'
   type:
   - '&7&oArmură'
 COBALT_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Cobalt'
   type:
   - '&7&oArmură'
 COBALT_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Cobalt'
   type:
   - '&7&oArmură'
 COBALT_SWORD:
+  description:
+  - '&7O lamă de vârf forjată dintr-un aliaj călit.'
+  - '&7Poartă unele dintre cele mai puternice vrăji de &bAscuțime&7 și'
+  - '&bIndestructibilitate&7 din ExtraGear - o forță de final de joc.'
+  name: '&rSabie de Cobalt'
   type:
   - '&7&oArmă'
 COPPER_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Cupru'
   type:
   - '&7&oArmură'
 COPPER_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Cupru'
   type:
   - '&7&oArmură'
 COPPER_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Cupru'
   type:
   - '&7&oArmură'
 COPPER_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Cupru'
   type:
   - '&7&oArmură'
 COPPER_SWORD:
+  description:
+  - '&7O lamă de început forjată din Cupru.'
+  - '&7Poartă &bLovitură Divină II&7, fiind utilă pentru a curăța'
+  - '&7nemorții de început de joc, precum zombi și scheleți.'
+  name: '&rSabie de Cupru'
   type:
   - '&7&oArmă'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7O lamă de aliaj grea și de încredere.'
+  - '&7Combină o vrajă puternică de &bAscuțime&7 cu'
+  - '&bIndestructibilitate&7 pentru luptă îndelungată.'
+  name: '&rSabie de Bronz Corintic'
   type:
   - '&7&oArmă'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7O lamă cu modele, împăturită din Oțel Damasc.'
+  - '&7Poartă o &bAscuțime&7 grea și &bIndestructibilitate&7,'
+  - '&7o adevărată armă de nivel superior.'
+  name: '&rSabie de Oțel Damasc'
   type:
   - '&7&oArmă'
 DURALUMIN_SWORD:
+  description:
+  - '&7O sabie solidă de aliaj de nivel mediu.'
+  - '&7Pre-vrăjită cu &bAscuțime&7 și &bIndestructibilitate&7,'
+  - '&7echilibrând daunele în plus cu o durată mai lungă.'
+  name: '&rSabie de Duraluminiu'
   type:
   - '&7&oArmă'
 FERROSILICON_SWORD:
+  description:
+  - '&7O lamă specializată împotriva nemorților.'
+  - '&7Poartă o &bLovitură Divină&7 puternică plus &bIndestructibilitate&7,'
+  - '&7devastatoare împotriva zombilor, scheleților și scheleților'
+  - '&7wither din Nether.'
+  name: '&rSabie de Ferosiliciu'
   type:
   - '&7&oArmă'
 GILDED_IRON_SWORD:
+  description:
+  - '&7O lamă aurită cu un tăiș de aur ornamentat.'
+  - '&7Poartă un &bBlestem al Artropodelor&7 puternic și o'
+  - '&bIndestructibilitate&7 înaltă, durând mult mai mult decât ar trebui aurul.'
+  name: '&rSabie de Fier Aurit'
   type:
   - '&7&oArmă'
 HARDENED_SWORD:
+  description:
+  - '&7O lamă de vârf forjată dintr-un aliaj călit.'
+  - '&7Poartă unele dintre cele mai puternice vrăji de &bAscuțime&7 și'
+  - '&bIndestructibilitate&7 din ExtraGear - o forță de final de joc.'
+  name: '&rSabie Călită'
   type:
   - '&7&oArmă'
 LEAD_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Plumb'
   type:
   - '&7&oArmură'
 LEAD_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Plumb'
   type:
   - '&7&oArmură'
 LEAD_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Plumb'
   type:
   - '&7&oArmură'
 LEAD_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Plumb'
   type:
   - '&7&oArmură'
 LEAD_SWORD:
+  description:
+  - '&7O lamă de aliaj grea și de încredere.'
+  - '&7Combină o vrajă puternică de &bAscuțime&7 cu'
+  - '&bIndestructibilitate&7 pentru luptă îndelungată.'
+  name: '&rSabie de Plumb'
   type:
   - '&7&oArmă'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Magneziu'
   type:
   - '&7&oArmură'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Magneziu'
   type:
   - '&7&oArmură'
 MAGNESIUM_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Magneziu'
   type:
   - '&7&oArmură'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Magneziu'
   type:
   - '&7&oArmură'
 MAGNESIUM_SWORD:
+  description:
+  - '&7O sabie solidă de aliaj de nivel mediu.'
+  - '&7Pre-vrăjită cu &bAscuțime&7 și &bIndestructibilitate&7,'
+  - '&7echilibrând daunele în plus cu o durată mai lungă.'
+  name: '&rSabie de Magneziu'
   type:
   - '&7&oArmă'
 NICKEL_SWORD:
+  description:
+  - '&7O lamă de aliaj grea și de încredere.'
+  - '&7Combină o vrajă puternică de &bAscuțime&7 cu'
+  - '&bIndestructibilitate&7 pentru luptă îndelungată.'
+  name: '&rSabie de Nichel'
   type:
   - '&7&oArmă'
 REINFORCED_SWORD:
+  description:
+  - '&7O lamă de vârf forjată dintr-un aliaj călit.'
+  - '&7Poartă unele dintre cele mai puternice vrăji de &bAscuțime&7 și'
+  - '&bIndestructibilitate&7 din ExtraGear - o forță de final de joc.'
+  name: '&rSabie Întărită'
   type:
   - '&7&oArmă'
 SILVER_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Argint'
   type:
   - '&7&oArmură'
 SILVER_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Argint'
   type:
   - '&7&oArmură'
 SILVER_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Argint'
   type:
   - '&7&oArmură'
 SILVER_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Argint'
   type:
   - '&7&oArmură'
 SILVER_SWORD:
+  description:
+  - '&7O sabie ușoară și ieftină forjată dintr-un metal comun.'
+  - '&7Vine pre-vrăjită cu &bAscuțime&7 pentru un spor mic'
+  - '&7dar fiabil de daune față de o lamă vanilla.'
+  name: '&rSabie de Argint'
   type:
   - '&7&oArmă'
 SOLDER_SWORD:
+  description:
+  - '&7O sabie solidă de aliaj de nivel mediu.'
+  - '&7Pre-vrăjită cu &bAscuțime&7 și &bIndestructibilitate&7,'
+  - '&7echilibrând daunele în plus cu o durată mai lungă.'
+  name: '&rSabie de Aliaj de Lipit'
   type:
   - '&7&oArmă'
 STEEL_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Oțel'
   type:
   - '&7&oArmură'
 STEEL_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Oțel'
   type:
   - '&7&oArmură'
 STEEL_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Oțel'
   type:
   - '&7&oArmură'
 STEEL_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Oțel'
   type:
   - '&7&oArmură'
 STEEL_SWORD:
+  description:
+  - '&7O lamă de aliaj grea și de încredere.'
+  - '&7Combină o vrajă puternică de &bAscuțime&7 cu'
+  - '&bIndestructibilitate&7 pentru luptă îndelungată.'
+  name: '&rSabie de Oțel'
   type:
   - '&7&oArmă'
 TIN_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Staniu'
   type:
   - '&7&oArmură'
 TIN_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Staniu'
   type:
   - '&7&oArmură'
 TIN_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Staniu'
   type:
   - '&7&oArmură'
 TIN_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Staniu'
   type:
   - '&7&oArmură'
 TIN_SWORD:
+  description:
+  - '&7O sabie ușoară și ieftină forjată dintr-un metal comun.'
+  - '&7Vine pre-vrăjită cu &bAscuțime&7 pentru un spor mic'
+  - '&7dar fiabil de daune față de o lamă vanilla.'
+  name: '&rSabie de Staniu'
   type:
   - '&7&oArmă'
 ZINC_BOOTS:
+  description:
+  - '&7Cizmele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCizme de Zinc'
   type:
   - '&7&oArmură'
 ZINC_CHESTPLATE:
+  description:
+  - '&7Platoșa unui set de armură ExtraGear - cea'
+  - '&7mai protectoare piesă a setului.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fPlatoșă de Zinc'
   type:
   - '&7&oArmură'
 ZINC_HELMET:
+  description:
+  - '&7Casca unui set de armură ExtraGear.'
+  - '&7Vine cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fCască de Zinc'
   type:
   - '&7&oArmură'
 ZINC_LEGGINGS:
+  description:
+  - '&7Jambierele unui set de armură ExtraGear.'
+  - '&7Vin cu vrăji de protecție încorporate.'
+  - '&7Fabricată în &bForja de Armuri&7 din lingourile sale de metal.'
+  name: '&fJambiere de Zinc'
   type:
   - '&7&oArmură'
 ZINC_SWORD:
+  description:
+  - '&7O sabie ușoară și ieftină forjată dintr-un metal comun.'
+  - '&7Vine pre-vrăjită cu &bAscuțime&7 pentru un spor mic'
+  - '&7dar fiabil de daune față de o lamă vanilla.'
+  name: '&rSabie de Zinc'
   type:
   - '&7&oArmă'
