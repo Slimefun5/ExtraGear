@@ -1,177 +1,474 @@
 ALUMINUM_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fAlumiinisaappaat'
   type:
   - '&7&oPanssari'
 ALUMINUM_BRASS_SWORD:
+  description:
+  - '&7Alumiinipohjainen terä tuhohyönteisten hallintaan.'
+  - '&7Kantaa &bNiveljalkaisten surmaa&7, repii läpi'
+  - '&7hämähäkit, hopeakalat ja muut ötökät helposti.'
+  name: '&rAlumiinimessinkimiekka'
   type:
   - '&7&oAse'
 ALUMINUM_BRONZE_SWORD:
+  description:
+  - '&7Alumiinipohjainen terä tuhohyönteisten hallintaan.'
+  - '&7Kantaa &bNiveljalkaisten surmaa&7, repii läpi'
+  - '&7hämähäkit, hopeakalat ja muut ötökät helposti.'
+  name: '&rAlumiinipronssimiekka'
   type:
   - '&7&oAse'
 ALUMINUM_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fAlumiinirintapanssari'
   type:
   - '&7&oPanssari'
 ALUMINUM_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fAlumiinikypärä'
   type:
   - '&7&oPanssari'
 ALUMINUM_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fAlumiinihousut'
   type:
   - '&7&oPanssari'
 ALUMINUM_SWORD:
+  description:
+  - '&7Alumiinipohjainen terä tuhohyönteisten hallintaan.'
+  - '&7Kantaa &bNiveljalkaisten surmaa&7, repii läpi'
+  - '&7hämähäkit, hopeakalat ja muut ötökät helposti.'
+  name: '&rAlumiinimiekka'
   type:
   - '&7&oAse'
 BILLON_SWORD:
+  description:
+  - '&7Kelpo keskitason metalliseosmiekka.'
+  - '&7Esilumottu &bTerävyydellä&7 ja &bKestävyydellä&7,'
+  - '&7tasapainottaen lisävahinkoa pidemmällä kestolla.'
+  name: '&rBillonmiekka'
   type:
   - '&7&oAse'
 BRASS_SWORD:
+  description:
+  - '&7Erikoistunut epäkuolleiden vastainen terä.'
+  - '&7Kantaa voimakasta &bJumalan iskua&7 sekä &bKestävyyttä&7,'
+  - '&7tuhoisa zombeja, luurankoja ja wither-'
+  - '&7luurankoja vastaan Netherissä.'
+  name: '&rMessinkimiekka'
   type:
   - '&7&oAse'
 BRONZE_SWORD:
+  description:
+  - '&7Kelpo keskitason metalliseosmiekka.'
+  - '&7Esilumottu &bTerävyydellä&7 ja &bKestävyydellä&7,'
+  - '&7tasapainottaen lisävahinkoa pidemmällä kestolla.'
+  name: '&rPronssimiekka'
   type:
   - '&7&oAse'
 COBALT_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKobolttisaappaat'
   type:
   - '&7&oPanssari'
 COBALT_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKobolttirintapanssari'
   type:
   - '&7&oPanssari'
 COBALT_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKobolttikypärä'
   type:
   - '&7&oPanssari'
 COBALT_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKobolttihousut'
   type:
   - '&7&oPanssari'
 COBALT_SWORD:
+  description:
+  - '&7Huipputason terä, taottu karkaistusta metalliseoksesta.'
+  - '&7Kantaa vahvinta &bTerävyyttä&7 ja'
+  - '&bKestävyyttä&7 ExtraGearissa - myöhäispelin voimanpesä.'
+  name: '&rKobolttimiekka'
   type:
   - '&7&oAse'
 COPPER_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKuparisaappaat'
   type:
   - '&7&oPanssari'
 COPPER_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKuparirintapanssari'
   type:
   - '&7&oPanssari'
 COPPER_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKuparikypärä'
   type:
   - '&7&oPanssari'
 COPPER_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fKuparihousut'
   type:
   - '&7&oPanssari'
 COPPER_SWORD:
+  description:
+  - '&7Aloittelijan terä, taottu kuparista.'
+  - '&7Kantaa &bJumalan isku II&7 -lumousta, kätevä raivaamaan'
+  - '&7alkupelin epäkuolleita kuten zombeja ja luurankoja.'
+  name: '&rKuparimiekka'
   type:
   - '&7&oAse'
 CORINTHIAN_BRONZE_SWORD:
+  description:
+  - '&7Raskas, luotettava metalliseosterä.'
+  - '&7Yhdistää vahvan &bTerävyys&7-lumouksen ja'
+  - '&bKestävyyden&7 pitkään taistelukäyttöön.'
+  name: '&rKorinttilainen pronssimiekka'
   type:
   - '&7&oAse'
 DAMASCUS_STEEL_SWORD:
+  description:
+  - '&7Kuvioitu terä, taivutettu damaskosteräksestä.'
+  - '&7Kantaa vahvaa &bTerävyyttä&7 ja &bKestävyyttä&7,'
+  - '&7todellinen ylemmän tason ase.'
+  name: '&rDamaskosteräsmiekka'
   type:
   - '&7&oAse'
 DURALUMIN_SWORD:
+  description:
+  - '&7Kelpo keskitason metalliseosmiekka.'
+  - '&7Esilumottu &bTerävyydellä&7 ja &bKestävyydellä&7,'
+  - '&7tasapainottaen lisävahinkoa pidemmällä kestolla.'
+  name: '&rDuralumiinimiekka'
   type:
   - '&7&oAse'
 FERROSILICON_SWORD:
+  description:
+  - '&7Erikoistunut epäkuolleiden vastainen terä.'
+  - '&7Kantaa voimakasta &bJumalan iskua&7 sekä &bKestävyyttä&7,'
+  - '&7tuhoisa zombeja, luurankoja ja wither-'
+  - '&7luurankoja vastaan Netherissä.'
+  name: '&rFerropiimiekka'
   type:
   - '&7&oAse'
 GILDED_IRON_SWORD:
+  description:
+  - '&7Kullattu terä koristeellisella kultaisella särmällä.'
+  - '&7Kantaa vahvaa &bNiveljalkaisten surmaa&7 ja korkeaa'
+  - '&bKestävyyttä&7, kestää paljon pidempään kuin kullan pitäisi.'
+  name: '&rKullattu rautamiekka'
   type:
   - '&7&oAse'
 HARDENED_SWORD:
+  description:
+  - '&7Huipputason terä, taottu karkaistusta metalliseoksesta.'
+  - '&7Kantaa vahvinta &bTerävyyttä&7 ja'
+  - '&bKestävyyttä&7 ExtraGearissa - myöhäispelin voimanpesä.'
+  name: '&rKarkaistu miekka'
   type:
   - '&7&oAse'
 LEAD_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fLyijysaappaat'
   type:
   - '&7&oPanssari'
 LEAD_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fLyijyrintapanssari'
   type:
   - '&7&oPanssari'
 LEAD_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fLyijykypärä'
   type:
   - '&7&oPanssari'
 LEAD_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fLyijyhousut'
   type:
   - '&7&oPanssari'
 LEAD_SWORD:
+  description:
+  - '&7Raskas, luotettava metalliseosterä.'
+  - '&7Yhdistää vahvan &bTerävyys&7-lumouksen ja'
+  - '&bKestävyyden&7 pitkään taistelukäyttöön.'
+  name: '&rLyijymiekka'
   type:
   - '&7&oAse'
 MAGNESIUM_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fMagnesiumsaappaat'
   type:
   - '&7&oPanssari'
 MAGNESIUM_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fMagnesiumrintapanssari'
   type:
   - '&7&oPanssari'
 MAGNESIUM_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fMagnesiumkypärä'
   type:
   - '&7&oPanssari'
 MAGNESIUM_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fMagnesiumhousut'
   type:
   - '&7&oPanssari'
 MAGNESIUM_SWORD:
+  description:
+  - '&7Kelpo keskitason metalliseosmiekka.'
+  - '&7Esilumottu &bTerävyydellä&7 ja &bKestävyydellä&7,'
+  - '&7tasapainottaen lisävahinkoa pidemmällä kestolla.'
+  name: '&rMagnesiummiekka'
   type:
   - '&7&oAse'
 NICKEL_SWORD:
+  description:
+  - '&7Raskas, luotettava metalliseosterä.'
+  - '&7Yhdistää vahvan &bTerävyys&7-lumouksen ja'
+  - '&bKestävyyden&7 pitkään taistelukäyttöön.'
+  name: '&rNikkelimiekka'
   type:
   - '&7&oAse'
 REINFORCED_SWORD:
+  description:
+  - '&7Huipputason terä, taottu karkaistusta metalliseoksesta.'
+  - '&7Kantaa vahvinta &bTerävyyttä&7 ja'
+  - '&bKestävyyttä&7 ExtraGearissa - myöhäispelin voimanpesä.'
+  name: '&rVahvistettu miekka'
   type:
   - '&7&oAse'
 SILVER_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fHopeasaappaat'
   type:
   - '&7&oPanssari'
 SILVER_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fHopearintapanssari'
   type:
   - '&7&oPanssari'
 SILVER_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fHopeakypärä'
   type:
   - '&7&oPanssari'
 SILVER_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fHopeahousut'
   type:
   - '&7&oPanssari'
 SILVER_SWORD:
+  description:
+  - '&7Kevyt, halpa miekka, taottu perusmetallista.'
+  - '&7Tulee esilumottuna &bTerävyydellä&7 pieneen'
+  - '&7mutta luotettavaan vahinkolisään vanilla-terään nähden.'
+  name: '&rHopeamiekka'
   type:
   - '&7&oAse'
 SOLDER_SWORD:
+  description:
+  - '&7Kelpo keskitason metalliseosmiekka.'
+  - '&7Esilumottu &bTerävyydellä&7 ja &bKestävyydellä&7,'
+  - '&7tasapainottaen lisävahinkoa pidemmällä kestolla.'
+  name: '&rJuotemiekka'
   type:
   - '&7&oAse'
 STEEL_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTerässaappaat'
   type:
   - '&7&oPanssari'
 STEEL_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTeräsrintapanssari'
   type:
   - '&7&oPanssari'
 STEEL_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTeräskypärä'
   type:
   - '&7&oPanssari'
 STEEL_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTeräshousut'
   type:
   - '&7&oPanssari'
 STEEL_SWORD:
+  description:
+  - '&7Raskas, luotettava metalliseosterä.'
+  - '&7Yhdistää vahvan &bTerävyys&7-lumouksen ja'
+  - '&bKestävyyden&7 pitkään taistelukäyttöön.'
+  name: '&rTeräsmiekka'
   type:
   - '&7&oAse'
 TIN_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTinasaappaat'
   type:
   - '&7&oPanssari'
 TIN_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTinarintapanssari'
   type:
   - '&7&oPanssari'
 TIN_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTinakypärä'
   type:
   - '&7&oPanssari'
 TIN_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fTinahousut'
   type:
   - '&7&oPanssari'
 TIN_SWORD:
+  description:
+  - '&7Kevyt, halpa miekka, taottu perusmetallista.'
+  - '&7Tulee esilumottuna &bTerävyydellä&7 pieneen'
+  - '&7mutta luotettavaan vahinkolisään vanilla-terään nähden.'
+  name: '&rTinamiekka'
   type:
   - '&7&oAse'
 ZINC_BOOTS:
+  description:
+  - '&7ExtraGear-haarniskasarjan saappaat.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fSinkkisaappaat'
   type:
   - '&7&oPanssari'
 ZINC_CHESTPLATE:
+  description:
+  - '&7ExtraGear-haarniskasarjan rintapanssari -'
+  - '&7sarjan suojaavin osa.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fSinkkirintapanssari'
   type:
   - '&7&oPanssari'
 ZINC_HELMET:
+  description:
+  - '&7ExtraGear-haarniskasarjan kypärä.'
+  - '&7Tulee sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fSinkkikypärä'
   type:
   - '&7&oPanssari'
 ZINC_LEGGINGS:
+  description:
+  - '&7ExtraGear-haarniskasarjan housut.'
+  - '&7Tulevat sisäänrakennetuilla suojauslumouksilla.'
+  - '&7Valmistetaan &bHaarniskapajassa&7 sen metalliharkoista.'
+  name: '&fSinkkihousut'
   type:
   - '&7&oPanssari'
 ZINC_SWORD:
+  description:
+  - '&7Kevyt, halpa miekka, taottu perusmetallista.'
+  - '&7Tulee esilumottuna &bTerävyydellä&7 pieneen'
+  - '&7mutta luotettavaan vahinkolisään vanilla-terään nähden.'
+  name: '&rSinkkimiekka'
   type:
   - '&7&oAse'
