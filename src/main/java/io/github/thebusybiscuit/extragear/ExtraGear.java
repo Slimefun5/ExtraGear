@@ -93,6 +93,7 @@ public class ExtraGear extends JavaPlugin implements SlimefunAddon {
         registerArmor(ArmorSet.IRON, "COBALT", SlimefunItems.COBALT_INGOT, Arrays.asList(new Pair<>(Enchantment.PROTECTION_ENVIRONMENTAL, 7), new Pair<>(Enchantment.DURABILITY, 7)));
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        Slimefun.getLocalization().registerResearchTranslations(this);
 
         // Register this addon's own in-game wiki page (core does not auto-generate addon wikis).
         registerWiki();
