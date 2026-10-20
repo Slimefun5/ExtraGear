@@ -10,7 +10,6 @@ description = "ExtraGear is a Slimefun addon that adds extra armor sets and tool
 apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/main/slimefun-addon.gradle")
 
 dependencies {
-    githubImplementation("Slimefun5:SlimefunMetrics:v1.0.0")
     implementation("org.bstats:bstats-bukkit:2.2.1")
 }
 
