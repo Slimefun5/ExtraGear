@@ -3,7 +3,7 @@ ALUMINUM_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铝靴子'
+  name: '铝靴子'
   type:
   - '&7&o护甲'
 ALUMINUM_BRASS_SWORD:
@@ -11,7 +11,7 @@ ALUMINUM_BRASS_SWORD:
   - '&7以铝为基础打造的剑刃, 专为除虫而生。'
   - '&7自带&b节肢杀手&7, 轻松穿透'
   - '&7蜘蛛、蠹虫和其他虫类。'
-  name: '&r铝黄铜剑'
+  name: '铝黄铜剑'
   type:
   - '&7&o武器'
 ALUMINUM_BRONZE_SWORD:
@@ -19,7 +19,7 @@ ALUMINUM_BRONZE_SWORD:
   - '&7以铝为基础打造的剑刃, 专为除虫而生。'
   - '&7自带&b节肢杀手&7, 轻松穿透'
   - '&7蜘蛛、蠹虫和其他虫类。'
-  name: '&r铝青铜剑'
+  name: '铝青铜剑'
   type:
   - '&7&o武器'
 ALUMINUM_CHESTPLATE:
@@ -27,7 +27,7 @@ ALUMINUM_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铝胸甲'
+  name: '铝胸甲'
   type:
   - '&7&o护甲'
 ALUMINUM_HELMET:
@@ -35,7 +35,7 @@ ALUMINUM_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铝头盔'
+  name: '铝头盔'
   type:
   - '&7&o护甲'
 ALUMINUM_LEGGINGS:
@@ -43,7 +43,7 @@ ALUMINUM_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铝护腿'
+  name: '铝护腿'
   type:
   - '&7&o护甲'
 ALUMINUM_SWORD:
@@ -51,7 +51,7 @@ ALUMINUM_SWORD:
   - '&7以铝为基础打造的剑刃, 专为除虫而生。'
   - '&7自带&b节肢杀手&7, 轻松穿透'
   - '&7蜘蛛、蠹虫和其他虫类。'
-  name: '&r铝剑'
+  name: '铝剑'
   type:
   - '&7&o武器'
 BILLON_SWORD:
@@ -59,7 +59,7 @@ BILLON_SWORD:
   - '&7一把扎实的中阶合金剑。'
   - '&7预附有&b锋利&7与&b耐久&7,'
   - '&7在额外伤害与更长寿命之间取得平衡。'
-  name: '&r比隆合金剑'
+  name: '比隆合金剑'
   type:
   - '&7&o武器'
 BRASS_SWORD:
@@ -68,7 +68,7 @@ BRASS_SWORD:
   - '&7自带强力的&b亡灵杀手&7与&b耐久&7,'
   - '&7对僵尸、骷髅以及下界的凋灵'
   - '&7骷髅有毁灭性打击。'
-  name: '&r黄铜剑'
+  name: '黄铜剑'
   type:
   - '&7&o武器'
 BRONZE_SWORD:
@@ -76,7 +76,7 @@ BRONZE_SWORD:
   - '&7一把扎实的中阶合金剑。'
   - '&7预附有&b锋利&7与&b耐久&7,'
   - '&7在额外伤害与更长寿命之间取得平衡。'
-  name: '&r青铜剑'
+  name: '青铜剑'
   type:
   - '&7&o武器'
 COBALT_BOOTS:
@@ -84,7 +84,7 @@ COBALT_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钴靴子'
+  name: '钴靴子'
   type:
   - '&7&o护甲'
 COBALT_CHESTPLATE:
@@ -92,7 +92,7 @@ COBALT_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钴胸甲'
+  name: '钴胸甲'
   type:
   - '&7&o护甲'
 COBALT_HELMET:
@@ -100,7 +100,7 @@ COBALT_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钴头盔'
+  name: '钴头盔'
   type:
   - '&7&o护甲'
 COBALT_LEGGINGS:
@@ -108,7 +108,7 @@ COBALT_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钴护腿'
+  name: '钴护腿'
   type:
   - '&7&o护甲'
 COBALT_SWORD:
@@ -116,7 +116,7 @@ COBALT_SWORD:
   - '&7用硬化合金锻造的顶级剑刃。'
   - '&7自带最强等级的&b锋利&7与'
   - '&b耐久&7, 是 ExtraGear 中的后期强力武器。'
-  name: '&r钴剑'
+  name: '钴剑'
   type:
   - '&7&o武器'
 COPPER_BOOTS:
@@ -124,7 +124,7 @@ COPPER_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铜靴子'
+  name: '铜靴子'
   type:
   - '&7&o护甲'
 COPPER_CHESTPLATE:
@@ -132,7 +132,7 @@ COPPER_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铜胸甲'
+  name: '铜胸甲'
   type:
   - '&7&o护甲'
 COPPER_HELMET:
@@ -140,7 +140,7 @@ COPPER_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铜头盔'
+  name: '铜头盔'
   type:
   - '&7&o护甲'
 COPPER_LEGGINGS:
@@ -148,7 +148,7 @@ COPPER_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铜护腿'
+  name: '铜护腿'
   type:
   - '&7&o护甲'
 COPPER_SWORD:
@@ -156,7 +156,7 @@ COPPER_SWORD:
   - '&7用铜锻造的入门级剑刃。'
   - '&7自带&b亡灵杀手 II&7, 便于清理'
   - '&7游戏前期的僵尸和骷髅等亡灵生物。'
-  name: '&r铜剑'
+  name: '铜剑'
   type:
   - '&7&o武器'
 CORINTHIAN_BRONZE_SWORD:
@@ -164,7 +164,7 @@ CORINTHIAN_BRONZE_SWORD:
   - '&7一把沉重而可靠的合金剑刃。'
   - '&7将强力的&b锋利&7附魔与'
   - '&b耐久&7结合, 适合长时间作战。'
-  name: '&r科林斯青铜剑'
+  name: '科林斯青铜剑'
   type:
   - '&7&o武器'
 DAMASCUS_STEEL_SWORD:
@@ -172,7 +172,7 @@ DAMASCUS_STEEL_SWORD:
   - '&7用大马士革钢折叠锻打而成的花纹剑刃。'
   - '&7自带高等级的&b锋利&7与&b耐久&7,'
   - '&7一件真正的高阶武器。'
-  name: '&r大马士革钢剑'
+  name: '大马士革钢剑'
   type:
   - '&7&o武器'
 DURALUMIN_SWORD:
@@ -180,7 +180,7 @@ DURALUMIN_SWORD:
   - '&7一把扎实的中阶合金剑。'
   - '&7预附有&b锋利&7与&b耐久&7,'
   - '&7在额外伤害与更长寿命之间取得平衡。'
-  name: '&r硬铝剑'
+  name: '硬铝剑'
   type:
   - '&7&o武器'
 FERROSILICON_SWORD:
@@ -189,7 +189,7 @@ FERROSILICON_SWORD:
   - '&7自带强力的&b亡灵杀手&7与&b耐久&7,'
   - '&7对僵尸、骷髅以及下界的凋灵'
   - '&7骷髅有毁灭性打击。'
-  name: '&r硅铁剑'
+  name: '硅铁剑'
   type:
   - '&7&o武器'
 GILDED_IRON_SWORD:
@@ -197,7 +197,7 @@ GILDED_IRON_SWORD:
   - '&7一把镀金剑刃, 带有华丽的金色锋刃。'
   - '&7自带强力的&b节肢杀手&7与高等级'
   - '&b耐久&7, 远比黄金本该有的更耐用。'
-  name: '&r镀金铁剑'
+  name: '镀金铁剑'
   type:
   - '&7&o武器'
 HARDENED_SWORD:
@@ -205,7 +205,7 @@ HARDENED_SWORD:
   - '&7用硬化合金锻造的顶级剑刃。'
   - '&7自带最强等级的&b锋利&7与'
   - '&b耐久&7, 是 ExtraGear 中的后期强力武器。'
-  name: '&r硬化金属剑'
+  name: '硬化金属剑'
   type:
   - '&7&o武器'
 LEAD_BOOTS:
@@ -213,7 +213,7 @@ LEAD_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铅靴子'
+  name: '铅靴子'
   type:
   - '&7&o护甲'
 LEAD_CHESTPLATE:
@@ -221,7 +221,7 @@ LEAD_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铅胸甲'
+  name: '铅胸甲'
   type:
   - '&7&o护甲'
 LEAD_HELMET:
@@ -229,7 +229,7 @@ LEAD_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铅头盔'
+  name: '铅头盔'
   type:
   - '&7&o护甲'
 LEAD_LEGGINGS:
@@ -237,7 +237,7 @@ LEAD_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f铅护腿'
+  name: '铅护腿'
   type:
   - '&7&o护甲'
 LEAD_SWORD:
@@ -245,7 +245,7 @@ LEAD_SWORD:
   - '&7一把沉重而可靠的合金剑刃。'
   - '&7将强力的&b锋利&7附魔与'
   - '&b耐久&7结合, 适合长时间作战。'
-  name: '&r铅剑'
+  name: '铅剑'
   type:
   - '&7&o武器'
 MAGNESIUM_BOOTS:
@@ -253,7 +253,7 @@ MAGNESIUM_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f镁靴子'
+  name: '镁靴子'
   type:
   - '&7&o护甲'
 MAGNESIUM_CHESTPLATE:
@@ -261,7 +261,7 @@ MAGNESIUM_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f镁胸甲'
+  name: '镁胸甲'
   type:
   - '&7&o护甲'
 MAGNESIUM_HELMET:
@@ -269,7 +269,7 @@ MAGNESIUM_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f镁头盔'
+  name: '镁头盔'
   type:
   - '&7&o护甲'
 MAGNESIUM_LEGGINGS:
@@ -277,7 +277,7 @@ MAGNESIUM_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f镁护腿'
+  name: '镁护腿'
   type:
   - '&7&o护甲'
 MAGNESIUM_SWORD:
@@ -285,7 +285,7 @@ MAGNESIUM_SWORD:
   - '&7一把扎实的中阶合金剑。'
   - '&7预附有&b锋利&7与&b耐久&7,'
   - '&7在额外伤害与更长寿命之间取得平衡。'
-  name: '&r镁剑'
+  name: '镁剑'
   type:
   - '&7&o武器'
 NICKEL_SWORD:
@@ -293,7 +293,7 @@ NICKEL_SWORD:
   - '&7一把沉重而可靠的合金剑刃。'
   - '&7将强力的&b锋利&7附魔与'
   - '&b耐久&7结合, 适合长时间作战。'
-  name: '&r镍剑'
+  name: '镍剑'
   type:
   - '&7&o武器'
 REINFORCED_SWORD:
@@ -301,7 +301,7 @@ REINFORCED_SWORD:
   - '&7用硬化合金锻造的顶级剑刃。'
   - '&7自带最强等级的&b锋利&7与'
   - '&b耐久&7, 是 ExtraGear 中的后期强力武器。'
-  name: '&r强化剑'
+  name: '强化剑'
   type:
   - '&7&o武器'
 SILVER_BOOTS:
@@ -309,7 +309,7 @@ SILVER_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f银靴子'
+  name: '银靴子'
   type:
   - '&7&o护甲'
 SILVER_CHESTPLATE:
@@ -317,7 +317,7 @@ SILVER_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f银胸甲'
+  name: '银胸甲'
   type:
   - '&7&o护甲'
 SILVER_HELMET:
@@ -325,7 +325,7 @@ SILVER_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f银头盔'
+  name: '银头盔'
   type:
   - '&7&o护甲'
 SILVER_LEGGINGS:
@@ -333,7 +333,7 @@ SILVER_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f银护腿'
+  name: '银护腿'
   type:
   - '&7&o护甲'
 SILVER_SWORD:
@@ -341,7 +341,7 @@ SILVER_SWORD:
   - '&7用贱金属锻造的轻便廉价之剑。'
   - '&7附带&b锋利&7预附魔, 相比原版剑刃'
   - '&7能带来小幅但稳定的伤害提升。'
-  name: '&r银剑'
+  name: '银剑'
   type:
   - '&7&o武器'
 SOLDER_SWORD:
@@ -349,7 +349,7 @@ SOLDER_SWORD:
   - '&7一把扎实的中阶合金剑。'
   - '&7预附有&b锋利&7与&b耐久&7,'
   - '&7在额外伤害与更长寿命之间取得平衡。'
-  name: '&r焊料剑'
+  name: '焊料剑'
   type:
   - '&7&o武器'
 STEEL_BOOTS:
@@ -357,7 +357,7 @@ STEEL_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钢靴子'
+  name: '钢靴子'
   type:
   - '&7&o护甲'
 STEEL_CHESTPLATE:
@@ -365,7 +365,7 @@ STEEL_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钢胸甲'
+  name: '钢胸甲'
   type:
   - '&7&o护甲'
 STEEL_HELMET:
@@ -373,7 +373,7 @@ STEEL_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钢头盔'
+  name: '钢头盔'
   type:
   - '&7&o护甲'
 STEEL_LEGGINGS:
@@ -381,7 +381,7 @@ STEEL_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f钢护腿'
+  name: '钢护腿'
   type:
   - '&7&o护甲'
 STEEL_SWORD:
@@ -389,7 +389,7 @@ STEEL_SWORD:
   - '&7一把沉重而可靠的合金剑刃。'
   - '&7将强力的&b锋利&7附魔与'
   - '&b耐久&7结合, 适合长时间作战。'
-  name: '&r钢剑'
+  name: '钢剑'
   type:
   - '&7&o武器'
 TIN_BOOTS:
@@ -397,7 +397,7 @@ TIN_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锡靴子'
+  name: '锡靴子'
   type:
   - '&7&o护甲'
 TIN_CHESTPLATE:
@@ -405,7 +405,7 @@ TIN_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锡胸甲'
+  name: '锡胸甲'
   type:
   - '&7&o护甲'
 TIN_HELMET:
@@ -413,7 +413,7 @@ TIN_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锡头盔'
+  name: '锡头盔'
   type:
   - '&7&o护甲'
 TIN_LEGGINGS:
@@ -421,7 +421,7 @@ TIN_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锡护腿'
+  name: '锡护腿'
   type:
   - '&7&o护甲'
 TIN_SWORD:
@@ -429,7 +429,7 @@ TIN_SWORD:
   - '&7用贱金属锻造的轻便廉价之剑。'
   - '&7附带&b锋利&7预附魔, 相比原版剑刃'
   - '&7能带来小幅但稳定的伤害提升。'
-  name: '&r锡剑'
+  name: '锡剑'
   type:
   - '&7&o武器'
 ZINC_BOOTS:
@@ -437,7 +437,7 @@ ZINC_BOOTS:
   - '&7ExtraGear 盔甲套装的靴子。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锌靴子'
+  name: '锌靴子'
   type:
   - '&7&o护甲'
 ZINC_CHESTPLATE:
@@ -445,7 +445,7 @@ ZINC_CHESTPLATE:
   - '&7ExtraGear 盔甲套装的胸甲 -'
   - '&7套装中防护最强的部件。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锌胸甲'
+  name: '锌胸甲'
   type:
   - '&7&o护甲'
 ZINC_HELMET:
@@ -453,7 +453,7 @@ ZINC_HELMET:
   - '&7ExtraGear 盔甲套装的头盔。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锌头盔'
+  name: '锌头盔'
   type:
   - '&7&o护甲'
 ZINC_LEGGINGS:
@@ -461,7 +461,7 @@ ZINC_LEGGINGS:
   - '&7ExtraGear 盔甲套装的护腿。'
   - '&7附带内置的保护附魔。'
   - '&7在&b盔甲锻造台&7中用对应的金属锭合成。'
-  name: '&f锌护腿'
+  name: '锌护腿'
   type:
   - '&7&o护甲'
 ZINC_SWORD:
@@ -469,6 +469,6 @@ ZINC_SWORD:
   - '&7用贱金属锻造的轻便廉价之剑。'
   - '&7附带&b锋利&7预附魔, 相比原版剑刃'
   - '&7能带来小幅但稳定的伤害提升。'
-  name: '&r锌剑'
+  name: '锌剑'
   type:
   - '&7&o武器'

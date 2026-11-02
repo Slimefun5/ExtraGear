@@ -3,7 +3,7 @@ ALUMINUM_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAliuminio batai'
+  name: 'Aliuminio batai'
   type:
   - '&7&oŠarvai'
 ALUMINUM_BRASS_SWORD:
@@ -11,7 +11,7 @@ ALUMINUM_BRASS_SWORD:
   - '&7Aliuminio pagrindo ašmenys kenkėjams naikinti.'
   - '&7Suteikia &bNariuotakojų prakeiksmą&7, be vargo pjaunantį'
   - '&7vorus, žvyneles ir kitus vabzdžius.'
-  name: '&rAliuminio žalvario kardas'
+  name: 'Aliuminio žalvario kardas'
   type:
   - '&7&oGinklas'
 ALUMINUM_BRONZE_SWORD:
@@ -19,7 +19,7 @@ ALUMINUM_BRONZE_SWORD:
   - '&7Aliuminio pagrindo ašmenys kenkėjams naikinti.'
   - '&7Suteikia &bNariuotakojų prakeiksmą&7, be vargo pjaunantį'
   - '&7vorus, žvyneles ir kitus vabzdžius.'
-  name: '&rAliuminio bronzos kardas'
+  name: 'Aliuminio bronzos kardas'
   type:
   - '&7&oGinklas'
 ALUMINUM_CHESTPLATE:
@@ -27,7 +27,7 @@ ALUMINUM_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAliuminio krūtinės šarvai'
+  name: 'Aliuminio krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 ALUMINUM_HELMET:
@@ -35,7 +35,7 @@ ALUMINUM_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAliuminio šalmas'
+  name: 'Aliuminio šalmas'
   type:
   - '&7&oŠarvai'
 ALUMINUM_LEGGINGS:
@@ -43,7 +43,7 @@ ALUMINUM_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAliuminio kelnės'
+  name: 'Aliuminio kelnės'
   type:
   - '&7&oŠarvai'
 ALUMINUM_SWORD:
@@ -51,7 +51,7 @@ ALUMINUM_SWORD:
   - '&7Aliuminio pagrindo ašmenys kenkėjams naikinti.'
   - '&7Suteikia &bNariuotakojų prakeiksmą&7, be vargo pjaunantį'
   - '&7vorus, žvyneles ir kitus vabzdžius.'
-  name: '&rAliuminio kardas'
+  name: 'Aliuminio kardas'
   type:
   - '&7&oGinklas'
 BILLON_SWORD:
@@ -59,7 +59,7 @@ BILLON_SWORD:
   - '&7Tvirtas vidutinės pakopos lydinio kardas.'
   - '&7Iš anksto užkerėtas &bAštrumu&7 ir &bNesulaužomumu&7,'
   - '&7derinant papildomą žalą su ilgesniu tarnavimo laiku.'
-  name: '&rBilono kardas'
+  name: 'Bilono kardas'
   type:
   - '&7&oGinklas'
 BRASS_SWORD:
@@ -68,7 +68,7 @@ BRASS_SWORD:
   - '&7Suteikia galingą &bNemirėlių naikinimą&7 ir &bNesulaužomumą&7,'
   - '&7niokojantis zombius, skeletus ir wither'
   - '&7skeletus Nether pasaulyje.'
-  name: '&rŽalvario kardas'
+  name: 'Žalvario kardas'
   type:
   - '&7&oGinklas'
 BRONZE_SWORD:
@@ -76,7 +76,7 @@ BRONZE_SWORD:
   - '&7Tvirtas vidutinės pakopos lydinio kardas.'
   - '&7Iš anksto užkerėtas &bAštrumu&7 ir &bNesulaužomumu&7,'
   - '&7derinant papildomą žalą su ilgesniu tarnavimo laiku.'
-  name: '&rBronzos kardas'
+  name: 'Bronzos kardas'
   type:
   - '&7&oGinklas'
 COBALT_BOOTS:
@@ -84,7 +84,7 @@ COBALT_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fKobalto batai'
+  name: 'Kobalto batai'
   type:
   - '&7&oŠarvai'
 COBALT_CHESTPLATE:
@@ -92,7 +92,7 @@ COBALT_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fKobalto krūtinės šarvai'
+  name: 'Kobalto krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 COBALT_HELMET:
@@ -100,7 +100,7 @@ COBALT_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fKobalto šalmas'
+  name: 'Kobalto šalmas'
   type:
   - '&7&oŠarvai'
 COBALT_LEGGINGS:
@@ -108,7 +108,7 @@ COBALT_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fKobalto kelnės'
+  name: 'Kobalto kelnės'
   type:
   - '&7&oŠarvai'
 COBALT_SWORD:
@@ -116,7 +116,7 @@ COBALT_SWORD:
   - '&7Aukščiausios pakopos ašmenys, nukalti iš grūdinto lydinio.'
   - '&7Suteikia vieną stipriausių &bAštrumo&7 ir'
   - '&bNesulaužomumo&7 derinių ExtraGear - vėlyvojo žaidimo galiūnas.'
-  name: '&rKobalto kardas'
+  name: 'Kobalto kardas'
   type:
   - '&7&oGinklas'
 COPPER_BOOTS:
@@ -124,7 +124,7 @@ COPPER_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fVario batai'
+  name: 'Vario batai'
   type:
   - '&7&oŠarvai'
 COPPER_CHESTPLATE:
@@ -132,7 +132,7 @@ COPPER_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fVario krūtinės šarvai'
+  name: 'Vario krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 COPPER_HELMET:
@@ -140,7 +140,7 @@ COPPER_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fVario šalmas'
+  name: 'Vario šalmas'
   type:
   - '&7&oŠarvai'
 COPPER_LEGGINGS:
@@ -148,7 +148,7 @@ COPPER_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fVario kelnės'
+  name: 'Vario kelnės'
   type:
   - '&7&oŠarvai'
 COPPER_SWORD:
@@ -156,7 +156,7 @@ COPPER_SWORD:
   - '&7Pradinio lygio ašmenys, nukalti iš vario.'
   - '&7Suteikia &bNemirėlių naikinimą II&7, todėl patogu valyti'
   - '&7ankstyvojo žaidimo nemirėlius: zombius ir skeletus.'
-  name: '&rVario kardas'
+  name: 'Vario kardas'
   type:
   - '&7&oGinklas'
 CORINTHIAN_BRONZE_SWORD:
@@ -164,7 +164,7 @@ CORINTHIAN_BRONZE_SWORD:
   - '&7Sunkūs, patikimi lydinio ašmenys.'
   - '&7Sujungia stiprų &bAštrumo&7 kerėjimą su'
   - '&bNesulaužomumu&7 ilgam kovos naudojimui.'
-  name: '&rKorinto bronzos kardas'
+  name: 'Korinto bronzos kardas'
   type:
   - '&7&oGinklas'
 DAMASCUS_STEEL_SWORD:
@@ -172,7 +172,7 @@ DAMASCUS_STEEL_SWORD:
   - '&7Raštuoti ašmenys, suklostyti iš Damasko plieno.'
   - '&7Suteikia stiprų &bAštrumą&7 ir &bNesulaužomumą&7 -'
   - '&7tikras aukštosios pakopos ginklas.'
-  name: '&rDamasko plieno kardas'
+  name: 'Damasko plieno kardas'
   type:
   - '&7&oGinklas'
 DURALUMIN_SWORD:
@@ -180,7 +180,7 @@ DURALUMIN_SWORD:
   - '&7Tvirtas vidutinės pakopos lydinio kardas.'
   - '&7Iš anksto užkerėtas &bAštrumu&7 ir &bNesulaužomumu&7,'
   - '&7derinant papildomą žalą su ilgesniu tarnavimo laiku.'
-  name: '&rDuraliuminio kardas'
+  name: 'Duraliuminio kardas'
   type:
   - '&7&oGinklas'
 FERROSILICON_SWORD:
@@ -189,7 +189,7 @@ FERROSILICON_SWORD:
   - '&7Suteikia galingą &bNemirėlių naikinimą&7 ir &bNesulaužomumą&7,'
   - '&7niokojantis zombius, skeletus ir wither'
   - '&7skeletus Nether pasaulyje.'
-  name: '&rFerosilicio kardas'
+  name: 'Ferosilicio kardas'
   type:
   - '&7&oGinklas'
 GILDED_IRON_SWORD:
@@ -197,7 +197,7 @@ GILDED_IRON_SWORD:
   - '&7Paauksuoti ašmenys su puošniu auksiniu kraštu.'
   - '&7Suteikia stiprų &bNariuotakojų prakeiksmą&7 ir aukštą'
   - '&bNesulaužomumą&7, tarnaujantį kur kas ilgiau, nei auksui dera.'
-  name: '&rPaauksuotos geležies kardas'
+  name: 'Paauksuotos geležies kardas'
   type:
   - '&7&oGinklas'
 HARDENED_SWORD:
@@ -205,7 +205,7 @@ HARDENED_SWORD:
   - '&7Aukščiausios pakopos ašmenys, nukalti iš grūdinto lydinio.'
   - '&7Suteikia vieną stipriausių &bAštrumo&7 ir'
   - '&bNesulaužomumo&7 derinių ExtraGear - vėlyvojo žaidimo galiūnas.'
-  name: '&rGrūdintas kardas'
+  name: 'Grūdintas kardas'
   type:
   - '&7&oGinklas'
 LEAD_BOOTS:
@@ -213,7 +213,7 @@ LEAD_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fŠvino batai'
+  name: 'Švino batai'
   type:
   - '&7&oŠarvai'
 LEAD_CHESTPLATE:
@@ -221,7 +221,7 @@ LEAD_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fŠvino krūtinės šarvai'
+  name: 'Švino krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 LEAD_HELMET:
@@ -229,7 +229,7 @@ LEAD_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fŠvino šalmas'
+  name: 'Švino šalmas'
   type:
   - '&7&oŠarvai'
 LEAD_LEGGINGS:
@@ -237,7 +237,7 @@ LEAD_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fŠvino kelnės'
+  name: 'Švino kelnės'
   type:
   - '&7&oŠarvai'
 LEAD_SWORD:
@@ -245,7 +245,7 @@ LEAD_SWORD:
   - '&7Sunkūs, patikimi lydinio ašmenys.'
   - '&7Sujungia stiprų &bAštrumo&7 kerėjimą su'
   - '&bNesulaužomumu&7 ilgam kovos naudojimui.'
-  name: '&rŠvino kardas'
+  name: 'Švino kardas'
   type:
   - '&7&oGinklas'
 MAGNESIUM_BOOTS:
@@ -253,7 +253,7 @@ MAGNESIUM_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fMagnio batai'
+  name: 'Magnio batai'
   type:
   - '&7&oŠarvai'
 MAGNESIUM_CHESTPLATE:
@@ -261,7 +261,7 @@ MAGNESIUM_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fMagnio krūtinės šarvai'
+  name: 'Magnio krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 MAGNESIUM_HELMET:
@@ -269,7 +269,7 @@ MAGNESIUM_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fMagnio šalmas'
+  name: 'Magnio šalmas'
   type:
   - '&7&oŠarvai'
 MAGNESIUM_LEGGINGS:
@@ -277,7 +277,7 @@ MAGNESIUM_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fMagnio kelnės'
+  name: 'Magnio kelnės'
   type:
   - '&7&oŠarvai'
 MAGNESIUM_SWORD:
@@ -285,7 +285,7 @@ MAGNESIUM_SWORD:
   - '&7Tvirtas vidutinės pakopos lydinio kardas.'
   - '&7Iš anksto užkerėtas &bAštrumu&7 ir &bNesulaužomumu&7,'
   - '&7derinant papildomą žalą su ilgesniu tarnavimo laiku.'
-  name: '&rMagnio kardas'
+  name: 'Magnio kardas'
   type:
   - '&7&oGinklas'
 NICKEL_SWORD:
@@ -293,7 +293,7 @@ NICKEL_SWORD:
   - '&7Sunkūs, patikimi lydinio ašmenys.'
   - '&7Sujungia stiprų &bAštrumo&7 kerėjimą su'
   - '&bNesulaužomumu&7 ilgam kovos naudojimui.'
-  name: '&rNikelio kardas'
+  name: 'Nikelio kardas'
   type:
   - '&7&oGinklas'
 REINFORCED_SWORD:
@@ -301,7 +301,7 @@ REINFORCED_SWORD:
   - '&7Aukščiausios pakopos ašmenys, nukalti iš grūdinto lydinio.'
   - '&7Suteikia vieną stipriausių &bAštrumo&7 ir'
   - '&bNesulaužomumo&7 derinių ExtraGear - vėlyvojo žaidimo galiūnas.'
-  name: '&rSustiprintas kardas'
+  name: 'Sustiprintas kardas'
   type:
   - '&7&oGinklas'
 SILVER_BOOTS:
@@ -309,7 +309,7 @@ SILVER_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fSidabro batai'
+  name: 'Sidabro batai'
   type:
   - '&7&oŠarvai'
 SILVER_CHESTPLATE:
@@ -317,7 +317,7 @@ SILVER_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fSidabro krūtinės šarvai'
+  name: 'Sidabro krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 SILVER_HELMET:
@@ -325,7 +325,7 @@ SILVER_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fSidabro šalmas'
+  name: 'Sidabro šalmas'
   type:
   - '&7&oŠarvai'
 SILVER_LEGGINGS:
@@ -333,7 +333,7 @@ SILVER_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fSidabro kelnės'
+  name: 'Sidabro kelnės'
   type:
   - '&7&oŠarvai'
 SILVER_SWORD:
@@ -341,7 +341,7 @@ SILVER_SWORD:
   - '&7Lengvas, pigus kardas, nukaltas iš paprasto metalo.'
   - '&7Pateikiamas iš anksto užkerėtas &bAštrumu&7 - nedidelis,'
   - '&7bet patikimas žalos priedas prie standartinių ašmenų.'
-  name: '&rSidabro kardas'
+  name: 'Sidabro kardas'
   type:
   - '&7&oGinklas'
 SOLDER_SWORD:
@@ -349,7 +349,7 @@ SOLDER_SWORD:
   - '&7Tvirtas vidutinės pakopos lydinio kardas.'
   - '&7Iš anksto užkerėtas &bAštrumu&7 ir &bNesulaužomumu&7,'
   - '&7derinant papildomą žalą su ilgesniu tarnavimo laiku.'
-  name: '&rLydmetalio kardas'
+  name: 'Lydmetalio kardas'
   type:
   - '&7&oGinklas'
 STEEL_BOOTS:
@@ -357,7 +357,7 @@ STEEL_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fPlieno batai'
+  name: 'Plieno batai'
   type:
   - '&7&oŠarvai'
 STEEL_CHESTPLATE:
@@ -365,7 +365,7 @@ STEEL_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fPlieno krūtinės šarvai'
+  name: 'Plieno krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 STEEL_HELMET:
@@ -373,7 +373,7 @@ STEEL_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fPlieno šalmas'
+  name: 'Plieno šalmas'
   type:
   - '&7&oŠarvai'
 STEEL_LEGGINGS:
@@ -381,7 +381,7 @@ STEEL_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fPlieno kelnės'
+  name: 'Plieno kelnės'
   type:
   - '&7&oŠarvai'
 STEEL_SWORD:
@@ -389,7 +389,7 @@ STEEL_SWORD:
   - '&7Sunkūs, patikimi lydinio ašmenys.'
   - '&7Sujungia stiprų &bAštrumo&7 kerėjimą su'
   - '&bNesulaužomumu&7 ilgam kovos naudojimui.'
-  name: '&rPlieno kardas'
+  name: 'Plieno kardas'
   type:
   - '&7&oGinklas'
 TIN_BOOTS:
@@ -397,7 +397,7 @@ TIN_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAlavo batai'
+  name: 'Alavo batai'
   type:
   - '&7&oŠarvai'
 TIN_CHESTPLATE:
@@ -405,7 +405,7 @@ TIN_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAlavo krūtinės šarvai'
+  name: 'Alavo krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 TIN_HELMET:
@@ -413,7 +413,7 @@ TIN_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAlavo šalmas'
+  name: 'Alavo šalmas'
   type:
   - '&7&oŠarvai'
 TIN_LEGGINGS:
@@ -421,7 +421,7 @@ TIN_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fAlavo kelnės'
+  name: 'Alavo kelnės'
   type:
   - '&7&oŠarvai'
 TIN_SWORD:
@@ -429,7 +429,7 @@ TIN_SWORD:
   - '&7Lengvas, pigus kardas, nukaltas iš paprasto metalo.'
   - '&7Pateikiamas iš anksto užkerėtas &bAštrumu&7 - nedidelis,'
   - '&7bet patikimas žalos priedas prie standartinių ašmenų.'
-  name: '&rAlavo kardas'
+  name: 'Alavo kardas'
   type:
   - '&7&oGinklas'
 ZINC_BOOTS:
@@ -437,7 +437,7 @@ ZINC_BOOTS:
   - '&7ExtraGear šarvų rinkinio batai.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fCinko batai'
+  name: 'Cinko batai'
   type:
   - '&7&oŠarvai'
 ZINC_CHESTPLATE:
@@ -445,7 +445,7 @@ ZINC_CHESTPLATE:
   - '&7ExtraGear šarvų rinkinio krūtinės šarvai -'
   - '&7labiausiai apsauganti rinkinio dalis.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fCinko krūtinės šarvai'
+  name: 'Cinko krūtinės šarvai'
   type:
   - '&7&oŠarvai'
 ZINC_HELMET:
@@ -453,7 +453,7 @@ ZINC_HELMET:
   - '&7ExtraGear šarvų rinkinio šalmas.'
   - '&7Pateikiamas su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fCinko šalmas'
+  name: 'Cinko šalmas'
   type:
   - '&7&oŠarvai'
 ZINC_LEGGINGS:
@@ -461,7 +461,7 @@ ZINC_LEGGINGS:
   - '&7ExtraGear šarvų rinkinio kelnės.'
   - '&7Pateikiamos su integruotais apsaugos kerėjimais.'
   - '&7Gaminamas &bŠarvų kalvėje&7 iš atitinkamo metalo luitų.'
-  name: '&fCinko kelnės'
+  name: 'Cinko kelnės'
   type:
   - '&7&oŠarvai'
 ZINC_SWORD:
@@ -469,6 +469,6 @@ ZINC_SWORD:
   - '&7Lengvas, pigus kardas, nukaltas iš paprasto metalo.'
   - '&7Pateikiamas iš anksto užkerėtas &bAštrumu&7 - nedidelis,'
   - '&7bet patikimas žalos priedas prie standartinių ašmenų.'
-  name: '&rCinko kardas'
+  name: 'Cinko kardas'
   type:
   - '&7&oGinklas'

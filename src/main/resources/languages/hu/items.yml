@@ -3,7 +3,7 @@ ALUMINUM_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAlumínium Csizma'
+  name: 'Alumínium Csizma'
   type:
   - '&7&oPáncél'
 ALUMINUM_BRASS_SWORD:
@@ -11,7 +11,7 @@ ALUMINUM_BRASS_SWORD:
   - '&7Alumínium alapú penge kártevőirtásra.'
   - '&7Hordozza az &bÍzeltlábúak Átka&7 varázslatot, könnyedén'
   - '&7átvág pókokat, ezüsthalakat és más bogarakat.'
-  name: '&rAlumínium Sárgaréz Kard'
+  name: 'Alumínium Sárgaréz Kard'
   type:
   - '&7&oFegyver'
 ALUMINUM_BRONZE_SWORD:
@@ -19,7 +19,7 @@ ALUMINUM_BRONZE_SWORD:
   - '&7Alumínium alapú penge kártevőirtásra.'
   - '&7Hordozza az &bÍzeltlábúak Átka&7 varázslatot, könnyedén'
   - '&7átvág pókokat, ezüsthalakat és más bogarakat.'
-  name: '&rAlumínium Bronz Kard'
+  name: 'Alumínium Bronz Kard'
   type:
   - '&7&oFegyver'
 ALUMINUM_CHESTPLATE:
@@ -27,7 +27,7 @@ ALUMINUM_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAlumínium Mellvért'
+  name: 'Alumínium Mellvért'
   type:
   - '&7&oPáncél'
 ALUMINUM_HELMET:
@@ -35,7 +35,7 @@ ALUMINUM_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAlumínium Sisak'
+  name: 'Alumínium Sisak'
   type:
   - '&7&oPáncél'
 ALUMINUM_LEGGINGS:
@@ -43,7 +43,7 @@ ALUMINUM_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAlumínium Lábvért'
+  name: 'Alumínium Lábvért'
   type:
   - '&7&oPáncél'
 ALUMINUM_SWORD:
@@ -51,7 +51,7 @@ ALUMINUM_SWORD:
   - '&7Alumínium alapú penge kártevőirtásra.'
   - '&7Hordozza az &bÍzeltlábúak Átka&7 varázslatot, könnyedén'
   - '&7átvág pókokat, ezüsthalakat és más bogarakat.'
-  name: '&rAlumínium Kard'
+  name: 'Alumínium Kard'
   type:
   - '&7&oFegyver'
 BILLON_SWORD:
@@ -59,7 +59,7 @@ BILLON_SWORD:
   - '&7Szilárd, középszintű ötvözetkard.'
   - '&7Előre elvarázsolva &bÉlesség&7 és &bTartósság&7 varázslattal,'
   - '&7az extra sebzést hosszabb élettartammal kiegyensúlyozva.'
-  name: '&rBillon Kard'
+  name: 'Billon Kard'
   type:
   - '&7&oFegyver'
 BRASS_SWORD:
@@ -68,7 +68,7 @@ BRASS_SWORD:
   - '&7Erős &bSújtás&7 és &bTartósság&7 varázslatot hordoz,'
   - '&7pusztító a zombik, csontvázak és wither'
   - '&7csontvázak ellen a Netherben.'
-  name: '&rSárgaréz Kard'
+  name: 'Sárgaréz Kard'
   type:
   - '&7&oFegyver'
 BRONZE_SWORD:
@@ -76,7 +76,7 @@ BRONZE_SWORD:
   - '&7Szilárd, középszintű ötvözetkard.'
   - '&7Előre elvarázsolva &bÉlesség&7 és &bTartósság&7 varázslattal,'
   - '&7az extra sebzést hosszabb élettartammal kiegyensúlyozva.'
-  name: '&rBronz Kard'
+  name: 'Bronz Kard'
   type:
   - '&7&oFegyver'
 COBALT_BOOTS:
@@ -84,7 +84,7 @@ COBALT_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fKobalt Csizma'
+  name: 'Kobalt Csizma'
   type:
   - '&7&oPáncél'
 COBALT_CHESTPLATE:
@@ -92,7 +92,7 @@ COBALT_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fKobalt Mellvért'
+  name: 'Kobalt Mellvért'
   type:
   - '&7&oPáncél'
 COBALT_HELMET:
@@ -100,7 +100,7 @@ COBALT_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fKobalt Sisak'
+  name: 'Kobalt Sisak'
   type:
   - '&7&oPáncél'
 COBALT_LEGGINGS:
@@ -108,7 +108,7 @@ COBALT_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fKobalt Lábvért'
+  name: 'Kobalt Lábvért'
   type:
   - '&7&oPáncél'
 COBALT_SWORD:
@@ -116,7 +116,7 @@ COBALT_SWORD:
   - '&7Csúcsszintű penge, edzett ötvözetből kovácsolva.'
   - '&7Hordozza a legerősebb &bÉlesség&7 és'
   - '&bTartósság&7 varázslatokat az ExtraGearben - késő játéki erőmű.'
-  name: '&rKobalt Kard'
+  name: 'Kobalt Kard'
   type:
   - '&7&oFegyver'
 COPPER_BOOTS:
@@ -124,7 +124,7 @@ COPPER_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fRéz Csizma'
+  name: 'Réz Csizma'
   type:
   - '&7&oPáncél'
 COPPER_CHESTPLATE:
@@ -132,7 +132,7 @@ COPPER_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fRéz Mellvért'
+  name: 'Réz Mellvért'
   type:
   - '&7&oPáncél'
 COPPER_HELMET:
@@ -140,7 +140,7 @@ COPPER_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fRéz Sisak'
+  name: 'Réz Sisak'
   type:
   - '&7&oPáncél'
 COPPER_LEGGINGS:
@@ -148,7 +148,7 @@ COPPER_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fRéz Lábvért'
+  name: 'Réz Lábvért'
   type:
   - '&7&oPáncél'
 COPPER_SWORD:
@@ -156,7 +156,7 @@ COPPER_SWORD:
   - '&7Belépő szintű penge Rézből kovácsolva.'
   - '&7Hordozza a &bSújtás II&7 varázslatot, jól jön a korai'
   - '&7élőhalottak, például zombik és csontvázak ellen.'
-  name: '&rRéz Kard'
+  name: 'Réz Kard'
   type:
   - '&7&oFegyver'
 CORINTHIAN_BRONZE_SWORD:
@@ -164,7 +164,7 @@ CORINTHIAN_BRONZE_SWORD:
   - '&7Nehéz, megbízható ötvözetpenge.'
   - '&7Erős &bÉlesség&7 varázslatot ötvöz a'
   - '&bTartósság&7 varázslattal a kitartó harchoz.'
-  name: '&rKorinthoszi Bronz Kard'
+  name: 'Korinthoszi Bronz Kard'
   type:
   - '&7&oFegyver'
 DAMASCUS_STEEL_SWORD:
@@ -172,7 +172,7 @@ DAMASCUS_STEEL_SWORD:
   - '&7Mintás penge, Damaszkuszi Acélból hajtogatva.'
   - '&7Komoly &bÉlesség&7 és &bTartósság&7 varázslatot hordoz,'
   - '&7igazi felső szintű fegyver.'
-  name: '&rDamaszkuszi Acél Kard'
+  name: 'Damaszkuszi Acél Kard'
   type:
   - '&7&oFegyver'
 DURALUMIN_SWORD:
@@ -180,7 +180,7 @@ DURALUMIN_SWORD:
   - '&7Szilárd, középszintű ötvözetkard.'
   - '&7Előre elvarázsolva &bÉlesség&7 és &bTartósság&7 varázslattal,'
   - '&7az extra sebzést hosszabb élettartammal kiegyensúlyozva.'
-  name: '&rDuralumínium Kard'
+  name: 'Duralumínium Kard'
   type:
   - '&7&oFegyver'
 FERROSILICON_SWORD:
@@ -189,7 +189,7 @@ FERROSILICON_SWORD:
   - '&7Erős &bSújtás&7 és &bTartósság&7 varázslatot hordoz,'
   - '&7pusztító a zombik, csontvázak és wither'
   - '&7csontvázak ellen a Netherben.'
-  name: '&rFerroszilícium Kard'
+  name: 'Ferroszilícium Kard'
   type:
   - '&7&oFegyver'
 GILDED_IRON_SWORD:
@@ -197,7 +197,7 @@ GILDED_IRON_SWORD:
   - '&7Aranyozott penge, díszes arany éllel.'
   - '&7Erős &bÍzeltlábúak Átka&7 és magas'
   - '&bTartósság&7 varázslatot hordoz, sokkal tovább tart, mint az arany.'
-  name: '&rAranyozott Vas Kard'
+  name: 'Aranyozott Vas Kard'
   type:
   - '&7&oFegyver'
 HARDENED_SWORD:
@@ -205,7 +205,7 @@ HARDENED_SWORD:
   - '&7Csúcsszintű penge, edzett ötvözetből kovácsolva.'
   - '&7Hordozza a legerősebb &bÉlesség&7 és'
   - '&bTartósság&7 varázslatokat az ExtraGearben - késő játéki erőmű.'
-  name: '&rEdzett Kard'
+  name: 'Edzett Kard'
   type:
   - '&7&oFegyver'
 LEAD_BOOTS:
@@ -213,7 +213,7 @@ LEAD_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓlom Csizma'
+  name: 'Ólom Csizma'
   type:
   - '&7&oPáncél'
 LEAD_CHESTPLATE:
@@ -221,7 +221,7 @@ LEAD_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓlom Mellvért'
+  name: 'Ólom Mellvért'
   type:
   - '&7&oPáncél'
 LEAD_HELMET:
@@ -229,7 +229,7 @@ LEAD_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓlom Sisak'
+  name: 'Ólom Sisak'
   type:
   - '&7&oPáncél'
 LEAD_LEGGINGS:
@@ -237,7 +237,7 @@ LEAD_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓlom Lábvért'
+  name: 'Ólom Lábvért'
   type:
   - '&7&oPáncél'
 LEAD_SWORD:
@@ -245,7 +245,7 @@ LEAD_SWORD:
   - '&7Nehéz, megbízható ötvözetpenge.'
   - '&7Erős &bÉlesség&7 varázslatot ötvöz a'
   - '&bTartósság&7 varázslattal a kitartó harchoz.'
-  name: '&rÓlom Kard'
+  name: 'Ólom Kard'
   type:
   - '&7&oFegyver'
 MAGNESIUM_BOOTS:
@@ -253,7 +253,7 @@ MAGNESIUM_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fMagnézium Csizma'
+  name: 'Magnézium Csizma'
   type:
   - '&7&oPáncél'
 MAGNESIUM_CHESTPLATE:
@@ -261,7 +261,7 @@ MAGNESIUM_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fMagnézium Mellvért'
+  name: 'Magnézium Mellvért'
   type:
   - '&7&oPáncél'
 MAGNESIUM_HELMET:
@@ -269,7 +269,7 @@ MAGNESIUM_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fMagnézium Sisak'
+  name: 'Magnézium Sisak'
   type:
   - '&7&oPáncél'
 MAGNESIUM_LEGGINGS:
@@ -277,7 +277,7 @@ MAGNESIUM_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fMagnézium Lábvért'
+  name: 'Magnézium Lábvért'
   type:
   - '&7&oPáncél'
 MAGNESIUM_SWORD:
@@ -285,7 +285,7 @@ MAGNESIUM_SWORD:
   - '&7Szilárd, középszintű ötvözetkard.'
   - '&7Előre elvarázsolva &bÉlesség&7 és &bTartósság&7 varázslattal,'
   - '&7az extra sebzést hosszabb élettartammal kiegyensúlyozva.'
-  name: '&rMagnézium Kard'
+  name: 'Magnézium Kard'
   type:
   - '&7&oFegyver'
 NICKEL_SWORD:
@@ -293,7 +293,7 @@ NICKEL_SWORD:
   - '&7Nehéz, megbízható ötvözetpenge.'
   - '&7Erős &bÉlesség&7 varázslatot ötvöz a'
   - '&bTartósság&7 varázslattal a kitartó harchoz.'
-  name: '&rNikkel Kard'
+  name: 'Nikkel Kard'
   type:
   - '&7&oFegyver'
 REINFORCED_SWORD:
@@ -301,7 +301,7 @@ REINFORCED_SWORD:
   - '&7Csúcsszintű penge, edzett ötvözetből kovácsolva.'
   - '&7Hordozza a legerősebb &bÉlesség&7 és'
   - '&bTartósság&7 varázslatokat az ExtraGearben - késő játéki erőmű.'
-  name: '&rMegerősített Kard'
+  name: 'Megerősített Kard'
   type:
   - '&7&oFegyver'
 SILVER_BOOTS:
@@ -309,7 +309,7 @@ SILVER_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fEzüst Csizma'
+  name: 'Ezüst Csizma'
   type:
   - '&7&oPáncél'
 SILVER_CHESTPLATE:
@@ -317,7 +317,7 @@ SILVER_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fEzüst Mellvért'
+  name: 'Ezüst Mellvért'
   type:
   - '&7&oPáncél'
 SILVER_HELMET:
@@ -325,7 +325,7 @@ SILVER_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fEzüst Sisak'
+  name: 'Ezüst Sisak'
   type:
   - '&7&oPáncél'
 SILVER_LEGGINGS:
@@ -333,7 +333,7 @@ SILVER_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fEzüst Lábvért'
+  name: 'Ezüst Lábvért'
   type:
   - '&7&oPáncél'
 SILVER_SWORD:
@@ -341,7 +341,7 @@ SILVER_SWORD:
   - '&7Könnyű, olcsó kard, egyszerű fémből kovácsolva.'
   - '&7Előre elvarázsolva &bÉlesség&7 varázslattal, kis'
   - '&7de megbízható sebzésnöveléssel a vanilla pengékhez képest.'
-  name: '&rEzüst Kard'
+  name: 'Ezüst Kard'
   type:
   - '&7&oFegyver'
 SOLDER_SWORD:
@@ -349,7 +349,7 @@ SOLDER_SWORD:
   - '&7Szilárd, középszintű ötvözetkard.'
   - '&7Előre elvarázsolva &bÉlesség&7 és &bTartósság&7 varázslattal,'
   - '&7az extra sebzést hosszabb élettartammal kiegyensúlyozva.'
-  name: '&rForrasztóötvözet Kard'
+  name: 'Forrasztóötvözet Kard'
   type:
   - '&7&oFegyver'
 STEEL_BOOTS:
@@ -357,7 +357,7 @@ STEEL_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAcél Csizma'
+  name: 'Acél Csizma'
   type:
   - '&7&oPáncél'
 STEEL_CHESTPLATE:
@@ -365,7 +365,7 @@ STEEL_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAcél Mellvért'
+  name: 'Acél Mellvért'
   type:
   - '&7&oPáncél'
 STEEL_HELMET:
@@ -373,7 +373,7 @@ STEEL_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAcél Sisak'
+  name: 'Acél Sisak'
   type:
   - '&7&oPáncél'
 STEEL_LEGGINGS:
@@ -381,7 +381,7 @@ STEEL_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fAcél Lábvért'
+  name: 'Acél Lábvért'
   type:
   - '&7&oPáncél'
 STEEL_SWORD:
@@ -389,7 +389,7 @@ STEEL_SWORD:
   - '&7Nehéz, megbízható ötvözetpenge.'
   - '&7Erős &bÉlesség&7 varázslatot ötvöz a'
   - '&bTartósság&7 varázslattal a kitartó harchoz.'
-  name: '&rAcél Kard'
+  name: 'Acél Kard'
   type:
   - '&7&oFegyver'
 TIN_BOOTS:
@@ -397,7 +397,7 @@ TIN_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓn Csizma'
+  name: 'Ón Csizma'
   type:
   - '&7&oPáncél'
 TIN_CHESTPLATE:
@@ -405,7 +405,7 @@ TIN_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓn Mellvért'
+  name: 'Ón Mellvért'
   type:
   - '&7&oPáncél'
 TIN_HELMET:
@@ -413,7 +413,7 @@ TIN_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓn Sisak'
+  name: 'Ón Sisak'
   type:
   - '&7&oPáncél'
 TIN_LEGGINGS:
@@ -421,7 +421,7 @@ TIN_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fÓn Lábvért'
+  name: 'Ón Lábvért'
   type:
   - '&7&oPáncél'
 TIN_SWORD:
@@ -429,7 +429,7 @@ TIN_SWORD:
   - '&7Könnyű, olcsó kard, egyszerű fémből kovácsolva.'
   - '&7Előre elvarázsolva &bÉlesség&7 varázslattal, kis'
   - '&7de megbízható sebzésnöveléssel a vanilla pengékhez képest.'
-  name: '&rÓn Kard'
+  name: 'Ón Kard'
   type:
   - '&7&oFegyver'
 ZINC_BOOTS:
@@ -437,7 +437,7 @@ ZINC_BOOTS:
   - '&7Egy ExtraGear páncélkészlet csizmája.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fCink Csizma'
+  name: 'Cink Csizma'
   type:
   - '&7&oPáncél'
 ZINC_CHESTPLATE:
@@ -445,7 +445,7 @@ ZINC_CHESTPLATE:
   - '&7Egy ExtraGear páncélkészlet mellvértje - a'
   - '&7készlet leginkább védő darabja.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fCink Mellvért'
+  name: 'Cink Mellvért'
   type:
   - '&7&oPáncél'
 ZINC_HELMET:
@@ -453,7 +453,7 @@ ZINC_HELMET:
   - '&7Egy ExtraGear páncélkészlet sisakja.'
   - '&7Beépített védelmi varázslatokkal érkezik.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fCink Sisak'
+  name: 'Cink Sisak'
   type:
   - '&7&oPáncél'
 ZINC_LEGGINGS:
@@ -461,7 +461,7 @@ ZINC_LEGGINGS:
   - '&7Egy ExtraGear páncélkészlet lábvértje.'
   - '&7Beépített védelmi varázslatokkal érkeznek.'
   - '&7A &bPáncélkohóban&7 barkácsolható a fémrudaiból.'
-  name: '&fCink Lábvért'
+  name: 'Cink Lábvért'
   type:
   - '&7&oPáncél'
 ZINC_SWORD:
@@ -469,6 +469,6 @@ ZINC_SWORD:
   - '&7Könnyű, olcsó kard, egyszerű fémből kovácsolva.'
   - '&7Előre elvarázsolva &bÉlesség&7 varázslattal, kis'
   - '&7de megbízható sebzésnöveléssel a vanilla pengékhez képest.'
-  name: '&rCink Kard'
+  name: 'Cink Kard'
   type:
   - '&7&oFegyver'

@@ -3,7 +3,7 @@ ALUMINUM_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fAluminium Stiefel'
+  name: 'Aluminium Stiefel'
   type:
   - '&7&oRüstung'
 ALUMINUM_BRASS_SWORD:
@@ -11,7 +11,7 @@ ALUMINUM_BRASS_SWORD:
   - '&7Eine Klinge auf Aluminiumbasis zur Schädlingsbekämpfung.'
   - '&7Trägt &bFluch der Gliederfüßer&7 und zerlegt'
   - '&7Spinnen, Silberfische und anderes Getier mit Leichtigkeit.'
-  name: '&rAluminiummessing Schwert'
+  name: 'Aluminiummessing Schwert'
   type:
   - '&7&oWaffe'
 ALUMINUM_BRONZE_SWORD:
@@ -19,7 +19,7 @@ ALUMINUM_BRONZE_SWORD:
   - '&7Eine Klinge auf Aluminiumbasis zur Schädlingsbekämpfung.'
   - '&7Trägt &bFluch der Gliederfüßer&7 und zerlegt'
   - '&7Spinnen, Silberfische und anderes Getier mit Leichtigkeit.'
-  name: '&rAluminiumbronze Schwert'
+  name: 'Aluminiumbronze Schwert'
   type:
   - '&7&oWaffe'
 ALUMINUM_CHESTPLATE:
@@ -27,7 +27,7 @@ ALUMINUM_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fAluminium Brustpanzer'
+  name: 'Aluminium Brustpanzer'
   type:
   - '&7&oRüstung'
 ALUMINUM_HELMET:
@@ -35,7 +35,7 @@ ALUMINUM_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fAluminium Helm'
+  name: 'Aluminium Helm'
   type:
   - '&7&oRüstung'
 ALUMINUM_LEGGINGS:
@@ -43,7 +43,7 @@ ALUMINUM_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fAluminium Beinschutz'
+  name: 'Aluminium Beinschutz'
   type:
   - '&7&oRüstung'
 ALUMINUM_SWORD:
@@ -51,7 +51,7 @@ ALUMINUM_SWORD:
   - '&7Eine Klinge auf Aluminiumbasis zur Schädlingsbekämpfung.'
   - '&7Trägt &bFluch der Gliederfüßer&7 und zerlegt'
   - '&7Spinnen, Silberfische und anderes Getier mit Leichtigkeit.'
-  name: '&rAluminium Schwert'
+  name: 'Aluminium Schwert'
   type:
   - '&7&oWaffe'
 BILLON_SWORD:
@@ -59,7 +59,7 @@ BILLON_SWORD:
   - '&7Ein solides Legierungsschwert der mittleren Stufe.'
   - '&7Vorverzaubert mit &bSchärfe&7 und &bHaltbarkeit&7,'
   - '&7vereint zusätzlichen Schaden mit längerer Lebensdauer.'
-  name: '&rBillon Schwert'
+  name: 'Billon Schwert'
   type:
   - '&7&oWaffe'
 BRASS_SWORD:
@@ -68,7 +68,7 @@ BRASS_SWORD:
   - '&7Trägt mächtigen &bBann&7 sowie &bHaltbarkeit&7,'
   - '&7verheerend gegen Zombies, Skelette und Wither-'
   - '&7Skelette im Nether.'
-  name: '&rMessing Schwert'
+  name: 'Messing Schwert'
   type:
   - '&7&oWaffe'
 BRONZE_SWORD:
@@ -76,7 +76,7 @@ BRONZE_SWORD:
   - '&7Ein solides Legierungsschwert der mittleren Stufe.'
   - '&7Vorverzaubert mit &bSchärfe&7 und &bHaltbarkeit&7,'
   - '&7vereint zusätzlichen Schaden mit längerer Lebensdauer.'
-  name: '&rBronze Schwert'
+  name: 'Bronze Schwert'
   type:
   - '&7&oWaffe'
 COBALT_BOOTS:
@@ -84,7 +84,7 @@ COBALT_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKobalt Stiefel'
+  name: 'Kobalt Stiefel'
   type:
   - '&7&oRüstung'
 COBALT_CHESTPLATE:
@@ -92,7 +92,7 @@ COBALT_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKobalt Brustpanzer'
+  name: 'Kobalt Brustpanzer'
   type:
   - '&7&oRüstung'
 COBALT_HELMET:
@@ -100,7 +100,7 @@ COBALT_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKobalt Helm'
+  name: 'Kobalt Helm'
   type:
   - '&7&oRüstung'
 COBALT_LEGGINGS:
@@ -108,7 +108,7 @@ COBALT_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKobalt Beinschutz'
+  name: 'Kobalt Beinschutz'
   type:
   - '&7&oRüstung'
 COBALT_SWORD:
@@ -116,7 +116,7 @@ COBALT_SWORD:
   - '&7Eine Spitzenklinge aus einer gehärteten Legierung.'
   - '&7Trägt mit die stärkste &bSchärfe&7 und'
   - '&bHaltbarkeit&7 in ExtraGear - ein Kraftpaket fürs späte Spiel.'
-  name: '&rKobalt Schwert'
+  name: 'Kobalt Schwert'
   type:
   - '&7&oWaffe'
 COPPER_BOOTS:
@@ -124,7 +124,7 @@ COPPER_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKupfer Stiefel'
+  name: 'Kupfer Stiefel'
   type:
   - '&7&oRüstung'
 COPPER_CHESTPLATE:
@@ -132,7 +132,7 @@ COPPER_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKupfer Brustpanzer'
+  name: 'Kupfer Brustpanzer'
   type:
   - '&7&oRüstung'
 COPPER_HELMET:
@@ -140,7 +140,7 @@ COPPER_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKupfer Helm'
+  name: 'Kupfer Helm'
   type:
   - '&7&oRüstung'
 COPPER_LEGGINGS:
@@ -148,7 +148,7 @@ COPPER_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fKupfer Beinschutz'
+  name: 'Kupfer Beinschutz'
   type:
   - '&7&oRüstung'
 COPPER_SWORD:
@@ -156,7 +156,7 @@ COPPER_SWORD:
   - '&7Eine Einsteigerklinge, geschmiedet aus Kupfer.'
   - '&7Trägt &bBann II&7, praktisch zum Beseitigen'
   - '&7früher Untoter wie Zombies und Skelette.'
-  name: '&rKupfer Schwert'
+  name: 'Kupfer Schwert'
   type:
   - '&7&oWaffe'
 CORINTHIAN_BRONZE_SWORD:
@@ -164,7 +164,7 @@ CORINTHIAN_BRONZE_SWORD:
   - '&7Eine schwere, zuverlässige Legierungsklinge.'
   - '&7Verbindet eine starke &bSchärfe&7-Verzauberung mit'
   - '&bHaltbarkeit&7 für den Dauereinsatz im Kampf.'
-  name: '&rKorinthische Bronze Schwert'
+  name: 'Korinthische Bronze Schwert'
   type:
   - '&7&oWaffe'
 DAMASCUS_STEEL_SWORD:
@@ -172,7 +172,7 @@ DAMASCUS_STEEL_SWORD:
   - '&7Eine gemusterte Klinge, gefaltet aus Damaszenerstahl.'
   - '&7Trägt starke &bSchärfe&7 und &bHaltbarkeit&7,'
   - '&7eine echte Waffe der oberen Stufen.'
-  name: '&rDamaszener-Stahl Schwert'
+  name: 'Damaszener-Stahl Schwert'
   type:
   - '&7&oWaffe'
 DURALUMIN_SWORD:
@@ -180,7 +180,7 @@ DURALUMIN_SWORD:
   - '&7Ein solides Legierungsschwert der mittleren Stufe.'
   - '&7Vorverzaubert mit &bSchärfe&7 und &bHaltbarkeit&7,'
   - '&7vereint zusätzlichen Schaden mit längerer Lebensdauer.'
-  name: '&rDuraluminium Schwert'
+  name: 'Duraluminium Schwert'
   type:
   - '&7&oWaffe'
 FERROSILICON_SWORD:
@@ -189,7 +189,7 @@ FERROSILICON_SWORD:
   - '&7Trägt mächtigen &bBann&7 sowie &bHaltbarkeit&7,'
   - '&7verheerend gegen Zombies, Skelette und Wither-'
   - '&7Skelette im Nether.'
-  name: '&rFerrosilizium Schwert'
+  name: 'Ferrosilizium Schwert'
   type:
   - '&7&oWaffe'
 GILDED_IRON_SWORD:
@@ -197,7 +197,7 @@ GILDED_IRON_SWORD:
   - '&7Eine vergoldete Klinge mit kunstvoller goldener Schneide.'
   - '&7Trägt starken &bFluch der Gliederfüßer&7 und hohe'
   - '&bHaltbarkeit&7 und hält weit länger, als Gold sollte.'
-  name: '&rVergoldetes Eisen Schwert'
+  name: 'Vergoldetes Eisen Schwert'
   type:
   - '&7&oWaffe'
 HARDENED_SWORD:
@@ -205,7 +205,7 @@ HARDENED_SWORD:
   - '&7Eine Spitzenklinge aus einer gehärteten Legierung.'
   - '&7Trägt mit die stärkste &bSchärfe&7 und'
   - '&bHaltbarkeit&7 in ExtraGear - ein Kraftpaket fürs späte Spiel.'
-  name: '&rGehärtetes Metall Schwert'
+  name: 'Gehärtetes Metall Schwert'
   type:
   - '&7&oWaffe'
 LEAD_BOOTS:
@@ -213,7 +213,7 @@ LEAD_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fBlei Stiefel'
+  name: 'Blei Stiefel'
   type:
   - '&7&oRüstung'
 LEAD_CHESTPLATE:
@@ -221,7 +221,7 @@ LEAD_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fBlei Brustpanzer'
+  name: 'Blei Brustpanzer'
   type:
   - '&7&oRüstung'
 LEAD_HELMET:
@@ -229,7 +229,7 @@ LEAD_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fBlei Helm'
+  name: 'Blei Helm'
   type:
   - '&7&oRüstung'
 LEAD_LEGGINGS:
@@ -237,7 +237,7 @@ LEAD_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fBlei Beinschutz'
+  name: 'Blei Beinschutz'
   type:
   - '&7&oRüstung'
 LEAD_SWORD:
@@ -245,7 +245,7 @@ LEAD_SWORD:
   - '&7Eine schwere, zuverlässige Legierungsklinge.'
   - '&7Verbindet eine starke &bSchärfe&7-Verzauberung mit'
   - '&bHaltbarkeit&7 für den Dauereinsatz im Kampf.'
-  name: '&rBlei Schwert'
+  name: 'Blei Schwert'
   type:
   - '&7&oWaffe'
 MAGNESIUM_BOOTS:
@@ -253,7 +253,7 @@ MAGNESIUM_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fMagnesium Stiefel'
+  name: 'Magnesium Stiefel'
   type:
   - '&7&oRüstung'
 MAGNESIUM_CHESTPLATE:
@@ -261,7 +261,7 @@ MAGNESIUM_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fMagnesium Brustpanzer'
+  name: 'Magnesium Brustpanzer'
   type:
   - '&7&oRüstung'
 MAGNESIUM_HELMET:
@@ -269,7 +269,7 @@ MAGNESIUM_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fMagnesium Helm'
+  name: 'Magnesium Helm'
   type:
   - '&7&oRüstung'
 MAGNESIUM_LEGGINGS:
@@ -277,7 +277,7 @@ MAGNESIUM_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fMagnesium Beinschutz'
+  name: 'Magnesium Beinschutz'
   type:
   - '&7&oRüstung'
 MAGNESIUM_SWORD:
@@ -285,7 +285,7 @@ MAGNESIUM_SWORD:
   - '&7Ein solides Legierungsschwert der mittleren Stufe.'
   - '&7Vorverzaubert mit &bSchärfe&7 und &bHaltbarkeit&7,'
   - '&7vereint zusätzlichen Schaden mit längerer Lebensdauer.'
-  name: '&rMagnesium Schwert'
+  name: 'Magnesium Schwert'
   type:
   - '&7&oWaffe'
 NICKEL_SWORD:
@@ -293,7 +293,7 @@ NICKEL_SWORD:
   - '&7Eine schwere, zuverlässige Legierungsklinge.'
   - '&7Verbindet eine starke &bSchärfe&7-Verzauberung mit'
   - '&bHaltbarkeit&7 für den Dauereinsatz im Kampf.'
-  name: '&rNickel Schwert'
+  name: 'Nickel Schwert'
   type:
   - '&7&oWaffe'
 REINFORCED_SWORD:
@@ -301,7 +301,7 @@ REINFORCED_SWORD:
   - '&7Eine Spitzenklinge aus einer gehärteten Legierung.'
   - '&7Trägt mit die stärkste &bSchärfe&7 und'
   - '&bHaltbarkeit&7 in ExtraGear - ein Kraftpaket fürs späte Spiel.'
-  name: '&rVerstärkt Schwert'
+  name: 'Verstärkt Schwert'
   type:
   - '&7&oWaffe'
 SILVER_BOOTS:
@@ -309,7 +309,7 @@ SILVER_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fSilber Stiefel'
+  name: 'Silber Stiefel'
   type:
   - '&7&oRüstung'
 SILVER_CHESTPLATE:
@@ -317,7 +317,7 @@ SILVER_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fSilber Brustpanzer'
+  name: 'Silber Brustpanzer'
   type:
   - '&7&oRüstung'
 SILVER_HELMET:
@@ -325,7 +325,7 @@ SILVER_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fSilber Helm'
+  name: 'Silber Helm'
   type:
   - '&7&oRüstung'
 SILVER_LEGGINGS:
@@ -333,7 +333,7 @@ SILVER_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fSilber Beinschutz'
+  name: 'Silber Beinschutz'
   type:
   - '&7&oRüstung'
 SILVER_SWORD:
@@ -341,7 +341,7 @@ SILVER_SWORD:
   - '&7Ein leichtes, günstiges Schwert aus einem unedlen Metall.'
   - '&7Kommt vorverzaubert mit &bSchärfe&7 für einen kleinen,'
   - '&7aber verlässlichen Schadensbonus gegenüber einer Vanilla-Klinge.'
-  name: '&rSilber Schwert'
+  name: 'Silber Schwert'
   type:
   - '&7&oWaffe'
 SOLDER_SWORD:
@@ -349,7 +349,7 @@ SOLDER_SWORD:
   - '&7Ein solides Legierungsschwert der mittleren Stufe.'
   - '&7Vorverzaubert mit &bSchärfe&7 und &bHaltbarkeit&7,'
   - '&7vereint zusätzlichen Schaden mit längerer Lebensdauer.'
-  name: '&rLötzinn Schwert'
+  name: 'Lötzinn Schwert'
   type:
   - '&7&oWaffe'
 STEEL_BOOTS:
@@ -357,7 +357,7 @@ STEEL_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fStahl Stiefel'
+  name: 'Stahl Stiefel'
   type:
   - '&7&oRüstung'
 STEEL_CHESTPLATE:
@@ -365,7 +365,7 @@ STEEL_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fStahl Brustpanzer'
+  name: 'Stahl Brustpanzer'
   type:
   - '&7&oRüstung'
 STEEL_HELMET:
@@ -373,7 +373,7 @@ STEEL_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fStahl Helm'
+  name: 'Stahl Helm'
   type:
   - '&7&oRüstung'
 STEEL_LEGGINGS:
@@ -381,7 +381,7 @@ STEEL_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fStahl Beinschutz'
+  name: 'Stahl Beinschutz'
   type:
   - '&7&oRüstung'
 STEEL_SWORD:
@@ -389,7 +389,7 @@ STEEL_SWORD:
   - '&7Eine schwere, zuverlässige Legierungsklinge.'
   - '&7Verbindet eine starke &bSchärfe&7-Verzauberung mit'
   - '&bHaltbarkeit&7 für den Dauereinsatz im Kampf.'
-  name: '&rStahl Schwert'
+  name: 'Stahl Schwert'
   type:
   - '&7&oWaffe'
 TIN_BOOTS:
@@ -397,7 +397,7 @@ TIN_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZinn Stiefel'
+  name: 'Zinn Stiefel'
   type:
   - '&7&oRüstung'
 TIN_CHESTPLATE:
@@ -405,7 +405,7 @@ TIN_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZinn Brustpanzer'
+  name: 'Zinn Brustpanzer'
   type:
   - '&7&oRüstung'
 TIN_HELMET:
@@ -413,7 +413,7 @@ TIN_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZinn Helm'
+  name: 'Zinn Helm'
   type:
   - '&7&oRüstung'
 TIN_LEGGINGS:
@@ -421,7 +421,7 @@ TIN_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZinn Beinschutz'
+  name: 'Zinn Beinschutz'
   type:
   - '&7&oRüstung'
 TIN_SWORD:
@@ -429,7 +429,7 @@ TIN_SWORD:
   - '&7Ein leichtes, günstiges Schwert aus einem unedlen Metall.'
   - '&7Kommt vorverzaubert mit &bSchärfe&7 für einen kleinen,'
   - '&7aber verlässlichen Schadensbonus gegenüber einer Vanilla-Klinge.'
-  name: '&rZinn Schwert'
+  name: 'Zinn Schwert'
   type:
   - '&7&oWaffe'
 ZINC_BOOTS:
@@ -437,7 +437,7 @@ ZINC_BOOTS:
   - '&7Die Stiefel eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZink Stiefel'
+  name: 'Zink Stiefel'
   type:
   - '&7&oRüstung'
 ZINC_CHESTPLATE:
@@ -445,7 +445,7 @@ ZINC_CHESTPLATE:
   - '&7Der Brustpanzer eines ExtraGear-Rüstungssets - das'
   - '&7schützendste Teil des Sets.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZink Brustpanzer'
+  name: 'Zink Brustpanzer'
   type:
   - '&7&oRüstung'
 ZINC_HELMET:
@@ -453,7 +453,7 @@ ZINC_HELMET:
   - '&7Der Helm eines ExtraGear-Rüstungssets.'
   - '&7Kommt mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZink Helm'
+  name: 'Zink Helm'
   type:
   - '&7&oRüstung'
 ZINC_LEGGINGS:
@@ -461,7 +461,7 @@ ZINC_LEGGINGS:
   - '&7Die Hose eines ExtraGear-Rüstungssets.'
   - '&7Kommen mit eingebauten Schutzverzauberungen.'
   - '&7Hergestellt in der &bRüstungsschmiede&7 aus ihren Metallbarren.'
-  name: '&fZink Beinschutz'
+  name: 'Zink Beinschutz'
   type:
   - '&7&oRüstung'
 ZINC_SWORD:
@@ -469,6 +469,6 @@ ZINC_SWORD:
   - '&7Ein leichtes, günstiges Schwert aus einem unedlen Metall.'
   - '&7Kommt vorverzaubert mit &bSchärfe&7 für einen kleinen,'
   - '&7aber verlässlichen Schadensbonus gegenüber einer Vanilla-Klinge.'
-  name: '&rZink Schwert'
+  name: 'Zink Schwert'
   type:
   - '&7&oWaffe'

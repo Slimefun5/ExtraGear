@@ -3,7 +3,7 @@ ALUMINUM_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Nhôm'
+  name: 'Giày Nhôm'
   type:
   - '&7&oGiáp'
 ALUMINUM_BRASS_SWORD:
@@ -11,7 +11,7 @@ ALUMINUM_BRASS_SWORD:
   - '&7Một lưỡi dao gốc nhôm được làm để diệt sâu bọ.'
   - '&7Mang &bThảm họa Chân đốt&7, xé toạc'
   - '&7nhện, cá bạc và các loài bọ khác một cách dễ dàng.'
-  name: '&rKiếm Đồng thau Nhôm'
+  name: 'Kiếm Đồng thau Nhôm'
   type:
   - '&7&oVũ Khí'
 ALUMINUM_BRONZE_SWORD:
@@ -19,7 +19,7 @@ ALUMINUM_BRONZE_SWORD:
   - '&7Một lưỡi dao gốc nhôm được làm để diệt sâu bọ.'
   - '&7Mang &bThảm họa Chân đốt&7, xé toạc'
   - '&7nhện, cá bạc và các loài bọ khác một cách dễ dàng.'
-  name: '&rKiếm Đồng thiếc Nhôm'
+  name: 'Kiếm Đồng thiếc Nhôm'
   type:
   - '&7&oVũ Khí'
 ALUMINUM_CHESTPLATE:
@@ -27,7 +27,7 @@ ALUMINUM_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Nhôm'
+  name: 'Áo giáp Nhôm'
   type:
   - '&7&oGiáp'
 ALUMINUM_HELMET:
@@ -35,7 +35,7 @@ ALUMINUM_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Nhôm'
+  name: 'Mũ Nhôm'
   type:
   - '&7&oGiáp'
 ALUMINUM_LEGGINGS:
@@ -43,7 +43,7 @@ ALUMINUM_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Nhôm'
+  name: 'Quần giáp Nhôm'
   type:
   - '&7&oGiáp'
 ALUMINUM_SWORD:
@@ -51,7 +51,7 @@ ALUMINUM_SWORD:
   - '&7Một lưỡi dao gốc nhôm được làm để diệt sâu bọ.'
   - '&7Mang &bThảm họa Chân đốt&7, xé toạc'
   - '&7nhện, cá bạc và các loài bọ khác một cách dễ dàng.'
-  name: '&rKiếm Nhôm'
+  name: 'Kiếm Nhôm'
   type:
   - '&7&oVũ Khí'
 BILLON_SWORD:
@@ -59,7 +59,7 @@ BILLON_SWORD:
   - '&7Một thanh kiếm hợp kim bậc trung vững chắc.'
   - '&7Phù phép sẵn &bSắc bén&7 và &bBền bỉ&7,'
   - '&7cân bằng giữa sát thương thêm và tuổi thọ dài hơn.'
-  name: '&rKiếm Billon'
+  name: 'Kiếm Billon'
   type:
   - '&7&oVũ Khí'
 BRASS_SWORD:
@@ -68,7 +68,7 @@ BRASS_SWORD:
   - '&7Mang &bTrừng phạt&7 mạnh mẽ cùng &bBền bỉ&7,'
   - '&7tàn phá thây ma, xương khô và xương khô'
   - '&7wither ở Nether.'
-  name: '&rKiếm Đồng thau'
+  name: 'Kiếm Đồng thau'
   type:
   - '&7&oVũ Khí'
 BRONZE_SWORD:
@@ -76,7 +76,7 @@ BRONZE_SWORD:
   - '&7Một thanh kiếm hợp kim bậc trung vững chắc.'
   - '&7Phù phép sẵn &bSắc bén&7 và &bBền bỉ&7,'
   - '&7cân bằng giữa sát thương thêm và tuổi thọ dài hơn.'
-  name: '&rKiếm Đồng thiếc'
+  name: 'Kiếm Đồng thiếc'
   type:
   - '&7&oVũ Khí'
 COBALT_BOOTS:
@@ -84,7 +84,7 @@ COBALT_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Coban'
+  name: 'Giày Coban'
   type:
   - '&7&oGiáp'
 COBALT_CHESTPLATE:
@@ -92,7 +92,7 @@ COBALT_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Coban'
+  name: 'Áo giáp Coban'
   type:
   - '&7&oGiáp'
 COBALT_HELMET:
@@ -100,7 +100,7 @@ COBALT_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Coban'
+  name: 'Mũ Coban'
   type:
   - '&7&oGiáp'
 COBALT_LEGGINGS:
@@ -108,7 +108,7 @@ COBALT_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Coban'
+  name: 'Quần giáp Coban'
   type:
   - '&7&oGiáp'
 COBALT_SWORD:
@@ -116,7 +116,7 @@ COBALT_SWORD:
   - '&7Một lưỡi dao bậc cao nhất được rèn từ hợp kim tôi cứng.'
   - '&7Mang một trong những &bSắc bén&7 mạnh nhất và'
   - '&bBền bỉ&7 trong ExtraGear - một sức mạnh cuối game.'
-  name: '&rKiếm Coban'
+  name: 'Kiếm Coban'
   type:
   - '&7&oVũ Khí'
 COPPER_BOOTS:
@@ -124,7 +124,7 @@ COPPER_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Đồng'
+  name: 'Giày Đồng'
   type:
   - '&7&oGiáp'
 COPPER_CHESTPLATE:
@@ -132,7 +132,7 @@ COPPER_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Đồng'
+  name: 'Áo giáp Đồng'
   type:
   - '&7&oGiáp'
 COPPER_HELMET:
@@ -140,7 +140,7 @@ COPPER_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Đồng'
+  name: 'Mũ Đồng'
   type:
   - '&7&oGiáp'
 COPPER_LEGGINGS:
@@ -148,7 +148,7 @@ COPPER_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Đồng'
+  name: 'Quần giáp Đồng'
   type:
   - '&7&oGiáp'
 COPPER_SWORD:
@@ -156,7 +156,7 @@ COPPER_SWORD:
   - '&7Một lưỡi dao sơ cấp được rèn từ Đồng.'
   - '&7Mang &bTrừng phạt II&7, rất tiện để dọn sạch'
   - '&7xác sống đầu game như thây ma và xương khô.'
-  name: '&rKiếm Đồng'
+  name: 'Kiếm Đồng'
   type:
   - '&7&oVũ Khí'
 CORINTHIAN_BRONZE_SWORD:
@@ -164,7 +164,7 @@ CORINTHIAN_BRONZE_SWORD:
   - '&7Một lưỡi dao hợp kim nặng và đáng tin cậy.'
   - '&7Kết hợp phù phép &bSắc bén&7 mạnh mẽ với'
   - '&bBền bỉ&7 để chiến đấu lâu dài.'
-  name: '&rKiếm Đồng thiếc Corinth'
+  name: 'Kiếm Đồng thiếc Corinth'
   type:
   - '&7&oVũ Khí'
 DAMASCUS_STEEL_SWORD:
@@ -172,7 +172,7 @@ DAMASCUS_STEEL_SWORD:
   - '&7Một lưỡi dao vân hoa được gấp từ Thép Damascus.'
   - '&7Mang &bSắc bén&7 và &bBền bỉ&7 hạng nặng,'
   - '&7một vũ khí bậc cao thực thụ.'
-  name: '&rKiếm Thép Damascus'
+  name: 'Kiếm Thép Damascus'
   type:
   - '&7&oVũ Khí'
 DURALUMIN_SWORD:
@@ -180,7 +180,7 @@ DURALUMIN_SWORD:
   - '&7Một thanh kiếm hợp kim bậc trung vững chắc.'
   - '&7Phù phép sẵn &bSắc bén&7 và &bBền bỉ&7,'
   - '&7cân bằng giữa sát thương thêm và tuổi thọ dài hơn.'
-  name: '&rKiếm Duralumin'
+  name: 'Kiếm Duralumin'
   type:
   - '&7&oVũ Khí'
 FERROSILICON_SWORD:
@@ -189,7 +189,7 @@ FERROSILICON_SWORD:
   - '&7Mang &bTrừng phạt&7 mạnh mẽ cùng &bBền bỉ&7,'
   - '&7tàn phá thây ma, xương khô và xương khô'
   - '&7wither ở Nether.'
-  name: '&rKiếm Fero Silic'
+  name: 'Kiếm Fero Silic'
   type:
   - '&7&oVũ Khí'
 GILDED_IRON_SWORD:
@@ -197,7 +197,7 @@ GILDED_IRON_SWORD:
   - '&7Một lưỡi dao mạ vàng với rìa vàng cầu kỳ.'
   - '&7Mang &bThảm họa Chân đốt&7 mạnh mẽ và chỉ số'
   - '&bBền bỉ&7 cao, bền lâu hơn vàng rất nhiều.'
-  name: '&rKiếm Sắt Mạ vàng'
+  name: 'Kiếm Sắt Mạ vàng'
   type:
   - '&7&oVũ Khí'
 HARDENED_SWORD:
@@ -205,7 +205,7 @@ HARDENED_SWORD:
   - '&7Một lưỡi dao bậc cao nhất được rèn từ hợp kim tôi cứng.'
   - '&7Mang một trong những &bSắc bén&7 mạnh nhất và'
   - '&bBền bỉ&7 trong ExtraGear - một sức mạnh cuối game.'
-  name: '&rKiếm Tôi cứng'
+  name: 'Kiếm Tôi cứng'
   type:
   - '&7&oVũ Khí'
 LEAD_BOOTS:
@@ -213,7 +213,7 @@ LEAD_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Chì'
+  name: 'Giày Chì'
   type:
   - '&7&oGiáp'
 LEAD_CHESTPLATE:
@@ -221,7 +221,7 @@ LEAD_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Chì'
+  name: 'Áo giáp Chì'
   type:
   - '&7&oGiáp'
 LEAD_HELMET:
@@ -229,7 +229,7 @@ LEAD_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Chì'
+  name: 'Mũ Chì'
   type:
   - '&7&oGiáp'
 LEAD_LEGGINGS:
@@ -237,7 +237,7 @@ LEAD_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Chì'
+  name: 'Quần giáp Chì'
   type:
   - '&7&oGiáp'
 LEAD_SWORD:
@@ -245,7 +245,7 @@ LEAD_SWORD:
   - '&7Một lưỡi dao hợp kim nặng và đáng tin cậy.'
   - '&7Kết hợp phù phép &bSắc bén&7 mạnh mẽ với'
   - '&bBền bỉ&7 để chiến đấu lâu dài.'
-  name: '&rKiếm Chì'
+  name: 'Kiếm Chì'
   type:
   - '&7&oVũ Khí'
 MAGNESIUM_BOOTS:
@@ -253,7 +253,7 @@ MAGNESIUM_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Magie'
+  name: 'Giày Magie'
   type:
   - '&7&oGiáp'
 MAGNESIUM_CHESTPLATE:
@@ -261,7 +261,7 @@ MAGNESIUM_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Magie'
+  name: 'Áo giáp Magie'
   type:
   - '&7&oGiáp'
 MAGNESIUM_HELMET:
@@ -269,7 +269,7 @@ MAGNESIUM_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Magie'
+  name: 'Mũ Magie'
   type:
   - '&7&oGiáp'
 MAGNESIUM_LEGGINGS:
@@ -277,7 +277,7 @@ MAGNESIUM_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Magie'
+  name: 'Quần giáp Magie'
   type:
   - '&7&oGiáp'
 MAGNESIUM_SWORD:
@@ -285,7 +285,7 @@ MAGNESIUM_SWORD:
   - '&7Một thanh kiếm hợp kim bậc trung vững chắc.'
   - '&7Phù phép sẵn &bSắc bén&7 và &bBền bỉ&7,'
   - '&7cân bằng giữa sát thương thêm và tuổi thọ dài hơn.'
-  name: '&rKiếm Magie'
+  name: 'Kiếm Magie'
   type:
   - '&7&oVũ Khí'
 NICKEL_SWORD:
@@ -293,7 +293,7 @@ NICKEL_SWORD:
   - '&7Một lưỡi dao hợp kim nặng và đáng tin cậy.'
   - '&7Kết hợp phù phép &bSắc bén&7 mạnh mẽ với'
   - '&bBền bỉ&7 để chiến đấu lâu dài.'
-  name: '&rKiếm Niken'
+  name: 'Kiếm Niken'
   type:
   - '&7&oVũ Khí'
 REINFORCED_SWORD:
@@ -301,7 +301,7 @@ REINFORCED_SWORD:
   - '&7Một lưỡi dao bậc cao nhất được rèn từ hợp kim tôi cứng.'
   - '&7Mang một trong những &bSắc bén&7 mạnh nhất và'
   - '&bBền bỉ&7 trong ExtraGear - một sức mạnh cuối game.'
-  name: '&rKiếm Gia cố'
+  name: 'Kiếm Gia cố'
   type:
   - '&7&oVũ Khí'
 SILVER_BOOTS:
@@ -309,7 +309,7 @@ SILVER_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Bạc'
+  name: 'Giày Bạc'
   type:
   - '&7&oGiáp'
 SILVER_CHESTPLATE:
@@ -317,7 +317,7 @@ SILVER_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Bạc'
+  name: 'Áo giáp Bạc'
   type:
   - '&7&oGiáp'
 SILVER_HELMET:
@@ -325,7 +325,7 @@ SILVER_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Bạc'
+  name: 'Mũ Bạc'
   type:
   - '&7&oGiáp'
 SILVER_LEGGINGS:
@@ -333,7 +333,7 @@ SILVER_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Bạc'
+  name: 'Quần giáp Bạc'
   type:
   - '&7&oGiáp'
 SILVER_SWORD:
@@ -341,7 +341,7 @@ SILVER_SWORD:
   - '&7Một thanh kiếm nhẹ, rẻ được rèn từ kim loại thường.'
   - '&7Đi kèm phù phép &bSắc bén&7 sẵn có để tăng'
   - '&7sát thương nhỏ nhưng đáng tin cậy so với lưỡi dao nguyên bản.'
-  name: '&rKiếm Bạc'
+  name: 'Kiếm Bạc'
   type:
   - '&7&oVũ Khí'
 SOLDER_SWORD:
@@ -349,7 +349,7 @@ SOLDER_SWORD:
   - '&7Một thanh kiếm hợp kim bậc trung vững chắc.'
   - '&7Phù phép sẵn &bSắc bén&7 và &bBền bỉ&7,'
   - '&7cân bằng giữa sát thương thêm và tuổi thọ dài hơn.'
-  name: '&rKiếm Thiếc hàn'
+  name: 'Kiếm Thiếc hàn'
   type:
   - '&7&oVũ Khí'
 STEEL_BOOTS:
@@ -357,7 +357,7 @@ STEEL_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Thép'
+  name: 'Giày Thép'
   type:
   - '&7&oGiáp'
 STEEL_CHESTPLATE:
@@ -365,7 +365,7 @@ STEEL_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Thép'
+  name: 'Áo giáp Thép'
   type:
   - '&7&oGiáp'
 STEEL_HELMET:
@@ -373,7 +373,7 @@ STEEL_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Thép'
+  name: 'Mũ Thép'
   type:
   - '&7&oGiáp'
 STEEL_LEGGINGS:
@@ -381,7 +381,7 @@ STEEL_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Thép'
+  name: 'Quần giáp Thép'
   type:
   - '&7&oGiáp'
 STEEL_SWORD:
@@ -389,7 +389,7 @@ STEEL_SWORD:
   - '&7Một lưỡi dao hợp kim nặng và đáng tin cậy.'
   - '&7Kết hợp phù phép &bSắc bén&7 mạnh mẽ với'
   - '&bBền bỉ&7 để chiến đấu lâu dài.'
-  name: '&rKiếm Thép'
+  name: 'Kiếm Thép'
   type:
   - '&7&oVũ Khí'
 TIN_BOOTS:
@@ -397,7 +397,7 @@ TIN_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Thiếc'
+  name: 'Giày Thiếc'
   type:
   - '&7&oGiáp'
 TIN_CHESTPLATE:
@@ -405,7 +405,7 @@ TIN_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Thiếc'
+  name: 'Áo giáp Thiếc'
   type:
   - '&7&oGiáp'
 TIN_HELMET:
@@ -413,7 +413,7 @@ TIN_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Thiếc'
+  name: 'Mũ Thiếc'
   type:
   - '&7&oGiáp'
 TIN_LEGGINGS:
@@ -421,7 +421,7 @@ TIN_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Thiếc'
+  name: 'Quần giáp Thiếc'
   type:
   - '&7&oGiáp'
 TIN_SWORD:
@@ -429,7 +429,7 @@ TIN_SWORD:
   - '&7Một thanh kiếm nhẹ, rẻ được rèn từ kim loại thường.'
   - '&7Đi kèm phù phép &bSắc bén&7 sẵn có để tăng'
   - '&7sát thương nhỏ nhưng đáng tin cậy so với lưỡi dao nguyên bản.'
-  name: '&rKiếm Thiếc'
+  name: 'Kiếm Thiếc'
   type:
   - '&7&oVũ Khí'
 ZINC_BOOTS:
@@ -437,7 +437,7 @@ ZINC_BOOTS:
   - '&7Giày của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fGiày Kẽm'
+  name: 'Giày Kẽm'
   type:
   - '&7&oGiáp'
 ZINC_CHESTPLATE:
@@ -445,7 +445,7 @@ ZINC_CHESTPLATE:
   - '&7Áo giáp của một bộ giáp ExtraGear - món'
   - '&7bảo vệ nhất của bộ.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fÁo giáp Kẽm'
+  name: 'Áo giáp Kẽm'
   type:
   - '&7&oGiáp'
 ZINC_HELMET:
@@ -453,7 +453,7 @@ ZINC_HELMET:
   - '&7Mũ của một bộ giáp ExtraGear.'
   - '&7Đi kèm phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fMũ Kẽm'
+  name: 'Mũ Kẽm'
   type:
   - '&7&oGiáp'
 ZINC_LEGGINGS:
@@ -461,7 +461,7 @@ ZINC_LEGGINGS:
   - '&7Quần giáp của một bộ giáp ExtraGear.'
   - '&7Đi kèm sẵn phù phép bảo vệ tích hợp.'
   - '&7Được chế tạo trong &bLò rèn Giáp&7 từ thỏi kim loại của nó.'
-  name: '&fQuần giáp Kẽm'
+  name: 'Quần giáp Kẽm'
   type:
   - '&7&oGiáp'
 ZINC_SWORD:
@@ -469,6 +469,6 @@ ZINC_SWORD:
   - '&7Một thanh kiếm nhẹ, rẻ được rèn từ kim loại thường.'
   - '&7Đi kèm phù phép &bSắc bén&7 sẵn có để tăng'
   - '&7sát thương nhỏ nhưng đáng tin cậy so với lưỡi dao nguyên bản.'
-  name: '&rKiếm Kẽm'
+  name: 'Kiếm Kẽm'
   type:
   - '&7&oVũ Khí'

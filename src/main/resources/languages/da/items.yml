@@ -3,7 +3,7 @@ ALUMINUM_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fAluminiumsstøvler'
+  name: 'Aluminiumsstøvler'
   type:
   - '&7&oRustning'
 ALUMINUM_BRASS_SWORD:
@@ -11,7 +11,7 @@ ALUMINUM_BRASS_SWORD:
   - '&7En aluminiumsbaseret klinge bygget til skadedyrsbekæmpelse.'
   - '&7Bærer &bLeddyrs bane&7 og flænser sig gennem'
   - '&7edderkopper, sølvfisk og andre kryb med lethed.'
-  name: '&rAluminiumsmessingsværd'
+  name: 'Aluminiumsmessingsværd'
   type:
   - '&7&oVåben'
 ALUMINUM_BRONZE_SWORD:
@@ -19,7 +19,7 @@ ALUMINUM_BRONZE_SWORD:
   - '&7En aluminiumsbaseret klinge bygget til skadedyrsbekæmpelse.'
   - '&7Bærer &bLeddyrs bane&7 og flænser sig gennem'
   - '&7edderkopper, sølvfisk og andre kryb med lethed.'
-  name: '&rAluminiumsbronzesværd'
+  name: 'Aluminiumsbronzesværd'
   type:
   - '&7&oVåben'
 ALUMINUM_CHESTPLATE:
@@ -27,7 +27,7 @@ ALUMINUM_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fAluminiumsbrystplade'
+  name: 'Aluminiumsbrystplade'
   type:
   - '&7&oRustning'
 ALUMINUM_HELMET:
@@ -35,7 +35,7 @@ ALUMINUM_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fAluminiumshjelm'
+  name: 'Aluminiumshjelm'
   type:
   - '&7&oRustning'
 ALUMINUM_LEGGINGS:
@@ -43,7 +43,7 @@ ALUMINUM_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fAluminiumsbukser'
+  name: 'Aluminiumsbukser'
   type:
   - '&7&oRustning'
 ALUMINUM_SWORD:
@@ -51,7 +51,7 @@ ALUMINUM_SWORD:
   - '&7En aluminiumsbaseret klinge bygget til skadedyrsbekæmpelse.'
   - '&7Bærer &bLeddyrs bane&7 og flænser sig gennem'
   - '&7edderkopper, sølvfisk og andre kryb med lethed.'
-  name: '&rAluminiumssværd'
+  name: 'Aluminiumssværd'
   type:
   - '&7&oVåben'
 BILLON_SWORD:
@@ -59,7 +59,7 @@ BILLON_SWORD:
   - '&7Et solidt legeringssværd i mellemklassen.'
   - '&7Forfortryllet med &bSkarphed&7 og &bHoldbarhed&7,'
   - '&7der afvejer ekstra skade mod en længere levetid.'
-  name: '&rBillonsværd'
+  name: 'Billonsværd'
   type:
   - '&7&oVåben'
 BRASS_SWORD:
@@ -68,7 +68,7 @@ BRASS_SWORD:
   - '&7Bærer kraftfuld &bSmadr&7 plus &bHoldbarhed&7,'
   - '&7ødelæggende mod zombier, skeletter og wither-'
   - '&7skeletter i Nether.'
-  name: '&rMessingsværd'
+  name: 'Messingsværd'
   type:
   - '&7&oVåben'
 BRONZE_SWORD:
@@ -76,7 +76,7 @@ BRONZE_SWORD:
   - '&7Et solidt legeringssværd i mellemklassen.'
   - '&7Forfortryllet med &bSkarphed&7 og &bHoldbarhed&7,'
   - '&7der afvejer ekstra skade mod en længere levetid.'
-  name: '&rBronzesværd'
+  name: 'Bronzesværd'
   type:
   - '&7&oVåben'
 COBALT_BOOTS:
@@ -84,7 +84,7 @@ COBALT_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKoboltstøvler'
+  name: 'Koboltstøvler'
   type:
   - '&7&oRustning'
 COBALT_CHESTPLATE:
@@ -92,7 +92,7 @@ COBALT_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKoboltbrystplade'
+  name: 'Koboltbrystplade'
   type:
   - '&7&oRustning'
 COBALT_HELMET:
@@ -100,7 +100,7 @@ COBALT_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKobolthjelm'
+  name: 'Kobolthjelm'
   type:
   - '&7&oRustning'
 COBALT_LEGGINGS:
@@ -108,7 +108,7 @@ COBALT_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKoboltbukser'
+  name: 'Koboltbukser'
   type:
   - '&7&oRustning'
 COBALT_SWORD:
@@ -116,7 +116,7 @@ COBALT_SWORD:
   - '&7En klinge i topklasse smedet af en hærdet legering.'
   - '&7Bærer noget af den stærkeste &bSkarphed&7 og'
   - '&bHoldbarhed&7 i ExtraGear - et kraftcenter i slutspillet.'
-  name: '&rKoboltsværd'
+  name: 'Koboltsværd'
   type:
   - '&7&oVåben'
 COPPER_BOOTS:
@@ -124,7 +124,7 @@ COPPER_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKobberstøvler'
+  name: 'Kobberstøvler'
   type:
   - '&7&oRustning'
 COPPER_CHESTPLATE:
@@ -132,7 +132,7 @@ COPPER_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKobberbrystplade'
+  name: 'Kobberbrystplade'
   type:
   - '&7&oRustning'
 COPPER_HELMET:
@@ -140,7 +140,7 @@ COPPER_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKobberhjelm'
+  name: 'Kobberhjelm'
   type:
   - '&7&oRustning'
 COPPER_LEGGINGS:
@@ -148,7 +148,7 @@ COPPER_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fKobberbukser'
+  name: 'Kobberbukser'
   type:
   - '&7&oRustning'
 COPPER_SWORD:
@@ -156,7 +156,7 @@ COPPER_SWORD:
   - '&7En begynderklinge smedet af kobber.'
   - '&7Bærer &bSmadr II&7, hvilket gør det nyttigt til at rydde'
   - '&7tidlige udøde som zombier og skeletter af vejen.'
-  name: '&rKobbersværd'
+  name: 'Kobbersværd'
   type:
   - '&7&oVåben'
 CORINTHIAN_BRONZE_SWORD:
@@ -164,7 +164,7 @@ CORINTHIAN_BRONZE_SWORD:
   - '&7En tung, pålidelig legeringsklinge.'
   - '&7Kombinerer en stærk &bSkarphed&7-fortryllelse med'
   - '&bHoldbarhed&7 til vedvarende brug i kamp.'
-  name: '&rKorinthisk bronzesværd'
+  name: 'Korinthisk bronzesværd'
   type:
   - '&7&oVåben'
 DAMASCUS_STEEL_SWORD:
@@ -172,7 +172,7 @@ DAMASCUS_STEEL_SWORD:
   - '&7En mønstret klinge foldet af damaskusstål.'
   - '&7Bærer kraftig &bSkarphed&7 og &bHoldbarhed&7,'
   - '&7et ægte våben i den øverste klasse.'
-  name: '&rDamaskusstålsværd'
+  name: 'Damaskusstålsværd'
   type:
   - '&7&oVåben'
 DURALUMIN_SWORD:
@@ -180,7 +180,7 @@ DURALUMIN_SWORD:
   - '&7Et solidt legeringssværd i mellemklassen.'
   - '&7Forfortryllet med &bSkarphed&7 og &bHoldbarhed&7,'
   - '&7der afvejer ekstra skade mod en længere levetid.'
-  name: '&rDuraluminsværd'
+  name: 'Duraluminsværd'
   type:
   - '&7&oVåben'
 FERROSILICON_SWORD:
@@ -189,7 +189,7 @@ FERROSILICON_SWORD:
   - '&7Bærer kraftfuld &bSmadr&7 plus &bHoldbarhed&7,'
   - '&7ødelæggende mod zombier, skeletter og wither-'
   - '&7skeletter i Nether.'
-  name: '&rFerrosiliciumsværd'
+  name: 'Ferrosiliciumsværd'
   type:
   - '&7&oVåben'
 GILDED_IRON_SWORD:
@@ -197,7 +197,7 @@ GILDED_IRON_SWORD:
   - '&7En forgyldt klinge med en udsmykket gylden æg.'
   - '&7Bærer stærk &bLeddyrs bane&7 og høj'
   - '&bHoldbarhed&7 og holder langt længere, end guld burde.'
-  name: '&rForgyldt jernsværd'
+  name: 'Forgyldt jernsværd'
   type:
   - '&7&oVåben'
 HARDENED_SWORD:
@@ -205,7 +205,7 @@ HARDENED_SWORD:
   - '&7En klinge i topklasse smedet af en hærdet legering.'
   - '&7Bærer noget af den stærkeste &bSkarphed&7 og'
   - '&bHoldbarhed&7 i ExtraGear - et kraftcenter i slutspillet.'
-  name: '&rHærdet sværd'
+  name: 'Hærdet sværd'
   type:
   - '&7&oVåben'
 LEAD_BOOTS:
@@ -213,7 +213,7 @@ LEAD_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fBlystøvler'
+  name: 'Blystøvler'
   type:
   - '&7&oRustning'
 LEAD_CHESTPLATE:
@@ -221,7 +221,7 @@ LEAD_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fBlybrystplade'
+  name: 'Blybrystplade'
   type:
   - '&7&oRustning'
 LEAD_HELMET:
@@ -229,7 +229,7 @@ LEAD_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fBlyhjelm'
+  name: 'Blyhjelm'
   type:
   - '&7&oRustning'
 LEAD_LEGGINGS:
@@ -237,7 +237,7 @@ LEAD_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fBlybukser'
+  name: 'Blybukser'
   type:
   - '&7&oRustning'
 LEAD_SWORD:
@@ -245,7 +245,7 @@ LEAD_SWORD:
   - '&7En tung, pålidelig legeringsklinge.'
   - '&7Kombinerer en stærk &bSkarphed&7-fortryllelse med'
   - '&bHoldbarhed&7 til vedvarende brug i kamp.'
-  name: '&rBlysværd'
+  name: 'Blysværd'
   type:
   - '&7&oVåben'
 MAGNESIUM_BOOTS:
@@ -253,7 +253,7 @@ MAGNESIUM_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fMagnesiumstøvler'
+  name: 'Magnesiumstøvler'
   type:
   - '&7&oRustning'
 MAGNESIUM_CHESTPLATE:
@@ -261,7 +261,7 @@ MAGNESIUM_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fMagnesiumbrystplade'
+  name: 'Magnesiumbrystplade'
   type:
   - '&7&oRustning'
 MAGNESIUM_HELMET:
@@ -269,7 +269,7 @@ MAGNESIUM_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fMagnesiumhjelm'
+  name: 'Magnesiumhjelm'
   type:
   - '&7&oRustning'
 MAGNESIUM_LEGGINGS:
@@ -277,7 +277,7 @@ MAGNESIUM_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fMagnesiumbukser'
+  name: 'Magnesiumbukser'
   type:
   - '&7&oRustning'
 MAGNESIUM_SWORD:
@@ -285,7 +285,7 @@ MAGNESIUM_SWORD:
   - '&7Et solidt legeringssværd i mellemklassen.'
   - '&7Forfortryllet med &bSkarphed&7 og &bHoldbarhed&7,'
   - '&7der afvejer ekstra skade mod en længere levetid.'
-  name: '&rMagnesiumsværd'
+  name: 'Magnesiumsværd'
   type:
   - '&7&oVåben'
 NICKEL_SWORD:
@@ -293,7 +293,7 @@ NICKEL_SWORD:
   - '&7En tung, pålidelig legeringsklinge.'
   - '&7Kombinerer en stærk &bSkarphed&7-fortryllelse med'
   - '&bHoldbarhed&7 til vedvarende brug i kamp.'
-  name: '&rNikkelsværd'
+  name: 'Nikkelsværd'
   type:
   - '&7&oVåben'
 REINFORCED_SWORD:
@@ -301,7 +301,7 @@ REINFORCED_SWORD:
   - '&7En klinge i topklasse smedet af en hærdet legering.'
   - '&7Bærer noget af den stærkeste &bSkarphed&7 og'
   - '&bHoldbarhed&7 i ExtraGear - et kraftcenter i slutspillet.'
-  name: '&rForstærket sværd'
+  name: 'Forstærket sværd'
   type:
   - '&7&oVåben'
 SILVER_BOOTS:
@@ -309,7 +309,7 @@ SILVER_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fSølvstøvler'
+  name: 'Sølvstøvler'
   type:
   - '&7&oRustning'
 SILVER_CHESTPLATE:
@@ -317,7 +317,7 @@ SILVER_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fSølvbrystplade'
+  name: 'Sølvbrystplade'
   type:
   - '&7&oRustning'
 SILVER_HELMET:
@@ -325,7 +325,7 @@ SILVER_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fSølvhjelm'
+  name: 'Sølvhjelm'
   type:
   - '&7&oRustning'
 SILVER_LEGGINGS:
@@ -333,7 +333,7 @@ SILVER_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fSølvbukser'
+  name: 'Sølvbukser'
   type:
   - '&7&oRustning'
 SILVER_SWORD:
@@ -341,7 +341,7 @@ SILVER_SWORD:
   - '&7Et let, billigt sværd smedet af et uædelt metal.'
   - '&7Kommer forfortryllet med &bSkarphed&7 for et lille,'
   - '&7men pålideligt skadesløft i forhold til en vanilla-klinge.'
-  name: '&rSølvsværd'
+  name: 'Sølvsværd'
   type:
   - '&7&oVåben'
 SOLDER_SWORD:
@@ -349,7 +349,7 @@ SOLDER_SWORD:
   - '&7Et solidt legeringssværd i mellemklassen.'
   - '&7Forfortryllet med &bSkarphed&7 og &bHoldbarhed&7,'
   - '&7der afvejer ekstra skade mod en længere levetid.'
-  name: '&rLoddetinsværd'
+  name: 'Loddetinsværd'
   type:
   - '&7&oVåben'
 STEEL_BOOTS:
@@ -357,7 +357,7 @@ STEEL_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fStålstøvler'
+  name: 'Stålstøvler'
   type:
   - '&7&oRustning'
 STEEL_CHESTPLATE:
@@ -365,7 +365,7 @@ STEEL_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fStålbrystplade'
+  name: 'Stålbrystplade'
   type:
   - '&7&oRustning'
 STEEL_HELMET:
@@ -373,7 +373,7 @@ STEEL_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fStålhjelm'
+  name: 'Stålhjelm'
   type:
   - '&7&oRustning'
 STEEL_LEGGINGS:
@@ -381,7 +381,7 @@ STEEL_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fStålbukser'
+  name: 'Stålbukser'
   type:
   - '&7&oRustning'
 STEEL_SWORD:
@@ -389,7 +389,7 @@ STEEL_SWORD:
   - '&7En tung, pålidelig legeringsklinge.'
   - '&7Kombinerer en stærk &bSkarphed&7-fortryllelse med'
   - '&bHoldbarhed&7 til vedvarende brug i kamp.'
-  name: '&rStålsværd'
+  name: 'Stålsværd'
   type:
   - '&7&oVåben'
 TIN_BOOTS:
@@ -397,7 +397,7 @@ TIN_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fTinstøvler'
+  name: 'Tinstøvler'
   type:
   - '&7&oRustning'
 TIN_CHESTPLATE:
@@ -405,7 +405,7 @@ TIN_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fTinbrystplade'
+  name: 'Tinbrystplade'
   type:
   - '&7&oRustning'
 TIN_HELMET:
@@ -413,7 +413,7 @@ TIN_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fTinhjelm'
+  name: 'Tinhjelm'
   type:
   - '&7&oRustning'
 TIN_LEGGINGS:
@@ -421,7 +421,7 @@ TIN_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fTinbukser'
+  name: 'Tinbukser'
   type:
   - '&7&oRustning'
 TIN_SWORD:
@@ -429,7 +429,7 @@ TIN_SWORD:
   - '&7Et let, billigt sværd smedet af et uædelt metal.'
   - '&7Kommer forfortryllet med &bSkarphed&7 for et lille,'
   - '&7men pålideligt skadesløft i forhold til en vanilla-klinge.'
-  name: '&rTinsværd'
+  name: 'Tinsværd'
   type:
   - '&7&oVåben'
 ZINC_BOOTS:
@@ -437,7 +437,7 @@ ZINC_BOOTS:
   - '&7Støvlerne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fZinkstøvler'
+  name: 'Zinkstøvler'
   type:
   - '&7&oRustning'
 ZINC_CHESTPLATE:
@@ -445,7 +445,7 @@ ZINC_CHESTPLATE:
   - '&7Brystpladen fra et ExtraGear-rustningssæt - det'
   - '&7mest beskyttende stykke i sættet.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fZinkbrystplade'
+  name: 'Zinkbrystplade'
   type:
   - '&7&oRustning'
 ZINC_HELMET:
@@ -453,7 +453,7 @@ ZINC_HELMET:
   - '&7Hjelmen fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fZinkhjelm'
+  name: 'Zinkhjelm'
   type:
   - '&7&oRustning'
 ZINC_LEGGINGS:
@@ -461,7 +461,7 @@ ZINC_LEGGINGS:
   - '&7Bukserne fra et ExtraGear-rustningssæt.'
   - '&7Kommer med indbyggede beskyttelsesfortryllelser.'
   - '&7Fremstillet i &bRustningssmedjen&7 af dens metalbarrer.'
-  name: '&fZinkbukser'
+  name: 'Zinkbukser'
   type:
   - '&7&oRustning'
 ZINC_SWORD:
@@ -469,6 +469,6 @@ ZINC_SWORD:
   - '&7Et let, billigt sværd smedet af et uædelt metal.'
   - '&7Kommer forfortryllet med &bSkarphed&7 for et lille,'
   - '&7men pålideligt skadesløft i forhold til en vanilla-klinge.'
-  name: '&rZinksværd'
+  name: 'Zinksværd'
   type:
   - '&7&oVåben'
